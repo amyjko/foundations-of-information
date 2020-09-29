@@ -1,0 +1,2 @@
+Adapt: https://docs.google.com/presentation/d/17Sh0TlXd0_KgFStN3pVcU1BMVenn3cs3QFCHcJb0SjY/edit?usp=sharing
+Adapt: https://docs.google.com/presentation/d/1cGCULnWk2sV83fKNpXuX43oH7H2MDUaSo4BUWp1pmw8/edit?usp=sharing
