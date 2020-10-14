@@ -1,91 +1,115 @@
 {
         "title": "Foundations of Information",
         "authors": ["[Amy J. Ko, Ph.D.|https://faculty.washington.edu/ajko/]"],
-        "contributors": null,
         "license": "[Creative Commons Attribution-NoDeriviatives 4.0|https://creativecommons.org/licenses/by-nd/4.0/]",
-        "cover": ["cover.jpg", "Nothing yet", "Amy J. Ko"],
-        "unknown": ["error.gif", "An animated gif of television noise.", "Uh oh, something went wrong.", "Blackworker (GIFER)"],
+        "cover": "|error.gif|An animated gif of television noise.|No image yet.|Blackworker (GIFER)|",
+        "unknown": "|error.gif|An animated gif of television noise.|Uh oh, something went wrong.|Blackworker (GIFER)|",
         "description": "For several years, I've taught an introductory course on the intellectual foundations of information. I've written this book as a gateway into the topics of the course, providing a broad overview of major topics in information, and links into the deeper research and popular literature.\n\nI hope you enjoy! If not, please file an [issue|https://github.com/amyjko/foundations-of-information/issues/new] on the [the book's GitHub repository|https://github.com/amyjko/foundations-of-information].",
+        "revisions": [
+                ["January 2021", "Initial draft."]
+        ],
         "chapters": [
-                [
-                        "Powers of information",
-                        "powers"
-                ],
-                [
-                        "Perils of information",
-                        "perils"
-                ],
-                [
-                        "Information systems",
-                        "systems"
-                ],
-                [
-                        "Information technology",
-                        "technology"
-                ],
-                [
-                        "Creating information",
-                        "creating"
-                ],
-                [
-                        "Modeling information",
-                        "data"
-                ],
-                [
-                        "Organizing information",
-                        "metadata"
-                ],
-                [
-                        "Computing information",
-                        "automation"
-                ],
-                [
-                        "Seeking information",
-                        "seeking"
-                ],
-                [
-                        "Hiding information",
-                        "privacy"
-                ],
-                [
-                        "Securing information",
-                        "security"
-                ],
-                [
-                        "Regulating information",
-                        "policy"
-                ],
-                [
-                        "Designing information",
-                        "design"
-                ],
-                [
-                        "Accessing information",
-                        "interfaces"
-                ],
-                [
-                        "Presenting information",
-                        "visualization"
-                ],
-                [
-                        "Social information",
-                        "social"
-                ],
-                [
-                        "Health information",
-                        "health"
-                ],
-                [
-                        "Civic information",
-                        "democracy"
-                ],
-                [
-                        "Sustainability information",
-                        "sustainability"
-                ],
-                [
-                        "Information careers",
-                        "careers"
-                ]
-        ]
+                {
+                        "title": "The power of information",
+                        "id": "powers",
+                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                },
+                {
+                        "title": "The perils of information",
+                        "id": "perils",
+                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                },
+                {
+                        "title": "Creating information",
+                        "id": "creating",
+                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                },
+                {
+                        "title": "Seeking information",
+                        "id": "seeking",
+                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                },
+                {
+                        "title": "Information systems",
+                        "id": "systems",
+                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                },
+                {
+                        "title": "Information technology",
+                        "id": "technology",
+                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                },
+                {
+                        "title": "Modeling information",
+                        "id": "data",
+                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                },
+                {
+                        "title": "Organizing information",
+                        "id": "metadata",
+                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                },
+                {
+                        "title": "Accessing information",
+                        "id": "interfaces",
+                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                },
+                {
+                        "title": "Presenting information",
+                        "id": "visualization",
+                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                },
+                {
+                        "title": "Hiding information",
+                        "id": "privacy",
+                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                },
+                {
+                        "title": "Securing information",
+                        "id": "security",
+                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                },
+                {
+                        "title": "Regulating information",
+                        "id": "policy",
+                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                },
+                {
+                        "title": "Designing information",
+                        "id": "design",
+                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                },
+                {
+                        "title": "Social information",
+                        "id": "social",
+                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                },
+                {
+                        "title": "Computing information",
+                        "id": "automation",
+                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                },
+                {
+                        "title": "Health information",
+                        "id": "health",
+                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                },
+                {
+                        "title": "Civic information",
+                        "id": "democracy",
+                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                },
+                {
+                        "title": "Sustainability information",
+                        "id": "sustainability",
+                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                },
+                {
+                        "title": "Information careers",
+                        "id": "careers",
+                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                }
+        ],
+        "sources": {},
+        "references": {}
 }
