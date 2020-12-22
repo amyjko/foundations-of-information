@@ -12,12 +12,12 @@
                 {
                         "title": "The power of information",
                         "id": "power",
-                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                        "image": "|Newspapers.jpg|A black and white white photograph of a row of men reading newspapers on the sidewalk|People are informavores, hungry for information.|Unknown|"
                 },
                 {
                         "title": "The peril of information",
                         "id": "peril",
-                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                        "image": "|Trump.jpg|A photograph of a newspaper with Trump's mouth torn out.|Not all information is good information.|Charles Deluvio|"
                 },
                 {
                         "title": "Information, knowledge, and wisdom",
@@ -101,5 +101,48 @@
                 }
         ],
         "sources": {},
-        "references": {}
+        "references": {
+                "collins90": [
+                        "Patricia Collins",
+                        1990,
+                        "Black feminist thought: Knowledge, consciousness, and the politics of empowerment",
+                        "Routeledge"
+                ],
+                "janes17": [
+                        "Joseph Janes",
+                        2017,
+                        "Documents That Changed the Way We Live",
+                        "Rowman & Littlefield"
+                ],
+                "mcluhan64": [
+                        "Marshall McLuhan",
+                        1964,
+                        "Understanding Media",
+                        "Routledge, London"
+                ],
+                "miller83": [
+                        "George A. Miller",
+                        1983,
+                        "Informavores",
+                        "The Study of Information: Interdisciplinary Messages"
+                ],
+                "samaha16": [
+                        "Samaha, M., & Hawi, N. S.",
+                        2016,
+                        "Relationships among smartphone addiction, stress, academic performance, and satisfaction with life",
+                        "Computers in Human Behavior"
+                ],
+                "scheibehenne10": [
+                        "Benjamin Scheibehenne, Rainer Greifender, Peter M. Todd",
+                        2010,
+                        "Can There Ever Be Too Many Options? A Meta‐Analytic Review of Choice Overload",
+                        "Journal of Consumer Research"
+                ],
+                "turkle11": [
+                        "Sherry Turkle",
+                        2011,
+                        "Alone together: Why we expect more from technology and less from ourselves",
+                        "MIT Press"
+                ]
+        }
 }
