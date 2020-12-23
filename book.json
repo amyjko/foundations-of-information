@@ -121,6 +121,13 @@
                         "Black feminist thought: Knowledge, consciousness, and the politics of empowerment",
                         "Routeledge"
                 ],
+                "edling03": [
+                        "Max Edling",
+                        2003,
+                        "A Revolution in Favor of Government: Origin of the U.S. Constitution and the Making of the American State",
+                        "OUP USA",
+                        "https://www.google.com/books/edition/A_Revolution_in_Favor_of_Government/RKw_6w4psdkC?hl=en"
+                ],
                 "gleick11": [
                         "James Gleick",
                         2011,
@@ -131,7 +138,8 @@
                         "Joseph Janes",
                         2017,
                         "Documents That Changed the Way We Live",
-                        "Rowman & Littlefield"
+                        "Rowman & Littlefield",
+                        "https://www.google.com/books/edition/Documents_That_Changed_the_Way_We_Live/a6-zDgAAQBAJ?hl=en&gbpv=0"
                 ],
                 "lerner15": [
                         "Jennifer Lerner",
@@ -142,8 +150,9 @@
                 "mcluhan64": [
                         "Marshall McLuhan",
                         1964,
-                        "Understanding Media",
-                        "Routledge, London"
+                        "Understanding Media: The Extensions of Man",
+                        "Routledge, London",
+                        "https://www.google.com/books/edition/Understanding_Media/TcsSvgAACAAJ?hl=en"
                 ],
                 "meadow97": [
                         "Charles Meadow, Weijing Yuan",
@@ -163,7 +172,22 @@
                         "George A. Miller",
                         1983,
                         "Informavores",
-                        "The Study of Information: Interdisciplinary Messages"
+                        "The Study of Information: Interdisciplinary Messages",
+                        "https://www.google.com/books/edition/The_Study_of_Information/JwpUAAAAMAAJ?hl=en"
+                ],
+                "moyer82": [
+                        "Gordon Moyer",
+                        1982,
+                        "The Gregorian Calendar",
+                        "Scientific American",
+                        "https://www.jstor.org/stable/10.2307/24966597"
+                ],
+                "pham15": [
+                        "Vincent N. Pham",
+                        2015,
+                        "Our foreign president Barack Obama: The racial logics of birther discourses",
+                        "Journal of International and Intercultural Communication",
+                        "https://doi.org/10.1080/17513057.2015.1025327"
                 ],
                 "rowley07": [
                         "Jennifer Rowley",
@@ -196,6 +220,13 @@
                         1978, 
                         "Information-processing theory of human problem solving",
                         "Handbook of learning and cognitive processes"
+                ],
+                "sundquist09": [
+                        "Eric J. Sundquist",
+                        2009,
+                        "King's Dream",
+                        "Yale University Press",
+                        "https://www.google.com/books/edition/King_s_Dream/uinGXcRLlewC?hl=en"
                 ],
                 "turkle11": [
                         "Sherry Turkle",
