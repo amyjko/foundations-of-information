@@ -42,13 +42,15 @@ The nuance, variety, and inconsistency of all of these ideas bothered some schol
 
 * *Knowledge*, in contrast to information, is the accumulation of of information received by a particular entity. The authors do not get into whether that entity must be human--can cats have knowledge, or even single-cell organisms, or even non-living artifacts--but this idea is enough to distinguish information from knowledge.
 
-Some scholars have extended this framework to also include *wisdom*<rowley07>, suggesting that wisdom is somehow constructed out of knowledge, and gets at underlying questions of "why is" and "why do"<zeleny05>.
+Some scholars have extended this framework to also include *wisdom*<rowley07>, suggesting that wisdom is somehow constructed out of knowledge, and concerns at underlying questions of "why is" and "why do"<zeleny05>. Others have argued that this extension is unnecessary, as those are just other forms of knowledge. With or without wisdom, most scholars have settled on these three concepts broadly, with continued debate about their nuances.
 
 |Context.jpg|A photograph of a field with a gazelle in the back and a giraffe in the front, blurred|Context conveys meaning to information.|[Avel Chuklanov|https://unsplash.com/photos/e_d7chF_DHo?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink]|
 
-# Missing Context
+# Emotion and Context
 
 These many works that attempt to define information largely stem from mathematical, statistical, and organizational traditions, and have sought formal, abstract definitions amenable for science, technology, and engineering. However, other perspectives on information challenge these ideas, or at least complicate simplistic notions of "messages" and "recipients". For example, consider the work of behavioral economists<lerner15>, which has found that people do not simply receive and interpret information and translate it into knowledge. Instead, *emotions* interact with and mediate our interpret of information, strongly shaping our knowledge and decisions. This suggests that information, far from being an objective process of receiving and interpreting data, is partly a subjective emotional process, shaped by the many emotional and cognitive biases that humans find hard to overcome.
+
+An example of such bias is *confirmation bias*<nickerson98>, which is the tendency for people to look for, interpret, and remember information in way that supports their prior beliefs and their values. This bias is often unconscious, and leads people to ignore or discount information that might change their beliefs, and interpret ambiguous information in ways that supports their beliefs. Especially for matters that are emotionally charged, confirmation bias can be amplified in social media, where it is not simply the person curating what information they attend to and how they interpret it, but also algorithms. If information is indeed a process of interpreting information, then it is an inherently biased one.
 
 A second aspect of information often overlooked by technical definitions of information is *context*. This idea of context is implied in Bateson's notion of difference, Buckland's notion of information being a _thing_ in a context, and implicit in Meadow and Yuan's formulation in the recipient's perception of information. But in all of these definitions, and in the work on the role of emotions in decisions, context appears to play a powerful role in shaping what information means, perhaps even more powerful than whatever data is encoded. For example, in 1945, novelist and cultural critical Michael Ventura, said:
 
@@ -64,7 +66,7 @@ To illustrate his point, consider, for example, this sequence of statements, whi
 * The war was a game called _Call of Duty Black Ops: Cold War_
 * The game was designed by Treyarch and Raven Software
 
-The first statement is still true, but each of the other pieces of information fundamentally changed your perception of the meaning of the prior statements. Even simple examples like this demonstrate that while we may be able to objectively encode messages with symbols, and transmit them reliably, these mathematical notions of information fail to account for the meaning of information, and how it can change in the presence of our emotions and other information that arrives later. Defining information simply as data perceived and understood is therefore overly reductive, hiding the complexity of that perception and understanding.
+The first statement is still true, but each of the other pieces of information fundamentally changed your perception of the meaning of the prior statements. Even simple examples like this demonstrate that while we may be able to objectively encode messages with symbols, and transmit them reliably, these mathematical notions of information fail to account for the meaning of information, and how it can change in the presence of our emotions and other information that arrives later. Defining information simply as data perceived and understood is therefore overly reductive, hiding the complexity of human perception, cognition, and identity.
 
 It also hides the complexity of context. Consider, for example, the many kinds of context that can shape the meaning of information:
 
