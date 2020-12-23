@@ -20,12 +20,12 @@
                         "image": "|Trump.jpg|A photograph of a newspaper with Trump's mouth torn out.|Not all information is good information.|Charles Deluvio|"
                 },
                 {
-                        "title": "Information, knowledge, and wisdom",
+                        "title": "Data, information, knowledge",
                         "id": "information",
-                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                        "image": "|Books.jpg|A photograph of a wall of thousands of dusty old books.|Is this a wall of books, data, information, or knowledge?|[Alfons Morales|https://unsplash.com/photos/YLSwjSy7stw]|"
                 },
                 {
-                        "title": "Data and metadata",
+                        "title": "Encoding and metadata",
                         "id": "data",
                         "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
                 },
@@ -102,11 +102,30 @@
         ],
         "sources": {},
         "references": {
+                "bateson70": [
+                        "Gregory Bateson",
+                        1970,
+                        "Form, substance and difference",
+                        "Essential Readings in Biosemiotics"
+                ],
+                "buckland91": [
+                        "Michael K. Buckland",
+                        1991,
+                        "Information as thing",
+                        "Journal of the American Society for information Science",
+                        "http://ppggoc.eci.ufmg.br/downloads/bibliografia/Buckland1991.pdf"
+                ],
                 "collins90": [
                         "Patricia Collins",
                         1990,
                         "Black feminist thought: Knowledge, consciousness, and the politics of empowerment",
                         "Routeledge"
+                ],
+                "gleick11": [
+                        "James Gleick",
+                        2011,
+                        "The information: A history, a theory, a flood",
+                        "Vintage Books"
                 ],
                 "janes17": [
                         "Joseph Janes",
@@ -114,17 +133,37 @@
                         "Documents That Changed the Way We Live",
                         "Rowman & Littlefield"
                 ],
+                "lerner15": [
+                        "Jennifer Lerner",
+                        2015,
+                        "Emotion and decision making",
+                        "Annual Review of Psychology"
+                ],
                 "mcluhan64": [
                         "Marshall McLuhan",
                         1964,
                         "Understanding Media",
                         "Routledge, London"
                 ],
+                "meadow97": [
+                        "Charles Meadow, Weijing Yuan",
+                        1997,
+                        "Measuring the impact of information: defining the concepts",
+                        "Information Processing & Management",
+                        "https://doi-org.offcampus.lib.washington.edu/10.1016/S0306-4573(97)00042-3"
+                ],
                 "miller83": [
                         "George A. Miller",
                         1983,
                         "Informavores",
                         "The Study of Information: Interdisciplinary Messages"
+                ],
+                "rowley07": [
+                        "Jennifer Rowley",
+                        2007,
+                        "The wisdom hierarchy: representations of the DIKW hierarchy",
+                        "Journal of Information and Communication",
+                        "https://doi.org/10.1177%2F0165551506070706"
                 ],
                 "samaha16": [
                         "Samaha, M., & Hawi, N. S.",
@@ -138,11 +177,30 @@
                         "Can There Ever Be Too Many Options? A Meta‐Analytic Review of Choice Overload",
                         "Journal of Consumer Research"
                 ],
+                "shannon48": [
+                        "Claude E. Shannon",
+                        1948,
+                        "A mathematical theory of communication",
+                        "The Bell System Technical Journal",
+                        "https://doi.org/10.1002/j.1538-7305.1948.tb01338.x"
+                ],
+                "simon78": [
+                        "Herb A. Simon",
+                        1978, 
+                        "Information-processing theory of human problem solving",
+                        "Handbook of learning and cognitive processes"
+                ],
                 "turkle11": [
                         "Sherry Turkle",
                         2011,
                         "Alone together: Why we expect more from technology and less from ourselves",
                         "MIT Press"
+                ],
+                "zeleny05": [
+                        "Milan Zeleny",
+                        2005,
+                        "Human Systems Management: Integrating Knowledge, Management and Systems",
+                        "World Scientific"
                 ]
         }
 }
