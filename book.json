@@ -106,7 +106,8 @@
                         "Gregory Bateson",
                         1970,
                         "Form, substance and difference",
-                        "Essential Readings in Biosemiotics"
+                        "Essential Readings in Biosemiotics",
+                        "https://www.jstor.org/stable/4147987"
                 ],
                 "buckland91": [
                         "Michael K. Buckland",
@@ -145,7 +146,8 @@
                         "Jennifer Lerner",
                         2015,
                         "Emotion and decision making",
-                        "Annual Review of Psychology"
+                        "Annual Review of Psychology",
+                        "https://doi.org/10.1146/annurev-psych-010213-115043"
                 ],
                 "mcluhan64": [
                         "Marshall McLuhan",
@@ -238,7 +240,8 @@
                         "Milan Zeleny",
                         2005,
                         "Human Systems Management: Integrating Knowledge, Management and Systems",
-                        "World Scientific"
+                        "World Scientific",
+                        "https://www.google.com/books/edition/Human_Systems_Management/CHVqDQAAQBAJ?hl=en"
                 ]
         }
 }
