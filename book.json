@@ -32,7 +32,7 @@
                 {
                         "title": "Information technology",
                         "id": "technology",
-                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                        "image": "|Apple IIe.jpg|A photograph of a person staring at an Apple II green display.|Modern information technology comes in the form of beige boxes.|[kevgordon|https://www.youtube.com/watch?v=BEDVjg5y0Hg]|"
                 },
                 {
                         "title": "Information systems",
@@ -116,6 +116,13 @@
                         "Journal of the American Society for information Science",
                         "http://ppggoc.eci.ufmg.br/downloads/bibliografia/Buckland1991.pdf"
                 ],
+                "bush45": [
+                        "Vannevar Bush",
+                        1945,
+                        "As we may think",
+                        "The atlantic monthly",
+                        "https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/"
+                ],
                 "collins90": [
                         "Patricia Collins",
                         1990,
@@ -129,6 +136,13 @@
                         "OUP USA",
                         "https://www.google.com/books/edition/A_Revolution_in_Favor_of_Government/RKw_6w4psdkC?hl=en"
                 ],
+                "eubanks18": [
+                        "Virginia Eubanks",
+                        2018,
+                        "Automating inequality: How high-tech tools profile, police, and punish the poor",
+                        "St. Martin's Press",
+                        "https://www.google.com/books/edition/Automating_Inequality/pn4pDwAAQBAJ?hl=en"
+                ],
                 "gleick11": [
                         "James Gleick",
                         2011,
@@ -141,6 +155,13 @@
                         "Documents That Changed the Way We Live",
                         "Rowman & Littlefield",
                         "https://www.google.com/books/edition/Documents_That_Changed_the_Way_We_Live/a6-zDgAAQBAJ?hl=en&gbpv=0"
+                ],
+                "kline85": [
+                        "Stephen J. Kline",
+                        1985,
+                        "What is technology?",
+                        "Bulletin of Science, Technology & Society",
+                        "https://doi.org/10.1177%2F027046768500500301"
                 ],
                 "lerner15": [
                         "Jennifer Lerner",
@@ -163,6 +184,13 @@
                         "Information Processing & Management",
                         "https://doi-org.offcampus.lib.washington.edu/10.1016/S0306-4573(97)00042-3"
                 ],
+                "miyagawa18": [
+                        "Shigeru Miyagawa, Cora Lesure, Vitor A. Nóbrega",
+                         2018,
+                         "Cross-modality information transfer: a hypothesis about the relationship among prehistoric cave paintings, symbolic thinking, and the emergence of language",
+                         "Frontiers in Psychology",
+                         "https://doi.org/10.3389/fpsyg.2018.00115"
+                ],
                 "nickerson98": [
                         "Raymond Nickerson",
                         1998,
@@ -184,12 +212,33 @@
                         "Scientific American",
                         "https://www.jstor.org/stable/10.2307/24966597"
                 ],
+                "noble18": [
+                        "Safiya Noble",
+                        2018,
+                        "Algorithms of oppression: How search engines reinforce racism",
+                        "NYU Press",
+                        "https://www.google.com/books/edition/Algorithms_of_Oppression/-ThDDwAAQBAJ?hl=en"
+                ],
                 "pham15": [
                         "Vincent N. Pham",
                         2015,
                         "Our foreign president Barack Obama: The racial logics of birther discourses",
                         "Journal of International and Intercultural Communication",
                         "https://doi.org/10.1080/17513057.2015.1025327"
+                ],
+                "plato72": [
+                        "Plato",
+                        -370,
+                        "Phaesrus",
+                        "Cambridge University Press",
+                        "https://www.google.com/books/edition/Plato_Phaedrus/N6HRTHXlrE0C?hl=en"
+                ],
+                "rousseau12": [
+                        "Jean-Jacques Rousseau, John H. Moran, Johann Gottfried Herder, Alexander Gode",
+                        2012,
+                        "On the Origin of Language",
+                        "University of Chicago Press",
+                        "https://www.google.com/books/edition/On_the_Origin_of_Language/596NDwAAQBAJ?hl=en"
                 ],
                 "rowley07": [
                         "Jennifer Rowley",
@@ -229,6 +278,13 @@
                         "King's Dream",
                         "Yale University Press",
                         "https://www.google.com/books/edition/King_s_Dream/uinGXcRLlewC?hl=en"
+                ],
+                "toyama15": [
+                        "Kentaro Toyama",
+                        2015,
+                        "Geek heresy: Rescuing social change from the cult of technology",
+                        "PublicAffairs",
+                        "https://www.google.com/books/edition/Geek_Heresy/2w6CBgAAQBAJ?hl=en"      
                 ],
                 "turkle11": [
                         "Sherry Turkle",
