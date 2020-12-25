@@ -109,6 +109,20 @@
                         "Essential Readings in Biosemiotics",
                         "https://www.jstor.org/stable/4147987"
                 ],
+                "benjamin19": [
+                        "Ruha Benjamin",
+                        2019,
+                        "Race after technology: Abolitionist tools for the new jim code",
+                        "Social Forces",
+                        "https://doi.org/10.1093/sf/soz162"
+                ],
+                "bock94": [
+                        "Kathryn Bock, Willem Levelt",
+                        1994,
+                        "Language production: Grammatical encoding",
+                        "Academic Press",
+                        "https://pure.mpg.de/rest/items/item_61347/component/file_262298/content"
+                ],
                 "buckland91": [
                         "Michael K. Buckland",
                         1991,
@@ -122,6 +136,13 @@
                         "As we may think",
                         "The atlantic monthly",
                         "https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/"
+                ],
+                "coe03": [
+                        "Lewis Coe",
+                        2003,
+                        "The telegraph: A history of Morse's invention and its predecessors in the United States",
+                        "McFarland",
+                        "https://www.google.com/books/edition/The_Telegraph/pzkZPIXm89UC?hl=en&gbpv=0"
                 ],
                 "collins90": [
                         "Patricia Collins",
@@ -143,12 +164,26 @@
                         "St. Martin's Press",
                         "https://www.google.com/books/edition/Automating_Inequality/pn4pDwAAQBAJ?hl=en"
                 ],
+                "gasser00": [
+                        "James Gasser",
+                        2000,
+                        "A Boole anthology: recent and classical studies in the logic of George Boole",
+                        "Springer Science & Business Media",
+                        "https://www.google.com/books/edition/A_Boole_Anthology/A2Q5Yghl000C?hl=en&gbpv=0"
+                ],
                 "gleick11": [
                         "James Gleick",
                         2011,
                         "The information: A history, a theory, a flood",
                         "Vintage Books",
                         "https://www.google.com/books/edition/The_Information/617JSFW0D2kC?hl=en"
+                ],
+                "hotho06": [
+                        "Andreas Hotho, Robert Jäschke, Christoph Schmitz, Gerd Stumme",
+                        2006, 
+                        "Information retrieval in folksonomies: Search and ranking",
+                        "European Semantic Web Conference",
+                        "https://link.springer.com/chapter/10.1007/11762256_31"
                 ],
                 "janes17": [
                         "Joseph Janes",
@@ -164,12 +199,25 @@
                         "Bulletin of Science, Technology & Society",
                         "https://doi.org/10.1177%2F027046768500500301"
                 ],
+                "korpela06": [
+                        "Jukka K. Korpela",
+                        2006,
+                        "Unicode explained",
+                        "O'Reilly Media, Inc.",
+                        "https://www.google.com/books/edition/Unicode_Explained/lxndiWaFMvMC?hl=en&gbpv=0"
+                ],
                 "lerner15": [
                         "Jennifer Lerner",
                         2015,
                         "Emotion and decision making",
                         "Annual Review of Psychology",
                         "https://doi.org/10.1146/annurev-psych-010213-115043"
+                ],
+                "mackenzie80": [
+                        "C.E. Mackenzie",
+                        1980,
+                        "Coded-Character Sets: History and Development",
+                        "Addison-Wesley Longman Publishing"
                 ],
                 "mcluhan64": [
                         "Marshall McLuhan",
@@ -191,6 +239,13 @@
                          "Cross-modality information transfer: a hypothesis about the relationship among prehistoric cave paintings, symbolic thinking, and the emergence of language",
                          "Frontiers in Psychology",
                          "https://doi.org/10.3389/fpsyg.2018.00115"
+                ],
+                "riordan04": [
+                        "M. Riordan",
+                        2004,
+                        "The lost history of the transistor",
+                        "IEEE spectrum",
+                        "https://doi.org/10.1109/MSPEC.2004.1296014"
                 ],
                 "nickerson98": [
                         "Raymond Nickerson",
@@ -254,6 +309,13 @@
                         "Relationships among smartphone addiction, stress, academic performance, and satisfaction with life",
                         "Computers in Human Behavior"
                 ],
+                "schatz10": [
+                        "Michael C. Schatz, Ben Langmead, Steven L. Salzberg",
+                        2010,
+                        "Cloud computing and the DNA data race",
+                        "Nature Biotechnology",
+                        "https://doi.org/10.1038/nbt0710-691"
+                ],
                 "scheibehenne10": [
                         "Benjamin Scheibehenne, Rainer Greifender, Peter M. Todd",
                         2010,
@@ -272,6 +334,13 @@
                         1978, 
                         "Information-processing theory of human problem solving",
                         "Handbook of learning and cognitive processes"
+                ],
+                "stokes07": [
+                        "Jon Stokes",
+                        2007,
+                        "Inside the Machine: An Illustrated Introduction to Microprocessors and Computer Architecture",
+                        "No Starch Press",
+                        "https://www.google.com/books/edition/Inside_the_Machine/Q1zSIarI8xoC?hl=en&gbpv=0"
                 ],
                 "sundquist09": [
                         "Eric J. Sundquist",
@@ -299,6 +368,13 @@
                         "Human Systems Management: Integrating Knowledge, Management and Systems",
                         "World Scientific",
                         "https://www.google.com/books/edition/Human_Systems_Management/CHVqDQAAQBAJ?hl=en"
+                ],
+                "zeng08": [
+                        "Marcia Lei Zeng",
+                        2008,
+                        "Metadata",
+                        "Neal-Schuman Publishers",
+                        "https://dl.acm.org/doi/book/10.5555/1481677"
                 ]
         }
 }
