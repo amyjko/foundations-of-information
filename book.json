@@ -37,7 +37,7 @@
                 {
                         "title": "Information systems",
                         "id": "systems",
-                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                        "image": "|AOL.jpg|A screenshot of AOL showing a collection of stories, instant messanging, email, and more.|An early information system on the Internet known as AOL.|Unknown|"
                 },
                 {
                         "title": "Information seeking",
@@ -130,6 +130,13 @@
                         "Journal of the American Society for information Science",
                         "http://ppggoc.eci.ufmg.br/downloads/bibliografia/Buckland1991.pdf"
                 ],
+                "buckland91b": [
+                        "Michael K. Buckland",
+                        1991,
+                        "Information and information systems",
+                        "ABC-CLIO",
+                        "https://www.google.com/books/edition/Information_and_information_systems/xOqaFMA9Kh4C?hl=en"
+                ],
                 "bush45": [
                         "Vannevar Bush",
                         1945,
@@ -151,12 +158,26 @@
                         "Routeledge",
                         "https://www.google.com/books/edition/Black_Feminist_Thought/WMGTAgAAQBAJ?hl=en"
                 ],
+                "dicenzo03": [
+                        "Maria DiCenzo",
+                        2003,
+                        "Gutter politics: Women newsies and the suffrage press",
+                        "Women's History Review",
+                        "https://doi.org/10.1080/09612020300200345"
+                ],
                 "edling03": [
                         "Max Edling",
                         2003,
                         "A Revolution in Favor of Government: Origin of the U.S. Constitution and the Making of the American State",
                         "OUP USA",
                         "https://www.google.com/books/edition/A_Revolution_in_Favor_of_Government/RKw_6w4psdkC?hl=en"
+                ],
+                "erskine95": [
+                        "Andrew Erskine",
+                        1995, 
+                        "Culture and power in ptolemaic Egypt: The Museum and Library of Alexandria",
+                        "Greece & Rome",
+                        "https://www.jstor.org/stable/643071"
                 ],
                 "eubanks18": [
                         "Virginia Eubanks",
@@ -207,6 +228,13 @@
                         "O'Reilly Media, Inc.",
                         "https://www.google.com/books/edition/Unicode_Explained/lxndiWaFMvMC?hl=en&gbpv=0"
                 ],
+                "leiner09": [
+                        "Barry M. Leiner, Vinton G. Cerf, David D. Clark, Robert E. Kahn, Leonard Kleinrock, Daniel C. Lynch, Jon Postel, Larry G. Roberts, Stephen Wolff",
+                        2009,
+                        "A brief history of the internet",
+                        "ACM SIGCOMM Computer Communication Review",
+                        "https://doi.org/10.1145/1629607.1629613"
+                ],
                 "lerner15": [
                         "Jennifer Lerner",
                         2015,
@@ -214,11 +242,25 @@
                         "Annual Review of Psychology",
                         "https://doi.org/10.1146/annurev-psych-010213-115043"
                 ],
+                "licklider68": [
+                        "Joseph C.R. Licklider, Robert W. Taylor",
+                        1968,
+                        "The computer as a communication device",
+                        "Science and technology",     
+                        "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.828.9273&rep=rep1&type=pdf"
+                ],
                 "mackenzie80": [
                         "C.E. Mackenzie",
                         1980,
                         "Coded-Character Sets: History and Development",
                         "Addison-Wesley Longman Publishing"
+                ],
+                "marchionini98": [
+                        "Gary Marchionini, Catherine Plaisant, and Anita Komlodi",
+                        1998,
+                        "Interfaces and tools for the Library of Congress national digital library program",
+                        "Information Processing & Management",
+                        "https://doi.org/10.1016/S0306-4573(98)00020-X"
                 ],
                 "mcluhan64": [
                         "Marshall McLuhan",
@@ -241,20 +283,6 @@
                          "Frontiers in Psychology",
                          "https://doi.org/10.3389/fpsyg.2018.00115"
                 ],
-                "riordan04": [
-                        "M. Riordan",
-                        2004,
-                        "The lost history of the transistor",
-                        "IEEE spectrum",
-                        "https://doi.org/10.1109/MSPEC.2004.1296014"
-                ],
-                "nickerson98": [
-                        "Raymond Nickerson",
-                        1998,
-                        "Confirmation bias: A ubiquitous phenomenon in many guises", 
-                        "Review of General Psychology",
-                        "https://doi.org/10.1037%2F1089-2680.2.2.175"
-                ],
                 "miller83": [
                         "George A. Miller",
                         1983,
@@ -268,6 +296,13 @@
                         "The Gregorian Calendar",
                         "Scientific American",
                         "https://www.jstor.org/stable/10.2307/24966597"
+                ],
+                "nickerson98": [
+                        "Raymond Nickerson",
+                        1998,
+                        "Confirmation bias: A ubiquitous phenomenon in many guises", 
+                        "Review of General Psychology",
+                        "https://doi.org/10.1037%2F1089-2680.2.2.175"
                 ],
                 "noble18": [
                         "Safiya Noble",
@@ -289,6 +324,13 @@
                         "Phaesrus",
                         "Cambridge University Press",
                         "https://www.google.com/books/edition/Plato_Phaedrus/N6HRTHXlrE0C?hl=en"
+                ],
+                "riordan04": [
+                        "M. Riordan",
+                        2004,
+                        "The lost history of the transistor",
+                        "IEEE spectrum",
+                        "https://doi.org/10.1109/MSPEC.2004.1296014"
                 ],
                 "rousseau12": [
                         "Jean-Jacques Rousseau, John H. Moran, Johann Gottfried Herder, Alexander Gode",
@@ -324,6 +366,13 @@
                         "Can There Ever Be Too Many Options? A Meta‐Analytic Review of Choice Overload",
                         "Journal of Consumer Research",
                         "https://doi.org/10.1086/651235"
+                ],
+                "schudson81": [
+                        "Michael Schudson",
+                        1981,
+                        "Discovering the news: A social history of American newspapers",
+                        "Basic Books",
+                        "https://www.google.com/books/edition/Discovering_The_News/uLois7_nNMgC?hl=en"
                 ],
                 "shannon48": [
                         "Claude E. Shannon",
