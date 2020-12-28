@@ -42,7 +42,7 @@
                 {
                         "title": "Information seeking",
                         "id": "seeking",
-                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                        "image": "|OG Google.png|A screenshot of the original Google homepage|Google, automating information retrieval since 1997.|Public Domain|"
                 },
                 {
                         "title": "Information hiding",
@@ -116,6 +116,20 @@
                         "Social Forces",
                         "https://doi.org/10.1093/sf/soz162"
                 ],
+                "bird09": [
+                        "Steven Bird, Ewan Klein, Edward Loper",
+                        2009,
+                        "Natural Language Processing with Python",
+                        "O'Reilly Media",
+                        "https://www.google.com/books/edition/Natural_Language_Processing_with_Python/KGIbfiiP1i4C?hl=en"
+                ],
+                "brin98": [
+                        "Sergey Brin, Lawrence Page",
+                        1998,
+                        "The anatomy of a large-scale hypertextual web search engine",
+                        "Computer Networks and ISDN Systems",
+                        "https://research.google/pubs/pub334/"
+                ],
                 "bock94": [
                         "Kathryn Bock, Willem Levelt",
                         1994,
@@ -186,6 +200,13 @@
                         "St. Martin's Press",
                         "https://www.google.com/books/edition/Automating_Inequality/pn4pDwAAQBAJ?hl=en"
                 ],
+                "fisher05": [
+                        " Karen E. Fisher, Sanda Erdelez, and Lynne E.F. McKechnie, Sanda Erdelez",
+                        2005,
+                        "Theories of information behavior",
+                        "ASIST",
+                        "https://www.google.com/books/edition/Theories_of_Information_Behavior/ll6qzqhIj8wC?hl=en"
+                ],
                 "gasser00": [
                         "James Gasser",
                         2000,
@@ -199,6 +220,21 @@
                         "The information: A history, a theory, a flood",
                         "Vintage Books",
                         "https://www.google.com/books/edition/The_Information/617JSFW0D2kC?hl=en"
+                ],
+                "heydon99": [
+                        "Allan Heydon, Marc Najork",
+                        1999,
+                        "Mercator: A scalable, extensible web crawler",
+                        "World Wide Web",
+                        "https://doi.org/10.1023/A:1019213109274"
+                ],
+                "hirschberg15": [
+                        "Julia Hirschberg, Christopher Manning",
+                        2015,
+                        "Advances in natural language processing",
+                        "Science",
+                        "https://science.sciencemag.org/content/349/6245/261"
+
                 ],
                 "hotho06": [
                         "Andreas Hotho, Robert Jäschke, Christoph Schmitz, Gerd Stumme",
@@ -297,6 +333,13 @@
                         "Scientific American",
                         "https://www.jstor.org/stable/10.2307/24966597"
                 ],
+                "nickel16": [
+                        "Maximilian Nickel, Kevin Murphy, Volker Tresp, Evgeniy Gabrilovich",
+                        2016,
+                        "A Review of Relational Machine Learning for Knowledge Graphs",
+                        "Proceedings of the IEEE",
+                        "https://doi.org/10.1109/JPROC.2015.2483592"
+                ],
                 "nickerson98": [
                         "Raymond Nickerson",
                         1998,
@@ -310,6 +353,13 @@
                         "Algorithms of oppression: How search engines reinforce racism",
                         "NYU Press",
                         "https://www.google.com/books/edition/Algorithms_of_Oppression/-ThDDwAAQBAJ?hl=en"
+                ],
+                "pirolli07": [
+                        "Peter Pirolli",
+                        2007,
+                        "Information foraging theory: Adaptive interaction with information",
+                        "Oxford University Press",
+                        "https://www.google.com/books/edition/Information_Foraging_Theory_Adaptive_Int/LADEE_1fwLQC?hl=en"
                 ],
                 "pham15": [
                         "Vincent N. Pham",
@@ -331,6 +381,13 @@
                         "The lost history of the transistor",
                         "IEEE spectrum",
                         "https://doi.org/10.1109/MSPEC.2004.1296014"
+                ],
+                "russell93": [
+                        "Daniel Russell, Mark J. Stefik, Peter Pirolli, Stuard K. Card",
+                        1993,
+                        "The cost structure of sensemaking",
+                        "ACM Conference on Human Factors in Computing Systems",
+                        "https://doi.org/10.1145/169059.169209"
                 ],
                 "rousseau12": [
                         "Jean-Jacques Rousseau, John H. Moran, Johann Gottfried Herder, Alexander Gode",
@@ -381,6 +438,19 @@
                         "The Bell System Technical Journal",
                         "https://doi.org/10.1002/j.1538-7305.1948.tb01338.x"
                 ],
+                "simon69": [
+                        "Herb A. Simon",
+                        1963,
+                        "The Sciences of the Artificial",
+                        "MIT Press",
+                        "https://www.google.com/books/edition/The_Sciences_of_the_Artificial/yYSkDwAAQBAJ?hl=en"
+                ],
+                "simon72": [
+                        "Herbert A. Simon",
+                        1972,
+                        "Theories of bounded rationality",
+                        "Decision and Organization"
+                ],
                 "simon78": [
                         "Herb A. Simon",
                         1978, 
@@ -414,6 +484,13 @@
                         "Alone together: Why we expect more from technology and less from ourselves",
                         "MIT Press",
                         "https://www.google.com/books/edition/Alone_Together/hc7SYAPVlXwC?hl=en"
+                ],
+                "wilson97": [
+                        "Tom D. Wilson",
+                        1997,
+                        "Information behaviour: an interdisciplinary perspective",
+                        "Information Processing & Management",
+                        "https://doi.org/10.1016/S0306-4573(97)00028-9"
                 ],
                 "zeleny05": [
                         "Milan Zeleny",
