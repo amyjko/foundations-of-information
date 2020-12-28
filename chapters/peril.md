@@ -49,3 +49,9 @@ Information can also *kill*. Consider, for example, the case of the [Uber autono
 -
 
 These, of course, are not the only potential problems with information. The world has ongoing struggle to with the tensions of free speech, censorship, and the many ways we have discussed above that information can do harm. With the ability of the internet to archive much of our past, there are also many open questions about what rights we have to erase information stored on other people's computers that might tie is to a past life, a past action, or a past name or identity. These and the numerous many other questions, reinforce that information is has values, and those values are intrinsically tied to the ways that we exercise control over each other.
+
+# Podcasts
+
+The podcasts below all reveal the peril of information in different ways.
+
+* _[Family Stories, Family Lies|https://www.npr.org/2020/12/22/949425455/family-stories-family-lies], Code Switch_. Shares one story of how the origins of a family name are far more complicated than one can ever imagine, capturing a multi-generation history of love and oppression.

@@ -55,3 +55,9 @@ This perspective challenges Marshall McLuhan's famous phrase, "the medium is the
 -
 
 In the rest of this book, we will try to define information, demarcating its origins, explaining its impacts, deconstructing our efforts to create and share it, and problematizing our use of technology to store, retrieve, and present it. Throughout, we shall see that while information _is_ powerful, and information technology can make it even more powerful, information can also be perilous to capture and share without doing great harm and injustice.
+
+# Podcasts
+
+The podcasts below all reveal the power of information in different ways.
+
+* _[The Other Extinguishers|https://www.thisamericanlife.org/727/boulder-v-hill/act-two-10] (Act 2), Boulder v. Hill, This American Life_. Shows how a long, collaborative history of science led to the DNA sequencing of the SARS-CoV-2 "spike" in just 10 minutes ([transcript|https://www.thisamericanlife.org/727/transcript])
