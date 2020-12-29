@@ -51,8 +51,8 @@
                 },
                 {
                         "title": "Regulating information",
-                        "id": "policy",
-                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                        "id": "regulating",
+                        "image": "|Signing.jpg|A painting of the signing of the U.S. Constitution showing many White men signing|That time when wealthy white men determined our rights.|Public Domain|"
                 },
                 {
                         "title": "Accessing information",
@@ -102,6 +102,12 @@
         ],
         "sources": {},
         "references": {
+                "albrecht16": [
+                        "Jan Philipp Albrecht",
+                        2016,
+                        "How the GDPR will change the world",
+                        "European Data Portection Law Review"
+                ],
                 "anderson08": [
                         "Keith B. Anderson, Erik Durbin, and Michael A. Salinger",
                         2008,
@@ -122,6 +128,13 @@
                         "Form, substance and difference",
                         "Essential Readings in Biosemiotics",
                         "https://www.jstor.org/stable/4147987"
+                ],
+                "baumer00": [
+                        "David Baumer, Julia Brande Earp, and Fay Cobb Payton",
+                        2000,
+                        "Privacy of medical records: IT implications of HIPAA",
+                        "ACM SIGCAS Computers and Society",
+                        "https://doi.org/10.1145/572260.572261"
                 ],
                 "benjamin19": [
                         "Ruha Benjamin",
@@ -220,6 +233,13 @@
                         "Automating inequality: How high-tech tools profile, police, and punish the poor",
                         "St. Martin's Press",
                         "https://www.google.com/books/edition/Automating_Inequality/pn4pDwAAQBAJ?hl=en"
+                ],
+                "faustosterling00": [
+                        "Anne Fausto-Sterling",
+                        2000,
+                        "Sexing the Body: Gender Politics and the Construction of Sexuality",
+                        "Basic Books",
+                        "https://www.google.com/books/edition/Sexing_the_Body/c3lhYfZzIXkC?hl=en"
                 ],
                 "fisher05": [
                         " Karen E. Fisher, Sanda Erdelez, and Lynne E.F. McKechnie, Sanda Erdelez",
@@ -333,6 +353,13 @@
                         "Information Processing & Management",
                         "https://doi.org/10.1016/S0306-4573(98)00020-X"
                 ],
+                "martin04": [
+                        "Patricia Yancey Martin",
+                        2004,
+                        "Gender as social institution",
+                        "Social Forces",
+                        "https://doi.org/10.1353/sof.2004.0081"
+                ],
                 "mcilwain19": [
                         "Charleton D. McIlwain",
                         2019,
@@ -417,6 +444,13 @@
                         "NYU Press",
                         "https://www.google.com/books/edition/Algorithms_of_Oppression/-ThDDwAAQBAJ?hl=en"
                 ],
+                "pater16": [
+                        "Jessica Pater, Moon K. Kim, Elizabeth D. Mynatt, and Casey Fiesler",
+                        2016,
+                        "Characterizations of online harassment: Comparing policies across social media platforms",
+                        "International Conference on Supporting Group Work",
+                        "https://doi.org/10.1145/2957276.2957297"
+                ],
                 "pirolli07": [
                         "Peter Pirolli",
                         2007,
@@ -438,6 +472,13 @@
                         "Cambridge University Press",
                         "https://www.google.com/books/edition/Plato_Phaedrus/N6HRTHXlrE0C?hl=en"
                 ],
+                "reyes18": [
+                        "Irwin Reyes, Primal Wijesekera, Joel Reardon, Amit Elazari Bar On, Abbas Razaghpanah, Narseo Vallina-Rodriguez, and Serge Egelman",
+                        2018,
+                        "\"Won’t somebody think of the children?\" Examining COPPA compliance at scale",
+                        "Privacy Enhancing Technologies",
+                        "https://doi.org/10.1515/popets-2018-0021"
+                ],
                 "riordan04": [
                         "M. Riordan",
                         2004,
@@ -452,6 +493,12 @@
                         "ACM Conference on Human Factors in Computing Systems",
                         "https://doi.org/10.1145/169059.169209"
                 ],
+                "rosen11": [
+                        "Jeffrey Rosen",
+                        2011,
+                        "The right to be forgotten",
+                        "Stanford Law Review"
+                ],
                 "rousseau12": [
                         "Jean-Jacques Rousseau, John H. Moran, Johann Gottfried Herder, Alexander Gode",
                         2012,
@@ -465,6 +512,13 @@
                         "The wisdom hierarchy: representations of the DIKW hierarchy",
                         "Journal of Information and Communication",
                         "https://doi.org/10.1177%2F0165551506070706"
+                ],
+                "sandel10": [
+                        "Michael J. Sandel",
+                        2010, 
+                        "Justice: What's the right thing to do?",
+                        "Macmillan",
+                        "https://www.google.com/books/edition/Justice/BrdNDG7TTUEC?hl=en"
                 ],
                 "samaha16": [
                         "Samaha, M., & Hawi, N. S.",
@@ -519,6 +573,13 @@
                         1978, 
                         "Information-processing theory of human problem solving",
                         "Handbook of learning and cognitive processes"
+                ],
+                "snorton17": [
+                        "Riley C. Snorton",
+                        2017,
+                        "Black on both sides: A racial history of trans identity",
+                        "University of Minnesota Press",
+                        "https://www.google.com/books/edition/Black_on_Both_Sides/_il0DwAAQBAJ?hl=en"
                 ],
                 "stokes07": [
                         "Jon Stokes",
