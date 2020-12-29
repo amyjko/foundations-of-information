@@ -47,7 +47,7 @@
                 {
                         "title": "Hiding information",
                         "id": "hiding",
-                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                        "image": "|Surveillance.jpg|Two women look up to a wall of surveillance cameras|Sometimes, privacy and security are at odds.|[Matthew Henry|https://unsplash.com/photos/fPxOowbR6ls]|"
                 },
                 {
                         "title": "Regulating information",
@@ -102,6 +102,20 @@
         ],
         "sources": {},
         "references": {
+                "anderson08": [
+                        "Keith B. Anderson, Erik Durbin, and Michael A. Salinger",
+                        2008,
+                        "Identity Theft",
+                        "Journal of Economic Perspectives",
+                        "https://doi.org/10.1257/jep.22.2.171"
+                ],
+                "babst18": [
+                        "Gorden A. Babst",
+                        2018,
+                        "Privacy and Outing",
+                        "Core Concepts and Contemporary Issues in Privacy",
+                        "https://doi.org/10.1007/978-3-319-74639-5_15"
+                ],
                 "bateson70": [
                         "Gregory Bateson",
                         1970,
@@ -179,6 +193,13 @@
                         "Women's History Review",
                         "https://doi.org/10.1080/09612020300200345"
                 ],
+                "eckert20": [
+                        "Stine Eckert, Jade Metzger-Riftkin",
+                        2020,
+                        "Doxxing",
+                        "The International Encyclopedia of Gender, Media, and Communication",
+                        "https://doi.org/10.1002/9781119429128.iegmc009"
+                ],
                 "edling03": [
                         "Max Edling",
                         2003,
@@ -213,6 +234,13 @@
                         "A Boole anthology: recent and classical studies in the logic of George Boole",
                         "Springer Science & Business Media",
                         "https://www.google.com/books/edition/A_Boole_Anthology/A2Q5Yghl000C?hl=en&gbpv=0"
+                ],
+                "gerber18": [
+                        "Nina Gerber, Paul Gerber, Melanie Volkamer",
+                        2018,
+                        "Explaining the privacy paradox: A systematic review of literature investigating privacy attitude and behavior",
+                        "Computers & Security",
+                        "https://doi.org/10.1016/j.cose.2018.04.002"
                 ],
                 "gleick11": [
                         "James Gleick",
@@ -271,6 +299,13 @@
                         "ACM SIGCOMM Computer Communication Review",
                         "https://doi.org/10.1145/1629607.1629613"
                 ],
+                "leinokilpi01": [
+                        "Helena Leino-Kilpi, Maritta Välimäki, Theo Dassen, Maria Gasull, Chryssoula Lemonidou, Anne Scott, and Marianne Arndt",
+                        2001,
+                        "Privacy: a review of the literature",
+                        "International Journal of Nursing Studies",
+                        "https://doi.org/10.1016/S0020-7489(00)00111-5"
+                ],
                 "lerner15": [
                         "Jennifer Lerner",
                         2015,
@@ -297,6 +332,13 @@
                         "Interfaces and tools for the Library of Congress national digital library program",
                         "Information Processing & Management",
                         "https://doi.org/10.1016/S0306-4573(98)00020-X"
+                ],
+                "mcilwain19": [
+                        "Charleton D. McIlwain",
+                        2019,
+                        "Black Software: The Internet and Racial Justice, from the AfroNet to Black Lives Matter",
+                        "Oxford University Press",
+                        "https://www.google.com/books/edition/Black_Software/DmmtDwAAQBAJ?hl=en"
                 ],
                 "mcluhan64": [
                         "Marshall McLuhan",
@@ -326,6 +368,13 @@
                         "The Study of Information: Interdisciplinary Messages",
                         "https://www.google.com/books/edition/The_Study_of_Information/JwpUAAAAMAAJ?hl=en"
                 ],
+                "moore08": [
+                        "Adam D. Moore",
+                        2008,
+                        "Defining privacy",
+                        "Journal of Social Philosophy",
+                        "https://ssrn.com/abstract=1980849"
+                ],
                 "moyer82": [
                         "Gordon Moyer",
                         1982,
@@ -346,6 +395,20 @@
                         "Confirmation bias: A ubiquitous phenomenon in many guises", 
                         "Review of General Psychology",
                         "https://doi.org/10.1037%2F1089-2680.2.2.175"
+                ],
+                "nissenbaum98": [
+                        "Helen Nissenbaum",
+                        1998,
+                        "Protecting Privacy in an Information Age: The Problem of Privacy in Public",
+                        "Law and Philosphy",
+                        "https://doi.org/10.2307/3505189"
+                ],
+                "nissenbaum04": [
+                        "Helen Nissenbaum",
+                        2004,
+                        "Privacy as contextual integrity",
+                        "Washington Law Review",
+                        "https://digitalcommons.law.uw.edu/wlr/vol79/iss1/10"
                 ],
                 "noble18": [
                         "Safiya Noble",
@@ -485,6 +548,13 @@
                         "MIT Press",
                         "https://www.google.com/books/edition/Alone_Together/hc7SYAPVlXwC?hl=en"
                 ],
+                "vitak12": [
+                        "Jessica Vitak",
+                        2012,
+                        "The impact of context collapse and privacy on social network site disclosures",
+                        "Journal of Broadcasting & Electronic Media",
+                        "https://doi.org/10.1080/08838151.2012.732140"
+                ],
                 "wilson97": [
                         "Tom D. Wilson",
                         1997,
@@ -505,6 +575,13 @@
                         "Metadata",
                         "Neal-Schuman Publishers",
                         "https://dl.acm.org/doi/book/10.5555/1481677"
+                ],
+                "zuboff19": [
+                        "Shoshana Zuboff",
+                        2019,
+                        "The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power",
+                        "Public Affairs",
+                        "https://www.google.com/books/edition/The_Age_of_Surveillance_Capitalism/lRqrDQAAQBAJ?hl=en"
                 ]
         }
 }
