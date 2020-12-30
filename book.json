@@ -52,7 +52,7 @@
                 {
                         "title": "Managing information",
                         "id": "managing",
-                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                        "image": "|Planner.jpg|A photograph of a person managing a calendar and to do list.|Information management can get personal.|[Paico Oficial|https://unsplash.com/photos/DC_gMe5H95k]|"
                 },
                 {
                         "title": "Regulating information",
@@ -95,7 +95,7 @@
                         "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
                 },
                 {
-                        "title": "Careers",
+                        "title": "Information Careers",
                         "id": "careers",
                         "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
                 }
@@ -178,12 +178,26 @@
                         "ABC-CLIO",
                         "https://www.google.com/books/edition/Information_and_information_systems/xOqaFMA9Kh4C?hl=en"
                 ],
+                "buneman04": [
+                        "Peter Buneman, Sanjeev Khanna, Keishi Tajima, and Wang-Chiew Tan",
+                        2004,
+                        "Archiving scientific data",
+                        "ACM Transactions on Database Systems",
+                        "https://doi.org/10.1145/974750.974752"
+                ],
                 "bush45": [
                         "Vannevar Bush",
                         1945,
                         "As we may think",
                         "The atlantic monthly",
                         "https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/"
+                ],
+                "choo02": [
+                        "Chun Wei Choo",
+                        2002,
+                        "Information Management for the Intelligent Organization",
+                        "Information Today",
+                        "https://www.google.com/books/edition/Information_Management_for_the_Intellige/IDlDwy9UfmsC?hl=en"
                 ],
                 "coe03": [
                         "Lewis Coe",
@@ -269,6 +283,13 @@
                         "Vintage Books",
                         "https://www.google.com/books/edition/The_Information/617JSFW0D2kC?hl=en"
                 ],
+                "grover93": [
+                        "Varun Grover, Seung-Ryul Jeong, William J. Kettinger, and Choong C. Lee",
+                        1993,
+                        "The chief information officer: A study of managerial roles",
+                        "Journal of Management Information Systems",
+                        "https://doi.org/10.1080/07421222.1993.11518002"
+                ],
                 "heydon99": [
                         "Allan Heydon, Marc Najork",
                         1999,
@@ -345,6 +366,13 @@
                         1980,
                         "Coded-Character Sets: History and Development",
                         "Addison-Wesley Longman Publishing"
+                ],
+                "malone83": [
+                        "Thomas W. Malone",
+                        1983,
+                        "How do people organize their desks? Implications for the design of office information systems",
+                        "ACM Transactions on Information Systems",
+                        "https://doi.org/10.1145/357423.357430"
                 ],
                 "marchionini98": [
                         "Gary Marchionini, Catherine Plaisant, and Anita Komlodi",
@@ -444,6 +472,13 @@
                         "NYU Press",
                         "https://www.google.com/books/edition/Algorithms_of_Oppression/-ThDDwAAQBAJ?hl=en"
                 ],
+                "öğütçü16": [
+                        "Gizem Öğütçü, Özlem Müge Testik, and Oumout Chouseinoglou",
+                        2016,
+                        "Analysis of personal information security behavior and awareness",
+                        "Computers & Security",
+                        "https://doi.org/10.1016/j.cose.2015.10.002"
+                ],
                 "pater16": [
                         "Jessica Pater, Moon K. Kim, Elizabeth D. Mynatt, and Casey Fiesler",
                         2016,
@@ -471,6 +506,13 @@
                         "Phaesrus",
                         "Cambridge University Press",
                         "https://www.google.com/books/edition/Plato_Phaedrus/N6HRTHXlrE0C?hl=en"
+                ],
+                "ponniah11": [
+                        "Paulraj Ponniah",
+                        2011,
+                        "Data warehousing fundamentals for IT professionals",
+                        "John Wiley & Sons",
+                        "https://www.google.com/books/edition/Data_Warehousing_Fundamentals_for_IT_Pro/aIDjcF9r_hgC?hl=en"
                 ],
                 "reyes18": [
                         "Irwin Reyes, Primal Wijesekera, Joel Reardon, Amit Elazari Bar On, Abbas Razaghpanah, Narseo Vallina-Rodriguez, and Serge Egelman",
@@ -555,12 +597,26 @@
                         "The Bell System Technical Journal",
                         "https://doi.org/10.1002/j.1538-7305.1948.tb01338.x"
                 ],
+                "simon66": [
+                        "Herbert A. Simon",
+                        1966,
+                        "Administrative Behavior",
+                        "Free Press",
+                        "https://www.google.com/books/edition/Administrative_Behavior_4th_Edition/_obn42iD3mYC?hl=en"       
+                ],
                 "simon69": [
-                        "Herb A. Simon",
+                        "Herbert A. Simon",
                         1963,
                         "The Sciences of the Artificial",
                         "MIT Press",
                         "https://www.google.com/books/edition/The_Sciences_of_the_Artificial/yYSkDwAAQBAJ?hl=en"
+                ],
+                "simon71": [
+                        "Herbert A. Simon",
+                        1971,
+                        "Designing Organizations for an Information-rich World",
+                        "Johns Hopkins University Press",
+                        "https://digitalcollections.library.cmu.edu/awweb/awarchive?type=file&item=33748"
                 ],
                 "simon72": [
                         "Herbert A. Simon",
@@ -595,6 +651,13 @@
                         "Yale University Press",
                         "https://www.google.com/books/edition/King_s_Dream/uinGXcRLlewC?hl=en"
                 ],
+                "teevan11": [
+                        "Jaime Teevan, William P. Jones",
+                        2011,
+                        "Personal Information Management",
+                        "University of Washington Press",
+                        "https://www.google.com/books/edition/Personal_Information_Management/pJkS9uRo00IC?hl=en"
+                ],
                 "toyama15": [
                         "Kentaro Toyama",
                         2015,
@@ -609,12 +672,33 @@
                         "MIT Press",
                         "https://www.google.com/books/edition/Alone_Together/hc7SYAPVlXwC?hl=en"
                 ],
+                "tyler10": [
+                        "Sarah K. Tyler, Jaime Teevan",
+                        2010,
+                        "Large scale query log analysis of re-finding",
+                        "ACM International Conference on Web Search and Data Mining",
+                        "https://doi.org/10.1145/1718487.1718512"
+                ],
                 "vitak12": [
                         "Jessica Vitak",
                         2012,
                         "The impact of context collapse and privacy on social network site disclosures",
                         "Journal of Broadcasting & Electronic Media",
                         "https://doi.org/10.1080/08838151.2012.732140"
+                ],
+                "watson07": [
+                        "Hugh J. Watson, Barbara H. Wixom",
+                        2007,
+                        "The current state of business intelligence",
+                        "IEEE Computer",
+                        "https://doi.org/10.1109/MC.2007.331"
+                ],
+                "whittaker11": [
+                        "Steve Whittaker, Tara Matthews, Julian Cerruti, Hernan Badenes, and John Tang",
+                        2011,
+                        "Am I wasting my time organizing email? A study of email refinding",
+                        "ACM SIGCHI Conference on Human Factors in Computing Systems",
+                        "https://doi.org/10.1145/1978942.1979457"
                 ],
                 "wilson97": [
                         "Tom D. Wilson",
