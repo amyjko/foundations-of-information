@@ -50,6 +50,11 @@
                         "image": "|Surveillance.jpg|Two women look up to a wall of surveillance cameras|Sometimes, privacy and security are at odds.|[Matthew Henry|https://unsplash.com/photos/fPxOowbR6ls]|"
                 },
                 {
+                        "title": "Managing information",
+                        "id": "managing",
+                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                },
+                {
                         "title": "Regulating information",
                         "id": "regulating",
                         "image": "|Signing.jpg|A painting of the signing of the U.S. Constitution showing many White men signing|That time when wealthy white men determined our rights.|Public Domain|"
@@ -57,11 +62,6 @@
                 {
                         "title": "Accessing information",
                         "id": "accessing",
-                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
-                },
-                {
-                        "title": "Designing information",
-                        "id": "designing",
                         "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
                 },
                 {
