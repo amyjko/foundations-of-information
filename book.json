@@ -65,13 +65,13 @@
                         "image": "|Courthouse.jpg|A photograph of the King County District Court name change office.|Where people in Seattle change their legal names.|Amy J. Ko|"
                 },
                 {
-                        "title": "Information + Science",
-                        "id": "science",
-                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
-                },
-                {
                         "title": "Information + Social",
                         "id": "social",
+                        "image": "|Friends.jpg|A photograph of two friends talking while swinging on a swing set.|Information is social.|[Bewakoof|https://unsplash.com/photos/mG-HdjYiPtE]|"
+                },
+                {
+                        "title": "Information + Science",
+                        "id": "science",
                         "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
                 },
                 {
