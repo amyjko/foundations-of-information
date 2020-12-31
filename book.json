@@ -60,9 +60,9 @@
                         "image": "|Signing.jpg|A painting of the signing of the U.S. Constitution showing many White men signing|That time when wealthy white men determined our rights.|Public Domain|"
                 },
                 {
-                        "title": "Accessing information",
-                        "id": "accessing",
-                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                        "title": "Designing information",
+                        "id": "designing",
+                        "image": "|Courthouse.jpg|A photograph of the King County District Court name change office.|Where people in Seattle change their legal names.|Amy J. Ko|"
                 },
                 {
                         "title": "Information + Science",
@@ -143,6 +143,13 @@
                         "Social Forces",
                         "https://doi.org/10.1093/sf/soz162"
                 ],
+                "bennett19": [
+                        "Cynthia L. Bennett and Daniela K. Rosner",
+                        2019,
+                        "The Promise of Empathy: Design, Disability, and Knowing the \"Other\"",
+                        "ACM CHI Conference on Human Factors in Computing Systems",
+                        "https://doi.org/10.1145/3290605.3300528"
+                ],
                 "bird09": [
                         "Steven Bird, Ewan Klein, Edward Loper",
                         2009,
@@ -192,6 +199,13 @@
                         "The atlantic monthly",
                         "https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/"
                 ],
+                "buxton10": [
+                        "Bill Buxton",
+                        2010,
+                        "Sketching user experiences: getting the design right and the right design",
+                        "Morgan Kaufmann",
+                        "https://www.google.com/books/edition/Sketching_User_Experiences_Getting_the_D/2vfPxocmLh0C?hl=en"
+                ],
                 "choo02": [
                         "Chun Wei Choo",
                         2002,
@@ -212,6 +226,13 @@
                         "Black feminist thought: Knowledge, consciousness, and the politics of empowerment",
                         "Routeledge",
                         "https://www.google.com/books/edition/Black_Feminist_Thought/WMGTAgAAQBAJ?hl=en"
+                ],
+                "costanzachock20": [
+                        "Sasha Costanza-Chock",
+                        2020,
+                        "Design justice: Community-led practices to build the worlds we need",
+                        "MIT Press",
+                        "https://www.google.com/books/edition/Design_Justice/m4LPDwAAQBAJ?hl=en"
                 ],
                 "dicenzo03": [
                         "Maria DiCenzo",
@@ -262,6 +283,13 @@
                         "ASIST",
                         "https://www.google.com/books/edition/Theories_of_Information_Behavior/ll6qzqhIj8wC?hl=en"
                 ],
+                "furnas87": [
+                        "George W. Furnas, Thomas K. Landauer, Louis M. Gomez, and Susan T. Dumais",
+                        1987,
+                        "The vocabulary problem in human-system communication",
+                        "Communications of the ACM",
+                        "https://doi.org/10.1145/32206.32212"
+                ],
                 "gasser00": [
                         "James Gasser",
                         2000,
@@ -290,6 +318,13 @@
                         "Journal of Management Information Systems",
                         "https://doi.org/10.1080/07421222.1993.11518002"
                 ],
+                "hertzum20": [
+                        "Morten Hertzum",
+                        2020,
+                        "Usability Testing: A Practitioner's Guide to Evaluating the User Experience",
+                        "Morgan & Claypool",
+                        "https://www.google.com/books/edition/Usability_Testing/uWnXDwAAQBAJ?hl=en"
+                ],
                 "heydon99": [
                         "Allan Heydon, Marc Najork",
                         1999,
@@ -312,12 +347,33 @@
                         "European Semantic Web Conference",
                         "https://link.springer.com/chapter/10.1007/11762256_31"
                 ],
+                "jacko12": [
+                        "Julie A. Jacko",
+                        2012,
+                        "Human computer interaction handbook: Fundamentals, evolving technologies, and emerging applications",
+                        "CRC press",
+                        "https://www.google.com/books/edition/Human_Computer_Interaction_Handbook/dVrRBQAAQBAJ?hl=en"
+                ],
                 "janes17": [
                         "Joseph Janes",
                         2017,
                         "Documents That Changed the Way We Live",
                         "Rowman & Littlefield",
                         "https://www.google.com/books/edition/Documents_That_Changed_the_Way_We_Live/a6-zDgAAQBAJ?hl=en&gbpv=0"
+                ],
+                "jansen09": [
+                        "Bernard J. Jansen, Danielle L. Booth, and Amanda Spink",
+                        2009,
+                        "Patterns of query reformulation during Web searching",
+                        "Journal of the American Society for Information Science and Technology",
+                        "https://doi.org/10.1002/asi.21071"
+                ],
+                "jonson05": [
+                        "Ben Jonson",
+                        2005,
+                        "Design ideation: the conceptual sketch in the digital age",
+                        "Design Studies",
+                        "https://doi.org/10.1016/j.destud.2005.03.001"
                 ],
                 "kline85": [
                         "Stephen J. Kline",
@@ -437,6 +493,13 @@
                         "Scientific American",
                         "https://www.jstor.org/stable/10.2307/24966597"
                 ],
+                "nass94": [
+                        "Clifford Nass, Jonathan Steuer, and Ellen R. Tauber",
+                        1994,
+                        "Computers are social actors",
+                        "ACM SIGCHI conference on Human factors in Computing Systems",
+                        "https://doi.org/10.1145/191666.191703"
+                ],
                 "nickel16": [
                         "Maximilian Nickel, Kevin Murphy, Volker Tresp, Evgeniy Gabrilovich",
                         2016,
@@ -540,6 +603,13 @@
                         2011,
                         "The right to be forgotten",
                         "Stanford Law Review"
+                ],
+                "rosenfeld02": [
+                        "Louis Rosenfeld, Peter Morville",
+                        2002,
+                        "Information architecture for the world wide web",
+                        "O'Reilly Media, Inc.",
+                        "https://www.google.com/books/edition/Information_Architecture_for_the_World_W/hLdcLklZOFAC?hl=en"
                 ],
                 "rousseau12": [
                         "Jean-Jacques Rousseau, John H. Moran, Johann Gottfried Herder, Alexander Gode",
@@ -707,6 +777,13 @@
                         "Information Processing & Management",
                         "https://doi.org/10.1016/S0306-4573(97)00028-9"
                 ],
+                "yee03": [
+                        "Ka-Ping Yee, Kirsten Swearingen, Kevin Li, and Marti Hearst",
+                        2003,
+                        "Faceted metadata for image search and browsing",
+                        "ACM SIGCHI Conference on Human Factors in Computing Systems",
+                        "https://doi.org/10.1145/642611.642681"
+                ],
                 "zeleny05": [
                         "Milan Zeleny",
                         2005,
@@ -720,6 +797,13 @@
                         "Metadata",
                         "Neal-Schuman Publishers",
                         "https://dl.acm.org/doi/book/10.5555/1481677"
+                ],
+                "zhang06": [
+                        "Zhiyong Zhang, Olfa Nasraoui",
+                        2006,
+                        "Mining search engine query logs for query recommendation",
+                        "ACM International Conference on World Wide Web",
+                        "https://doi.org/10.1145/1135777.1136004"
                 ],
                 "zuboff19": [
                         "Shoshana Zuboff",
