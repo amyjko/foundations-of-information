@@ -72,7 +72,7 @@
                 {
                         "title": "Information + Science",
                         "id": "science",
-                        "image": "|Science.jpg|A photograph of a scientist pipetting DNA samples into a tube to copy DNA.|DNA is data, and this is science|[National Cancer Institute|https://unsplash.com/photos/eo_4DqPUSQA]|"
+                        "image": "|Science.jpg|A photograph of a scientist pipetting DNA samples into a tube to copy DNA.|A scientist drops some data into a pipette.|[National Cancer Institute|https://unsplash.com/photos/eo_4DqPUSQA]|"
                 },
                 {
                         "title": "Information + Automation",
@@ -114,6 +114,13 @@
                         2016,
                         "How the GDPR will change the world",
                         "European Data Portection Law Review"
+                ],
+                "amershi19": [
+                        "Saleema Amershi, Andrew Begel, Christian Bird, Robert DeLine, Harald Gall, Ece Kamar, Nachiappan Nagappan, Besmira Nushi, and Thomas Zimmermann",
+                        2019,
+                        "Software engineering for machine learning: A case study",
+                        "International Conference on Software Engineering: Software Engineering in Practice",
+                        "https://doi.org/10.1109/ICSE-SEIP.2019.00042"
                 ],
                 "anderson08": [
                         "Keith B. Anderson, Erik Durbin, and Michael A. Salinger",
@@ -192,6 +199,13 @@
                         "Academic Press",
                         "https://pure.mpg.de/rest/items/item_61347/component/file_262298/content"
                 ],
+                "boyd12": [
+                        "danah boyd, Kate Crawford",
+                        2012,
+                        "Critical questions for big data: Provocations for a cultural, technological, and scholarly phenomenon",
+                        "Information, Communication & Society",
+                        "https://doi.org/10.1080/1369118X.2012.678878"
+                ],
                 "buckland91": [
                         "Michael K. Buckland",
                         1991,
@@ -261,6 +275,13 @@
                         "Gutter politics: Women newsies and the suffrage press",
                         "Women's History Review",
                         "https://doi.org/10.1080/09612020300200345"
+                ],
+                "dignazio20": [
+                        "Catherine D'Ignazio, Lauren F. Klein",
+                        2020,
+                        "Data Feminism",
+                        "MIT Press",
+                        "https://www.google.com/books/edition/Data_Feminism/x5nSDwAAQBAJ?hl=en"
                 ],
                 "eckert20": [
                         "Stine Eckert, Jade Metzger-Riftkin",
@@ -410,6 +431,13 @@
                         "https://science.sciencemag.org/content/349/6245/261"
 
                 ],
+                "hohman19": [
+                        "Fred Hohman, Andrew Head, Rich Caruana, Robert DeLine, and Steven M. Drucker",
+                        2019,
+                        "Gamut: A Design Probe to Understand How Data Scientists Understand Machine Learning Models",
+                        "ACM CHI Conference on Human Factors in Computing Systems",
+                        "https://doi.org/10.1145/3290605.3300809"
+                ],
                 "hotho06": [
                         "Andreas Hotho, Robert Jäschke, Christoph Schmitz, Gerd Stumme",
                         2006, 
@@ -459,6 +487,13 @@
                         "ACM Conference on Computer Supported Cooperative Work and Social Computing",
                         "https://doi.org/10.1145/2998181.2998297"
                 ],
+                "kim16": [
+                        "Miryung Kim, Thomas Zimmermann, Robert DeLine, and Andrew Begel",
+                        2016,
+                        "The emerging role of data scientists on software development teams",
+                        "IEEE/ACM International Conference on Software Engineering",
+                        "https://doi.org/10.1145/2884781.2884783"
+                ],
                 "kittur13": [
                         "Aniket Kittur, Jeffrey V. Nickerson, Michael Bernstein, Elizabeth Gerber, Aaron Shaw, John Zimmerman, Matt Lease, and John Horton",
                         2013,
@@ -473,6 +508,13 @@
                         "Bulletin of Science, Technology & Society",
                         "https://doi.org/10.1177%2F027046768500500301"
                 ],
+                "kuhn12": [
+                        "Thomas S. Kuhn",
+                        2012,
+                        "The structure of scientific revolutions",
+                        "University of Chicago Press",
+                        "https://www.google.com/books/edition/The_Structure_of_Scientific_Revolutions/3eP5Y_OOuzwC?hl=en"
+                ],
                 "korpela06": [
                         "Jukka K. Korpela",
                         2006,
@@ -486,6 +528,13 @@
                         "Changes in use and perception of Facebook",
                         "ACM Conference on Computer Supported Cooperative Work",
                         "https://doi.org/10.1145/1460563.1460675"
+                ],
+                "lee06": [
+                        "Charlotte P. Lee, Paul Dourish, and Gloria Mark",
+                        2006,
+                        "The human infrastructure of cyberinfrastructure",
+                        "ACM Conference on Computer Supported Cooperative ",
+                        "https://doi.org/10.1145/1180875.1180950"
                 ],
                 "leiner09": [
                         "Barry M. Leiner, Vinton G. Cerf, David D. Clark, Robert E. Kahn, Leonard Kleinrock, Daniel C. Lynch, Jon Postel, Larry G. Roberts, Stephen Wolff",
@@ -682,6 +731,13 @@
                         "Human-Computer Interaction",
                         "https://doi.org/10.1207/S15327051HCI1523_4"
                 ],
+                "oneil16": [
+                        "Cathy O'Neil",
+                        2016,
+                        "Weapons of math destruction: How big data increases inequality and threatens democracy",
+                        "Broadway Books",
+                        "https://www.google.com/books/edition/Weapons_of_Math_Destruction/cbwvDwAAQBAJ?hl=en"
+                ],
                 "padke20": [
                         "Shruti Phadke, Mattia Samory, and Tanushree Mitra",
                         2020,
@@ -745,6 +801,13 @@
                         "Communications of the ACM",
                         "http://dx.doi.org/10.1145/2854146"
                 ],
+                "ribes10": [
+                        "David Ribes, Charlotte P. Lee",
+                        2010,
+                        "Sociotechnical Studies of Cyberinfrastructure and e-Research: Current Themes and Future Trajectories",
+                        "Computer Supported Cooperative Work",
+                        "https://doi.org/10.1007/s10606-010-9120-0"
+                ],
                 "reyes18": [
                         "Irwin Reyes, Primal Wijesekera, Joel Reardon, Amit Elazari Bar On, Abbas Razaghpanah, Narseo Vallina-Rodriguez, and Serge Egelman",
                         2018,
@@ -792,6 +855,13 @@
                         "The wisdom hierarchy: representations of the DIKW hierarchy",
                         "Journal of Information and Communication",
                         "https://doi.org/10.1177%2F0165551506070706"
+                ],
+                "russell53": [
+                        "Bertrand Russell",
+                        1953,
+                        "The impact of science on society",
+                        "Routledge",
+                        "https://www.google.com/books/edition/The_Impact_of_Science_on_Society/vEv7CwAAQBAJ?hl=en"
                 ],
                 "sandel10": [
                         "Michael J. Sandel",
@@ -916,6 +986,27 @@
                         "Geek heresy: Rescuing social change from the cult of technology",
                         "PublicAffairs",
                         "https://www.google.com/books/edition/Geek_Heresy/2w6CBgAAQBAJ?hl=en"      
+                ],
+                "trowbridge19": [
+                        "John Trowbridge, Robert Weller, Deborah Kelley, Edward Dever, Albert Plueddemann, John A. Barth, and Orest Kawka",
+                        2019,
+                        "The Ocean Observatories Initiative",
+                        "Frontiers in Marine Science",
+                        "https://doi.org/10.3389/fmars.2019.00074"
+                ],
+                "tsai16": [
+                        "Cheng-ting Tsai, Peter V. Robinson, Carole A. Spencer, and Carolyn R. Bertozzi",
+                        2016,
+                        "Ultrasensitive Antibody Detection by Agglutination-PCR (ADAP)",
+                        "ACS Central Science",
+                        "https://pubs.acs.org/doi/abs/10.1021/acscentsci.5b00340?source=cen"
+                ],
+                "tukey62": [
+                        "John W. Tukey",
+                        1962,
+                        "The future of data analysis",
+                        "The annals of mathematical statistics",
+                        "https://www.jstor.org/stable/2237638"
                 ],
                 "turkle11": [
                         "Sherry Turkle",
