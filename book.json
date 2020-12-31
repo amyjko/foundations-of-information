@@ -72,12 +72,12 @@
                 {
                         "title": "Information + Science",
                         "id": "science",
-                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                        "image": "|Science.jpg|A photograph of a scientist pipetting DNA samples into a tube to copy DNA.|DNA is data, and this is science|[National Cancer Institute|https://unsplash.com/photos/eo_4DqPUSQA]|"
                 },
                 {
                         "title": "Information + Automation",
                         "id": "automation",
-                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                        "image": "|Robot.jpg|A girl touching a robot's hand in Japan.|What information should we automate?|[Andy Kelly|https://unsplash.com/photos/0E_vhMVqL9g]|"
                 },
                 {
                         "title": "Information + Health",
