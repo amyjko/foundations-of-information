@@ -102,6 +102,13 @@
         ],
         "sources": {},
         "references": {
+                "ackerman00": [
+                        "Mark S. Ackerman",
+                        2000,
+                        "The intellectual challenge of CSCW: the gap between social requirements and technical feasibility",
+                        "Human-Computer Interaction",
+                        "https://doi.org/10.1207/S15327051HCI1523_5"
+                ],
                 "albrecht16": [
                         "Jan Philipp Albrecht",
                         2016,
@@ -114,6 +121,13 @@
                         "Identity Theft",
                         "Journal of Economic Perspectives",
                         "https://doi.org/10.1257/jep.22.2.171"
+                ],
+                "argyle72": [
+                        "Michael Argyle",
+                        1972,
+                        "Non-verbal communication in human social interaction",
+                        "Cambridge University Press",
+                        "https://www.google.com/books/edition/Non_verbal_Communication_in_Human_Social/9OGbOwAACAAJ?hl=en"
                 ],
                 "babst18": [
                         "Gorden A. Babst",
@@ -135,6 +149,13 @@
                         "Privacy of medical records: IT implications of HIPAA",
                         "ACM SIGCAS Computers and Society",
                         "https://doi.org/10.1145/572260.572261"
+                ],
+                "bernstein11": [
+                        "Michael Bernstein, Andrés Monroy-Hernández, Drew Harry, Paul André, Katrina Panovich, and Greg Vargas",
+                        2011,
+                        "4chan and/b: An Analysis of Anonymity and Ephemerality in a Large Online Community",
+                        "AAAI Conference on Web and Social Media",
+                        "http://eprints.soton.ac.uk/id/eprint/272345"
                 ],
                 "benjamin19": [
                         "Ruha Benjamin",
@@ -276,12 +297,33 @@
                         "Basic Books",
                         "https://www.google.com/books/edition/Sexing_the_Body/c3lhYfZzIXkC?hl=en"
                 ],
+                "fiesler20": [
+                        "Casey Fiesler, Brianna Dym",
+                        2020,
+                        "Moving Across Lands: Online Platform Migration in Fandom Communities",
+                        "ACM Proceedings of Human-Computer Interaction",
+                        "https://doi.org/10.1145/3392847"
+                ],
                 "fisher05": [
                         " Karen E. Fisher, Sanda Erdelez, and Lynne E.F. McKechnie, Sanda Erdelez",
                         2005,
                         "Theories of information behavior",
                         "ASIST",
                         "https://www.google.com/books/edition/Theories_of_Information_Behavior/ll6qzqhIj8wC?hl=en"
+                ],
+                "fiske10": [
+                        "John Fiske",
+                        2010,
+                        "Introduction to Communication Studies",
+                        "Routledge",
+                        "https://www.google.com/books/edition/Introduction_to_Communication_Studies/kfEtCgAAQBAJ?hl=en"
+                ],
+                "fitzpatrick13": [
+                        "Geraldine Fitzpatrick, Gunnar Ellingsen",
+                        2013,
+                        "A review of 25 years of CSCW research in healthcare: contributions, challenges and future agendas",
+                        "Computer Supported Cooperative Work",
+                        "https://doi.org/10.1007/s10606-012-9168-0"
                 ],
                 "furnas87": [
                         "George W. Furnas, Thomas K. Landauer, Louis M. Gomez, and Susan T. Dumais",
@@ -304,6 +346,13 @@
                         "Computers & Security",
                         "https://doi.org/10.1016/j.cose.2018.04.002"
                 ],
+                "gergle13": [
+                        "Darren Gergle, Robert E. Kraut, and Susan R. Fussell",
+                        2013,
+                        "Using visual information for grounding and awareness in collaborative tasks",
+                        "Human–Computer Interaction",
+                        "https://www.tandfonline.com/doi/full/10.1080/07370024.2012.678246?casa_token=tvxBVTJfyLQAAAAA%3A3WOtAeUmZxWRY_JY5XHIUQk8RDxbGFzkbbKEZMy3P3x1ztZyoksCduPYj3S-m0ZbdZyDmoGTRI128g"
+                ],
                 "gleick11": [
                         "James Gleick",
                         2011,
@@ -311,12 +360,33 @@
                         "Vintage Books",
                         "https://www.google.com/books/edition/The_Information/617JSFW0D2kC?hl=en"
                 ],
+                "grudin88": [
+                        "Jonathan Grudin",
+                        1988, 
+                        "Why CSCW applications fail: problems in the design and evaluation of organizational interfaces",
+                        "ACM Conference on Computer-Supported Cooperative Work",
+                        "https://doi.org/10.1145/62266.62273"
+                ],
                 "grover93": [
                         "Varun Grover, Seung-Ryul Jeong, William J. Kettinger, and Choong C. Lee",
                         1993,
                         "The chief information officer: A study of managerial roles",
                         "Journal of Management Information Systems",
                         "https://doi.org/10.1080/07421222.1993.11518002"
+                ],
+                "haimson20": [
+                        "Oliver L. Haimson, Justin Buss, Zu Weinger, Denny L. Starks, Dykee Gorrell, and Briar Sweetbriar Baron",
+                        2020,
+                        "Trans Time: Safety, Privacy, and Content Warnings on a Transgender-Specific Social Media Site",
+                        "ACM Proceedings on Human-Computer Interaction",
+                        "https://doi.org/10.1145/3415195"
+                ],
+                "hauben97": [
+                        "Michael Hauben, Ronda Hauben, Thomas Truscott",
+                        1997,
+                        "Netizens: On the History and Impact of Usenet and the Internet",
+                        "Wiley",
+                        "https://www.google.com/books/edition/Netizens/De5SAAAAMAAJ?hl=en"
                 ],
                 "hertzum20": [
                         "Morten Hertzum",
@@ -361,6 +431,13 @@
                         "Rowman & Littlefield",
                         "https://www.google.com/books/edition/Documents_That_Changed_the_Way_We_Live/a6-zDgAAQBAJ?hl=en&gbpv=0"
                 ],
+                "jhaver18": [
+                        "Shagun Jhaver, Sucheta Ghoshal, Amy Bruckman, and Eric Gilbert",
+                        2018,
+                        "Online harassment and content moderation: The case of blocklists",
+                        "ACM Transactions on Computer-Human Interaction",
+                        "https://doi.org/10.1145/3185593"
+                ],
                 "jansen09": [
                         "Bernard J. Jansen, Danielle L. Booth, and Amanda Spink",
                         2009,
@@ -375,6 +452,20 @@
                         "Design Studies",
                         "https://doi.org/10.1016/j.destud.2005.03.001"
                 ],
+                "jung17": [
+                        "Young-Wook Jung, Youn-kyung Lim, and Myung-suk Kim",
+                        2017,
+                        "Possibilities and limitations of online document tools for design collaboration: The case of Google Docs",
+                        "ACM Conference on Computer Supported Cooperative Work and Social Computing",
+                        "https://doi.org/10.1145/2998181.2998297"
+                ],
+                "kittur13": [
+                        "Aniket Kittur, Jeffrey V. Nickerson, Michael Bernstein, Elizabeth Gerber, Aaron Shaw, John Zimmerman, Matt Lease, and John Horton",
+                        2013,
+                        "The future of crowd work",
+                        "ACM Conference on Computer Supported Cooperative Work",
+                        "https://doi.org/10.1145/2441776.2441923"
+                ],
                 "kline85": [
                         "Stephen J. Kline",
                         1985,
@@ -388,6 +479,13 @@
                         "Unicode explained",
                         "O'Reilly Media, Inc.",
                         "https://www.google.com/books/edition/Unicode_Explained/lxndiWaFMvMC?hl=en&gbpv=0"
+                ],
+                "lampe08": [
+                        "Cliff Lampe, Nicole B. Ellison, and Charles Steinfield",
+                        2008,
+                        "Changes in use and perception of Facebook",
+                        "ACM Conference on Computer Supported Cooperative Work",
+                        "https://doi.org/10.1145/1460563.1460675"
                 ],
                 "leiner09": [
                         "Barry M. Leiner, Vinton G. Cerf, David D. Clark, Robert E. Kahn, Leonard Kleinrock, Daniel C. Lynch, Jon Postel, Larry G. Roberts, Stephen Wolff",
@@ -430,6 +528,13 @@
                         "ACM Transactions on Information Systems",
                         "https://doi.org/10.1145/357423.357430"
                 ],
+                "mamykina11": [
+                        "Lena Mamykina, Bella Manoim, Manas Mittal, George Hripcsak, and Björn Hartmann",
+                        2011,
+                        "Design lessons from the fastest Q&A site in the west",
+                        "ACM SIGCHI Conference on Human Factors in Computing Systems",
+                        "https://doi.org/10.1145/1978942.1979366"
+                ],
                 "marchionini98": [
                         "Gary Marchionini, Catherine Plaisant, and Anita Komlodi",
                         1998,
@@ -443,6 +548,20 @@
                         "Gender as social institution",
                         "Social Forces",
                         "https://doi.org/10.1353/sof.2004.0081"
+                ],
+                "mathew20": [
+                        "Binny Mathew, Anurag Illendula, Punyajoy Saha, Soumya Sarkar, Pawan Goyal, and Animesh Mukherjee",
+                        2020,
+                        "Hate begets Hate: A Temporal Study of Hate Speech",
+                        "ACM Proceedings of Human-Computer Itneraction",
+                        "https://doi.org/10.1145/3415163"
+                ],
+                "mcdougall15": [
+                        "William McDougall",
+                        2015,
+                        "An Introduction to Social Psychology",
+                        "Psychology Press",
+                        "https://www.google.com/books/edition/An_Introduction_to_Social_Psychology/nojwCQAAQBAJ?hl=en"
                 ],
                 "mcilwain19": [
                         "Charleton D. McIlwain",
@@ -464,6 +583,13 @@
                         "Measuring the impact of information: defining the concepts",
                         "Information Processing & Management",
                         "https://doi-org.offcampus.lib.washington.edu/10.1016/S0306-4573(97)00042-3"
+                ],
+                "meier07": [
+                        "Andrea Meier, Elizabeth Lyons, Gilles Frydman, Michael Forlenza, and Barbara Rimer",
+                        2007,
+                        "How cancer survivors provide support on cancer-related Internet mailing lists",
+                        "Journal of Medical Internet Research",
+                        "https://doi.org/10.2196/jmir.9.2.e12"
                 ],
                 "miyagawa18": [
                         "Shigeru Miyagawa, Cora Lesure, Vitor A. Nóbrega",
@@ -492,6 +618,13 @@
                         "The Gregorian Calendar",
                         "Scientific American",
                         "https://www.jstor.org/stable/10.2307/24966597"
+                ],
+                "nardi04": [
+                        "Bonnie A. Nardi, Diane J. Schiano, and Michelle Gumbrecht",
+                        2004,
+                        "Blogging as social activity, or, would you let 900 million people read your diary?",
+                        "ACM Conference on Computer Supported Cooperative Work",
+                        "https://doi.org/10.1145/1031607.1031643"
                 ],
                 "nass94": [
                         "Clifford Nass, Jonathan Steuer, and Ellen R. Tauber",
@@ -542,12 +675,40 @@
                         "Computers & Security",
                         "https://doi.org/10.1016/j.cose.2015.10.002"
                 ],
+                "olson09": [
+                        "Gary M. Olson, Judith S. Olson",
+                        2009,
+                        "Distance matters",
+                        "Human-Computer Interaction",
+                        "https://doi.org/10.1207/S15327051HCI1523_4"
+                ],
+                "padke20": [
+                        "Shruti Phadke, Mattia Samory, and Tanushree Mitra",
+                        2020,
+                        "What Makes People Join Conspiracy Communities? Role of Social Factors in Conspiracy Engagement",
+                        "ACM Conference on Computer Supported Cooperative Work and Social Computing",
+                        "https://arxiv.org/abs/2009.04527"
+                ],
+                "parameswaran07": [
+                        "Manoj Parameswaran, Andrew B. Whinston",
+                        2007,
+                        "Social computing: An overview",
+                        "Communications of the Association for Information Systems",
+                        "https://doi.org/10.17705/1CAIS.01937"
+                ],
                 "pater16": [
                         "Jessica Pater, Moon K. Kim, Elizabeth D. Mynatt, and Casey Fiesler",
                         2016,
                         "Characterizations of online harassment: Comparing policies across social media platforms",
                         "International Conference on Supporting Group Work",
                         "https://doi.org/10.1145/2957276.2957297"
+                ],
+                "pentzold10": [
+                        "Christian Pentzold",
+                        2010,
+                        "Imagining the Wikipedia community: What do Wikipedia authors mean when they write about their ‘community’?",
+                        "New Media & Society",
+                        "https://doi.org/10.1177%2F1461444810378364"
                 ],
                 "pirolli07": [
                         "Peter Pirolli",
@@ -576,6 +737,13 @@
                         "Data warehousing fundamentals for IT professionals",
                         "John Wiley & Sons",
                         "https://www.google.com/books/edition/Data_Warehousing_Fundamentals_for_IT_Pro/aIDjcF9r_hgC?hl=en"
+                ],
+                "potvin16": [
+                        "Rachel Potvin, Josh Levenberg",
+                        2016,
+                        "Why Google stores billions of lines of code in a single repository",
+                        "Communications of the ACM",
+                        "http://dx.doi.org/10.1145/2854146"
                 ],
                 "reyes18": [
                         "Irwin Reyes, Primal Wijesekera, Joel Reardon, Amit Elazari Bar On, Abbas Razaghpanah, Narseo Vallina-Rodriguez, and Serge Egelman",
@@ -653,6 +821,13 @@
                         "Journal of Consumer Research",
                         "https://doi.org/10.1086/651235"
                 ],
+                "schermerhorn11": [
+                        "John R. Schermerhorn, Jr., Richard N. Osborn, Mary Uhl-Bien, James G. Hunt",
+                        2011,
+                        "Organizational Behavior",
+                        "Wiley",
+                        "https://www.google.com/books/edition/Organizational_Behavior/8eRtuZeIguIC?hl=en"
+                ],
                 "schudson81": [
                         "Michael Schudson",
                         1981,
@@ -666,6 +841,13 @@
                         "A mathematical theory of communication",
                         "The Bell System Technical Journal",
                         "https://doi.org/10.1002/j.1538-7305.1948.tb01338.x"
+                ],
+                "short76": [
+                        "John Short, Ederyn Williams, Bruce Christie",
+                        1976,
+                        "The Social Psychology of Telecommunications",
+                        "John Wiley & Sons",
+                        "https://www.google.com/books/edition/The_Social_Psychology_of_Telecommunicati/Ze63AAAAIAAJ?hl=en"
                 ],
                 "simon66": [
                         "Herbert A. Simon",
@@ -763,6 +945,13 @@
                         "IEEE Computer",
                         "https://doi.org/10.1109/MC.2007.331"
                 ],
+                "wenger99": [
+                        "Etienne Wenger",
+                        1999,
+                        "Communities of Practice: Learning, Meaning, and Identity",
+                        "Cambridge University Press",
+                        "https://www.google.com/books/edition/Communities_of_Practice/heBZpgYUKdAC?hl=en"
+                ],
                 "whittaker11": [
                         "Steve Whittaker, Tara Matthews, Julian Cerruti, Hernan Badenes, and John Tang",
                         2011,
@@ -770,12 +959,26 @@
                         "ACM SIGCHI Conference on Human Factors in Computing Systems",
                         "https://doi.org/10.1145/1978942.1979457"
                 ],
+                "williams00": [
+                        "Laurie A. Williams, Robert R. Kessler",
+                        2000,
+                        "All I really need to know about pair programming I learned in kindergarten",
+                        "Communications of the ACM",
+                        "https://doi.org/10.1145/332833.332848"
+                ],
                 "wilson97": [
                         "Tom D. Wilson",
                         1997,
                         "Information behaviour: an interdisciplinary perspective",
                         "Information Processing & Management",
                         "https://doi.org/10.1016/S0306-4573(97)00028-9"
+                ],
+                "wiseman18": [
+                        "Sarah Wiseman, Sandy JJ Gould",
+                        2018,
+                        "Repurposing emoji for personalised communication: Why🍕 means “I love you”",
+                        "ACM CHI Conference on Human Factors in Computing Systems",
+                        "https://doi.org/10.1145/3173574.3173726"
                 ],
                 "yee03": [
                         "Ka-Ping Yee, Kirsten Swearingen, Kevin Li, and Marti Hearst",
