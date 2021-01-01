@@ -206,6 +206,20 @@
                         "Information, Communication & Society",
                         "https://doi.org/10.1080/1369118X.2012.678878"
                 ],
+                "brattingham18": [
+                        "Jeffrey Brantingham, P., Matthew Valasik, and George O. Mohler",
+                        2018,
+                        "Does predictive policing lead to biased arrests? Results from a randomized controlled trial",
+                        "Statistics and Public Policy",
+                        "https://doi.org/10.1080/2330443X.2018.1438940"
+                ],
+                "browne15": [
+                        "Simone Browne",
+                        2015,
+                        "Dark matters: On the surveillance of blackness",
+                        "Duke University Press",
+                        "https://www.google.com/books/edition/Dark_Matters/snmJCgAAQBAJ?hl=en"
+                ],
                 "buckland91": [
                         "Michael K. Buckland",
                         1991,
@@ -276,6 +290,13 @@
                         "Women's History Review",
                         "https://doi.org/10.1080/09612020300200345"
                 ],
+                "dietterich17": [
+                        "Thomas G. Dietterich",
+                        2017,
+                        "Steps Toward Robust Artificial Intelligence",
+                        "AI Magazine",
+                        "https://doi.org/10.1609/aimag.v38i3.2756"
+                ],
                 "dignazio20": [
                         "Catherine D'Ignazio, Lauren F. Klein",
                         2020,
@@ -310,6 +331,13 @@
                         "Automating inequality: How high-tech tools profile, police, and punish the poor",
                         "St. Martin's Press",
                         "https://www.google.com/books/edition/Automating_Inequality/pn4pDwAAQBAJ?hl=en"
+                ],
+                "farooq16": [
+                        "Umer Farooq, Jonathan Grudin",
+                        2016,
+                        "Human-computer integration",
+                        "interactions",
+                        "http://dx.doi.org/10.1145/3001896"
                 ],
                 "faustosterling00": [
                         "Anne Fausto-Sterling",
@@ -401,6 +429,13 @@
                         "Trans Time: Safety, Privacy, and Content Warnings on a Transgender-Specific Social Media Site",
                         "ACM Proceedings on Human-Computer Interaction",
                         "https://doi.org/10.1145/3415195"
+                ],
+                "harris99": [
+                        "Michael H. Harris",
+                        1999,
+                        "History of Libraries in the Western World",
+                        "Scarecrow Press",
+                        "https://www.google.com/books/edition/History_of_Libraries_of_the_Western_Worl/KQ3FmadbMvkC?hl=en"
                 ],
                 "hauben97": [
                         "Michael Hauben, Ronda Hauben, Thomas Truscott",
@@ -640,6 +675,13 @@
                         "Journal of Medical Internet Research",
                         "https://doi.org/10.2196/jmir.9.2.e12"
                 ],
+                "minsky61": [
+                        "Marvin Minsky",
+                        1961,
+                        "Steps toward artificial intelligence",
+                        "Proceedings of the IRE",
+                        "https://doi.org/10.1109/JRPROC.1961.287775"
+                ],
                 "miyagawa18": [
                         "Shigeru Miyagawa, Cora Lesure, Vitor A. Nóbrega",
                          2018,
@@ -745,6 +787,13 @@
                         "ACM Conference on Computer Supported Cooperative Work and Social Computing",
                         "https://arxiv.org/abs/2009.04527"
                 ],
+                "page99": [
+                        "Lawrence Page, Sergey Brin, Rajeev Motwani, Terry Winograd",
+                        1999,
+                        "The PageRank citation ranking: Bringing order to the web",
+                        "Stanford InfoLab",
+                        "http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf"
+                ],
                 "parameswaran07": [
                         "Manoj Parameswaran, Andrew B. Whinston",
                         2007,
@@ -807,6 +856,13 @@
                         "Sociotechnical Studies of Cyberinfrastructure and e-Research: Current Themes and Future Trajectories",
                         "Computer Supported Cooperative Work",
                         "https://doi.org/10.1007/s10606-010-9120-0"
+                ],
+                "resnick94": [
+                        "Paul Resnick, Neophytos Iacovou, Mitesh Suchak, Peter Bergstrom, and John Riedl",
+                        1994,
+                        "GroupLens: an open architecture for collaborative filtering of netnews",
+                        "ACM Conference on Computer Supported Cooperative Work",
+                        "https://doi.org/10.1145/192844.192905"
                 ],
                 "reyes18": [
                         "Irwin Reyes, Primal Wijesekera, Joel Reardon, Amit Elazari Bar On, Abbas Razaghpanah, Narseo Vallina-Rodriguez, and Serge Egelman",
@@ -912,6 +968,13 @@
                         "The Bell System Technical Journal",
                         "https://doi.org/10.1002/j.1538-7305.1948.tb01338.x"
                 ],
+                "shetterly16": [
+                        "Margot Lee Shetterly",
+                        2016,
+                        "Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race",
+                        "HarperCollins",
+                        "https://www.google.com/books/edition/Hidden_Figures/_upVjgEACAAJ?hl=en"
+                ],
                 "short76": [
                         "John Short, Ederyn Williams, Bruce Christie",
                         1976,
@@ -958,6 +1021,13 @@
                         "Black on both sides: A racial history of trans identity",
                         "University of Minnesota Press",
                         "https://www.google.com/books/edition/Black_on_Both_Sides/_il0DwAAQBAJ?hl=en"
+                ],
+                "starr14": [
+                        "Sonja B. Starr",
+                        2014,
+                        "Evidence-based sentencing and the scientific rationalization of discrimination",
+                        "Stanford Law Review",
+                        "https://heinonline.org/HOL/LandingPage?handle=hein.journals/stflr66&div=24&id=&page="
                 ],
                 "stokes07": [
                         "Jon Stokes",
