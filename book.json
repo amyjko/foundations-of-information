@@ -82,7 +82,7 @@
                 {
                         "title": "Information + health",
                         "id": "health",
-                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                        "image": "|Vaccine.jpg|A black man gets a SARS-CoV-2 vaccine from a white woman|A women injects instructions for building SARS-CoV-2 proteins into a man's arm.|[CDC|https://unsplash.com/photos/vt7iAyiwpf0]|"
                 },
                 {
                         "title": "Information + democracy",
@@ -157,6 +157,13 @@
                         "ACM SIGCAS Computers and Society",
                         "https://doi.org/10.1145/572260.572261"
                 ],
+                "baxevanis20": [
+                        "Andreas D. Baxevanis, Gary D. Bader, David S. Wishart",
+                        2020,
+                        "Bioinformatics",
+                        "John Wiley & Sons",
+                        "https://www.google.com/books/edition/Bioinformatics/OuHNDwAAQBAJ?hl=en"
+                ],
                 "bernstein11": [
                         "Michael Bernstein, Andrés Monroy-Hernández, Drew Harry, Paul André, Katrina Panovich, and Greg Vargas",
                         2011,
@@ -178,12 +185,33 @@
                         "ACM CHI Conference on Human Factors in Computing Systems",
                         "https://doi.org/10.1145/3290605.3300528"
                 ],
+                "bhatt10": [
+                        "Arun Bhatt",
+                        2010,
+                        "Evolution of clinical research: a history before and beyond James Lind",
+                        "Perspectives in Clinical Research",
+                        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3149409/"      
+                ],
                 "bird09": [
                         "Steven Bird, Ewan Klein, Edward Loper",
                         2009,
                         "Natural Language Processing with Python",
                         "O'Reilly Media",
                         "https://www.google.com/books/edition/Natural_Language_Processing_with_Python/KGIbfiiP1i4C?hl=en"
+                ],
+                "brandt78": [
+                        "Allan M. Brandt",
+                        1978,
+                        "Racism and research: the case of the Tuskegee Syphilis Study",
+                        "Hastings Center Report",
+                        "https://doi.org/10.2307/3561468"
+                ],
+                "braveman06": [
+                        "Paula Braveman",
+                        2006,
+                        "Health disparities and health equity: concepts and measurement",
+                        "Annual Review of Public Health",
+                        "https://doi.org/10.1146/annurev.publhealth.27.021405.102103"
                 ],
                 "brin98": [
                         "Sergey Brin, Lawrence Page",
@@ -318,6 +346,13 @@
                         "OUP USA",
                         "https://www.google.com/books/edition/A_Revolution_in_Favor_of_Government/RKw_6w4psdkC?hl=en"
                 ],
+                "epstein16": [
+                        "Daniel A. Epstein, Monica Caraway, Chuck Johnston, An Ping, James Fogarty, and Sean A. Munson",
+                        2016,
+                        "Beyond abandonment to next steps: understanding and designing for life after personal informatics tool use",
+                        "ACM CHI Conference on Human Factors in Computing Systems",
+                        "https://doi.org/10.1145/2858036.2858045"
+                ],
                 "erskine95": [
                         "Andrew Erskine",
                         1995, 
@@ -373,6 +408,13 @@
                         "A review of 25 years of CSCW research in healthcare: contributions, challenges and future agendas",
                         "Computer Supported Cooperative Work",
                         "https://doi.org/10.1007/s10606-012-9168-0"
+                ],
+                "freimuth01": [
+                        "Vicki S. Freimuth, Sandra Crouse Quinn, Stephen B. Thomas, Galen Cole, Eric Zook, and Ted Duncan",
+                        2001,
+                        "African Americans’ views on research and the Tuskegee Syphilis Study",
+                        "Social Science & Medicine",
+                        "https://doi.org/10.1016/S0277-9536(00)00178-7"
                 ],
                 "furnas87": [
                         "George W. Furnas, Thomas K. Landauer, Louis M. Gomez, and Susan T. Dumais",
@@ -430,6 +472,13 @@
                         "ACM Proceedings on Human-Computer Interaction",
                         "https://doi.org/10.1145/3415195"
                 ],
+                "haldar19": [
+                        "Shefali Haldar, Sonali R. Mishra, Maher Khelifi, Ari H. Pollack, and Wanda Pratt",
+                        2019,
+                        "Beyond the Patient Portal: Supporting Needs of Hospitalized Patients",
+                        "ACM Conference on Human Factors in Computing Systems",
+                        "https://doi.org/10.1145/3290605.3300596"
+                ],
                 "harris99": [
                         "Michael H. Harris",
                         1999,
@@ -443,6 +492,13 @@
                         "Netizens: On the History and Impact of Usenet and the Internet",
                         "Wiley",
                         "https://www.google.com/books/edition/Netizens/De5SAAAAMAAJ?hl=en"
+                ],
+                "hersch04": [
+                        "William Hersh",
+                        2004,
+                        "Health care information technology: progress and barriers",
+                        "Journal of the American Medical Association",
+                        "https://doi.org/10.1001/jama.292.18.2273"
                 ],
                 "hertzum20": [
                         "Morten Hertzum",
@@ -528,6 +584,13 @@
                         "The emerging role of data scientists on software development teams",
                         "IEEE/ACM International Conference on Software Engineering",
                         "https://doi.org/10.1145/2884781.2884783"
+                ],
+                "kindig11": [
+                        "David Kindig and Greg Stoddart",
+                        2011,
+                        "What is population health?",
+                        "American Journal of Public Health",
+                        "https://doi.org/10.2105/AJPH.93.3.380"
                 ],
                 "kittur13": [
                         "Aniket Kittur, Jeffrey V. Nickerson, Michael Bernstein, Elizabeth Gerber, Aaron Shaw, John Zimmerman, Matt Lease, and John Horton",
@@ -626,6 +689,13 @@
                         "Information Processing & Management",
                         "https://doi.org/10.1016/S0306-4573(98)00020-X"
                 ],
+                "marmot05": [
+                        "Michael Marmot, Richard Wilkinson",
+                        2005,
+                        "Social determinants of health",
+                        "OUP Oxford",
+                        "https://www.google.com/books/edition/Social_Determinants_of_Health/AmwiS8HZeRIC?hl=en"
+                ],
                 "martin04": [
                         "Patricia Yancey Martin",
                         2004,
@@ -674,6 +744,20 @@
                         "How cancer survivors provide support on cancer-related Internet mailing lists",
                         "Journal of Medical Internet Research",
                         "https://doi.org/10.2196/jmir.9.2.e12"
+                ],
+                "mentis10": [
+                        "Helena M. Mentis, Madhu Reddy, and Mary Beth Rosson",
+                        2010,
+                        "Invisible emotion: information and interaction in an emergency room",
+                        "ACM Conference on Computer Supported Cooperative Work",
+                        "https://doi.org/10.1145/1718918.1718975"
+                ],
+                "mentis17": [
+                        "Helena M. Mentis, Anita Komlodi, Katrina Schrader, Michael Phipps, Ann Gruber-Baldini, Karen Yarbrough, and Lisa Shulman",
+                        2017,
+                        "Crafting a View of Self-Tracking Data in the Clinical Visit",
+                        "ACM CHI Conference on Human Factors in Computing Systems",
+                        "https://doi.org/10.1145/3025453.3025589"
                 ],
                 "minsky61": [
                         "Marvin Minsky",
@@ -836,6 +920,13 @@
                         "Cambridge University Press",
                         "https://www.google.com/books/edition/Plato_Phaedrus/N6HRTHXlrE0C?hl=en"
                 ],
+                "pollack20": [
+                        "Ari H. Pollack, Sonali R. Mishra, Calvin Apodaca, Maher Khelifi, Shefali Haldar, and Wanda Pratt",
+                        2020,
+                        "Different roles with different goals: Designing to support shared situational awareness between patients and clinicians in the hospital",
+                        "Journal of the American Medical Informatics Association",
+                        "https://doi.org/10.1093/jamia/ocaa198"
+                ],
                 "ponniah11": [
                         "Paulraj Ponniah",
                         2011,
@@ -849,6 +940,13 @@
                         "Why Google stores billions of lines of code in a single repository",
                         "Communications of the ACM",
                         "http://dx.doi.org/10.1145/2854146"
+                ],
+                "pray08": [
+                        "Leslie A. Pray",
+                        2008,
+                        "Discovery of DNA structure and function: Watson and Crick",
+                        "Nature Education",
+                        "https://www.nature.com/scitable/topicpage/discovery-of-dna-structure-and-function-watson-397/"
                 ],
                 "ribes10": [
                         "David Ribes, Charlotte P. Lee",
@@ -884,6 +982,13 @@
                         "The cost structure of sensemaking",
                         "ACM Conference on Human Factors in Computing Systems",
                         "https://doi.org/10.1145/169059.169209"
+                ],
+                "roos06": [
+                        "Wynand P. Roos, and Bernd Kaina",
+                        2006,
+                        "DNA damage-induced cell death by apoptosis",
+                        "Trends in molecular medicine",
+                        "https://doi.org/10.1016/j.molmed.2006.07.007"
                 ],
                 "rosen11": [
                         "Jeffrey Rosen",
@@ -939,6 +1044,20 @@
                         "Cloud computing and the DNA data race",
                         "Nature Biotechnology",
                         "https://doi.org/10.1038/nbt0710-691"
+                ],
+                "schiff16": [
+                        "Gordon D. Schiff, and Laura Zucker",
+                        2016,
+                        "Medical scribes: salvation for primary care or workaround for poor EMR usability?",
+                        "Journal of General Internal Medicine",
+                        "https://doi.org/10.1007/s11606-016-3788-x"
+                ],
+                "schwartz06": [
+                        "Kendra L. Schwartz, Thomas Roe, Justin Northrup, James Meza, Raouf Seifeldin, and Anne Victoria Neale",
+                        2006,
+                        "Family medicine patients’ use of the Internet for health information: a MetroNet study",
+                        "The Journal of the American Board of Family Medicine",
+                        "https://doi.org/10.3122/jabfm.19.1.39"
                 ],
                 "scheibehenne10": [
                         "Benjamin Scheibehenne, Rainer Greifender, Peter M. Todd",
@@ -1099,6 +1218,13 @@
                         "Journal of Broadcasting & Electronic Media",
                         "https://doi.org/10.1080/08838151.2012.732140"
                 ],
+                "vizer19": [
+                        "Lisa M. Vizer, Jordan Eschler, Bon Mi Koo, James Ralston, Wanda Pratt, and Sean Munson",
+                        2019,
+                        "“It’s Not Just Technology, It’s People”: Constructing a Conceptual Model of Shared Health Informatics for Tracking in Chronic Illness Management",
+                        "Journal of Medical Internet Research",
+                        "https://doi.org/10.2196/10830"
+                ],
                 "watson07": [
                         "Hugh J. Watson, Barbara H. Wixom",
                         2007,
@@ -1140,6 +1266,13 @@
                         "Repurposing emoji for personalised communication: Why🍕 means “I love you”",
                         "ACM CHI Conference on Human Factors in Computing Systems",
                         "https://doi.org/10.1145/3173574.3173726"
+                ],
+                "wu12": [
+                        "Duojiao Wu, Catherine M. Rice, and Xiangdong Wang",
+                        2012,
+                        "Cancer bioinformatics: A new approach to systems clinical medicine",
+                        "BMC Bioinformatics",
+                        "https://doi.org/10.1186/1471-2105-13-71"
                 ],
                 "yee03": [
                         "Ka-Ping Yee, Kirsten Swearingen, Kevin Li, and Marti Hearst",
