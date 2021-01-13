@@ -87,7 +87,7 @@
                 {
                         "title": "Information + democracy",
                         "id": "democracy",
-                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                        "image": "|BLM Protest.jpg|A photo of Black Lives Matter protestors in front of the White House on May 31st, 2020.|The public amplifes information in front of the U.S. President's residence.|[Koshu Kunii|https://unsplash.com/photos/Q5sHZ-_lxvE]|"
                 },
                 {
                         "title": "Information + sustainability",
@@ -191,6 +191,13 @@
                         "Evolution of clinical research: a history before and beyond James Lind",
                         "Perspectives in Clinical Research",
                         "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3149409/"      
+                ],
+                "bimber03": [
+                        "Bruce Bimber",
+                        2003,
+                        "Information and American democracy: Technology in the evolution of political power",
+                        "Cambridge University Press",
+                        "https://www.google.com/books/edition/Information_and_American_Democracy/5fpneXcFVBwC?hl=en&gbpv=0"
                 ],
                 "bird09": [
                         "Steven Bird, Ewan Klein, Edward Loper",
@@ -346,6 +353,20 @@
                         "OUP USA",
                         "https://www.google.com/books/edition/A_Revolution_in_Favor_of_Government/RKw_6w4psdkC?hl=en"
                 ],
+                "edmond13": [
+                        "Chris Edmond",
+                        2013,
+                        "Information manipulation, coordination, and regime change",
+                        "Review of Economic Studies",
+                        "https://doi.org/10.1093/restud/rdt020"
+                ],
+                "edwards19": [
+                        "George C. Edwards III",
+                        2019,
+                        "Why the Electoral College is bad for America",
+                        "Yale University Press",
+                        "https://www.google.com/books/edition/Why_the_Electoral_College_Is_Bad_for_Ame/8z2lDwAAQBAJ?hl=en&gbpv=0"
+                ],
                 "epstein16": [
                         "Daniel A. Epstein, Monica Caraway, Chuck Johnston, An Ping, James Fogarty, and Sean A. Munson",
                         2016,
@@ -479,6 +500,20 @@
                         "ACM Conference on Human Factors in Computing Systems",
                         "https://doi.org/10.1145/3290605.3300596"
                 ],
+                "hall06": [
+                        "Richard L. Hall, and Alan V. Deardorff",
+                        2006,
+                        "Lobbying as legislative subsidy",
+                        "American Political Science Review",
+                        "https://www.jstor.org/stable/27644332"
+                ],
+                "harcourt08": [
+                        "Bernard E. Harcourt",
+                        2008,
+                        "Against prediction: Profiling, policing, and punishing in an actuarial age",
+                        "University of Chicago Press",
+                        "https://www.google.com/books/edition/Against_Prediction/sqryh6ol1LwC?hl=en&gbpv=0"
+                ],
                 "harris99": [
                         "Michael H. Harris",
                         1999,
@@ -492,6 +527,13 @@
                         "Netizens: On the History and Impact of Usenet and the Internet",
                         "Wiley",
                         "https://www.google.com/books/edition/Netizens/De5SAAAAMAAJ?hl=en"
+                ],
+                "hellman10": [
+                        "Deborah Hellman",
+                        2010,
+                        "Money Talks but It Isn't Speech",
+                        "Minnesota Law Review",
+                        "https://heinonline.org/HOL/LandingPage?handle=hein.journals/mnlr95&div=23&id=&page="
                 ],
                 "hersch04": [
                         "William Hersh",
@@ -662,6 +704,20 @@
                         "Science and technology",     
                         "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.828.9273&rep=rep1&type=pdf"
                 ],
+                "lupia94": [
+                        "Arthur Lupia",
+                        1994,
+                        "Shortcuts versus encyclopedias: Information and voting behavior in California insurance reform elections",
+                        "American Political Science Review",
+                        "https://doi.org/10.2307/2944882"
+                ],
+                "lott99": [
+                        "John R. Lott, Jr.",
+                        1999,
+                        "Public schooling, indoctrination, and totalitarianism",
+                        "Journal of Political Economy",
+                        "https://www.journals.uchicago.edu/doi/abs/10.1086/250106?casa_token=DJLarlHqn_sAAAAA:42QuTATvCK9C_hq-XrqpvosW7zlBt6uHvqtFzbBhhUP80ezJGl6qNlj_TMLDEVOvkeZAveNIhO3s"
+                ],
                 "mackenzie80": [
                         "C.E. Mackenzie",
                         1980,
@@ -709,6 +765,13 @@
                         "Hate begets Hate: A Temporal Study of Hate Speech",
                         "ACM Proceedings of Human-Computer Itneraction",
                         "https://doi.org/10.1145/3415163"
+                ],
+                "mccarty09": [
+                        "Nolan McCarty, Keith T. Poole, and Howard Rosenthal",
+                        2009,
+                        "Does gerrymandering cause polarization?",
+                        "American Journal of Political Science",
+                        "https://doi.org/10.1111/j.1540-5907.2009.00393.x"
                 ],
                 "mcdougall15": [
                         "William McDougall",
@@ -758,6 +821,13 @@
                         "Crafting a View of Self-Tracking Data in the Clinical Visit",
                         "ACM CHI Conference on Human Factors in Computing Systems",
                         "https://doi.org/10.1145/3025453.3025589"
+                ],
+                "matsubayashi14": [
+                        "Tetsuya Matsubayashi, and Michiko Ueda",
+                        2014,
+                        "Disability and voting",
+                        "Disability and Health Journal",
+                        "https://doi.org/10.1016/j.dhjo.2014.03.001"
                 ],
                 "minsky61": [
                         "Marvin Minsky",
@@ -948,6 +1018,13 @@
                         "Nature Education",
                         "https://www.nature.com/scitable/topicpage/discovery-of-dna-structure-and-function-watson-397/"
                 ],
+                "randell06": [
+                        "Brian Randell, Peter YA Ryan",
+                        2006,
+                        "Voting technologies and trust",
+                        "IEEE Security & Privacy",
+                        "https://doi.org/10.1109/MSP.2006.140"
+                ],
                 "ribes10": [
                         "David Ribes, Charlotte P. Lee",
                         2010,
@@ -975,6 +1052,13 @@
                         "The lost history of the transistor",
                         "IEEE spectrum",
                         "https://doi.org/10.1109/MSPEC.2004.1296014"
+                ],
+                "rocha13": [
+                        "Rene R. Rocha, Tetsuya Matsubayashi",
+                        2013,
+                        "The politics of race and voter ID laws in the states: The return of Jim Crow?",
+                        "Political Research Quarterly",
+                        "https://doi.org/10.1177%2F1065912913514854"
                 ],
                 "russell93": [
                         "Daniel Russell, Mark J. Stefik, Peter Pirolli, Stuard K. Card",
@@ -1038,6 +1122,13 @@
                         "Computers in Human Behavior",
                         "https://doi.org/10.1016/j.chb.2015.12.045"
                 ],
+                "saravanan09": [
+                        "Manavalan Saravanan, Balaraman Ravindran, and Shivani Raman",
+                        2009,
+                        "Improving legal information retrieval using an ontological framework",
+                        "Artificial Intelligence and Law",
+                        "http://doi.org/10.1007/s10506-009-9075-y"
+                ],
                 "schatz10": [
                         "Michael C. Schatz, Ben Langmead, Steven L. Salzberg",
                         2010,
@@ -1094,6 +1185,13 @@
                         "HarperCollins",
                         "https://www.google.com/books/edition/Hidden_Figures/_upVjgEACAAJ?hl=en"
                 ],
+                "shirky11": [
+                        "Clay Shirky",
+                        2011,
+                        "The political power of social media: Technology, the public sphere, and political change",
+                        "Foreign Affairs",
+                        "https://www.jstor.org/stable/25800379"
+                ],
                 "short76": [
                         "John Short, Ederyn Williams, Bruce Christie",
                         1976,
@@ -1141,6 +1239,13 @@
                         "University of Minnesota Press",
                         "https://www.google.com/books/edition/Black_on_Both_Sides/_il0DwAAQBAJ?hl=en"
                 ],
+                "starbird19": [
+                        "Kate Starbird, Ahmer Arif, Tom Wilson",
+                        2019,
+                        "Disinformation as collaborative work: Surfacing the participatory nature of strategic information operations",
+                        "Proceedings of the ACM on Human-Computer Interaction",
+                        "https://doi.org/10.1145/3359229"
+                ],
                 "starr14": [
                         "Sonja B. Starr",
                         2014,
@@ -1162,12 +1267,26 @@
                         "Yale University Press",
                         "https://www.google.com/books/edition/King_s_Dream/uinGXcRLlewC?hl=en"
                 ],
+                "taneja14": [
+                        "Harsh Taneja, Angela Xiao Wu",
+                        2014,
+                        "Does the Great Firewall really isolate the Chinese? Integrating access blockage with cultural factors to explain Web user behavior",
+                        "The Information Society",
+                        "https://doi.org/10.1080/01972243.2014.944728"
+                ],
                 "teevan11": [
                         "Jaime Teevan, William P. Jones",
                         2011,
                         "Personal Information Management",
                         "University of Washington Press",
                         "https://www.google.com/books/edition/Personal_Information_Management/pJkS9uRo00IC?hl=en"
+                ],
+                "toth18": [
+                        "Michal Tóth, Roman Chytilek",
+                        2018,
+                        "Fast, frugal and correct? An experimental study on the influence of time scarcity and quantity of information on the voter decision making process",
+                        "Public Choice",
+                        "https://doi.org/10.1007/s11127-018-0587-4"
                 ],
                 "toyama15": [
                         "Kentaro Toyama",
@@ -1211,6 +1330,13 @@
                         "ACM International Conference on Web Search and Data Mining",
                         "https://doi.org/10.1145/1718487.1718512"
                 ],
+                "vanduyn20": [
+                        "Emily Van Duyn",
+                        2020,
+                        "Mainstream Marginalization: Secret Political Organizing Through Social Media",
+                        "Social Media+ Society",
+                        "https://doi.org/10.1177%2F2056305120981044"
+                ],
                 "vitak12": [
                         "Jessica Vitak",
                         2012,
@@ -1239,6 +1365,13 @@
                         "Cambridge University Press",
                         "https://www.google.com/books/edition/Communities_of_Practice/heBZpgYUKdAC?hl=en"
                 ],
+                "west18": [
+                        "Sarah Myers West",
+                        2018,
+                        "Censored, suspended, shadowbanned: User interpretations of content moderation on social media platforms",
+                        "New Media & Society",
+                        "https://doi.org/10.1177%2F1461444818773059"
+                ],
                 "whittaker11": [
                         "Steve Whittaker, Tara Matthews, Julian Cerruti, Hernan Badenes, and John Tang",
                         2011,
@@ -1266,6 +1399,13 @@
                         "Repurposing emoji for personalised communication: Why🍕 means “I love you”",
                         "ACM CHI Conference on Human Factors in Computing Systems",
                         "https://doi.org/10.1145/3173574.3173726"
+                ],
+                "wolchok10": [
+                        "Scott Wolchok, Eric Wustrow, J. Alex Halderman, Hari K. Prasad, Arun Kankipati, Sai Krishna Sakhamuri, Vasavya Yagati, and Rop Gonggrijp",
+                        2010,
+                        "Security analysis of India's electronic voting machines",
+                        "ACM Conference on Computer and Communications Security",
+                        "https://doi.org/10.1145/1866307.1866309"
                 ],
                 "wu12": [
                         "Duojiao Wu, Catherine M. Rice, and Xiangdong Wang",
