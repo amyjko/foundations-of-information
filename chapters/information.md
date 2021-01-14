@@ -80,7 +80,7 @@ It also hides the complexity of context. Consider, for example, the many kinds o
 
 * *Why was the information created?* The intent behind information can shape its meaning as well. Consider, for example, when someone posts some form of hate speech on social media. Did they post it to get attention? To convey an opinion? To connect with like-minded people? To cause harm? As a joke? These different motives shape how others might interpret the message. That this context is often missing from social media posts is why short messages so often lead to confusion, misinterpretation, and outrage.
 
-These many forms of context, and the many others not listed here, show that while some aspects of information may be able to be represented with data, the social, emotional, cultural, and political context of how that data is received can shape information as well.
+These many forms of context, and the many others not listed here, show that while some aspects of information may be able to be represented with data, the social, emotional, cultural, and political context of how that data is received can shape information as well. Therefore, as D'Ignazio and Klein argued in _Data Feminism_, "the numbers don't speak for themselves"<dignazio20>: no information is neutral; all information reflects the social processes that created them, including their values, beliefs, and biases. Context is how we identify those values, believes, and biases.
 
 -
 
