@@ -44,7 +44,7 @@ It is rare that communities last forever. Some of the key reasons for this inclu
 * Platform maintainers make design changes that are disruptive to community norms, such as the infamous [2018 Snapchat redesign|https://www.theverge.com/2018/2/21/17037100/snapchat-update-redesign-petition-response] that condensed stories and snapchats into a single "Friends" page.
 * Platform policies evolve to become hostile to a community's values, or a community's values evolve and policies do not. For example, many experience harassment on Twitter, struggling to maintain block lists, and therefore leave<jhaver18>.
 
-These demonstrate that while a community's communication is key, so are the underlying information systems designed and maintained to support them.
+These demonstrate that while a community's communication is key, so are the underlying information systems designed and maintained to support them. Many researchers are investing new forms of community maintenance, such as online harassment moderation systems that use friends instead of platform maintainers or moderators<mahar18>.
 
 |Teamwork.jpg|A photograph of a group of people engaging in teamwork.|Teamwork is social, but it's also informational.|[Van Tay Media|https://unsplash.com/photos/Hh-PIe3qIug]|
 
