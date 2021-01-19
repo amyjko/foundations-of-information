@@ -92,14 +92,17 @@
                 {
                         "title": "Information + sustainability",
                         "id": "sustainability",
-                },
+                        "image": "|Glacier.jpg|A photograph of a glacier melting.|A site of climate change data collection.|[Cassie Matias|https://unsplash.com/photos/VSGEH7tKiUg]|"                },
                 {
                         "title": "Information careers",
                         "id": "careers",
                         "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
                 }
         ],
-        "sources": {},
+        "sources": {
+                "CHI": "ACM Conference on Human Factors in Computing Systems",
+                "CSCW": "ACM Conference on Computer Supported Cooperative Work and Social Computing"
+        },
         "references": {
                 "ackerman00": [
                         "Mark S. Ackerman",
@@ -188,7 +191,7 @@
                         "Cynthia L. Bennett and Daniela K. Rosner",
                         2019,
                         "The Promise of Empathy: Design, Disability, and Knowing the \"Other\"",
-                        "ACM CHI Conference on Human Factors in Computing Systems",
+                        "#CHI",
                         "https://doi.org/10.1145/3290605.3300528"
                 ],
                 "bhatt10": [
@@ -377,7 +380,7 @@
                         "Daniel A. Epstein, Monica Caraway, Chuck Johnston, An Ping, James Fogarty, and Sean A. Munson",
                         2016,
                         "Beyond abandonment to next steps: understanding and designing for life after personal informatics tool use",
-                        "ACM CHI Conference on Human Factors in Computing Systems",
+                        "#CHI",
                         "https://doi.org/10.1145/2858036.2858045"
                 ],
                 "erskine95": [
@@ -482,7 +485,7 @@
                         "Jonathan Grudin",
                         1988, 
                         "Why CSCW applications fail: problems in the design and evaluation of organizational interfaces",
-                        "ACM Conference on Computer-Supported Cooperative Work",
+                        "#CSCW",
                         "https://doi.org/10.1145/62266.62273"
                 ],
                 "grover93": [
@@ -574,7 +577,7 @@
                         "Fred Hohman, Andrew Head, Rich Caruana, Robert DeLine, and Steven M. Drucker",
                         2019,
                         "Gamut: A Design Probe to Understand How Data Scientists Understand Machine Learning Models",
-                        "ACM CHI Conference on Human Factors in Computing Systems",
+                        "#CHI",
                         "https://doi.org/10.1145/3290605.3300809"
                 ],
                 "hotho06": [
@@ -623,7 +626,7 @@
                         "Young-Wook Jung, Youn-kyung Lim, and Myung-suk Kim",
                         2017,
                         "Possibilities and limitations of online document tools for design collaboration: The case of Google Docs",
-                        "ACM Conference on Computer Supported Cooperative Work and Social Computing",
+                        "#CSCW",
                         "https://doi.org/10.1145/2998181.2998297"
                 ],
                 "kim16": [
@@ -644,7 +647,7 @@
                         "Aniket Kittur, Jeffrey V. Nickerson, Michael Bernstein, Elizabeth Gerber, Aaron Shaw, John Zimmerman, Matt Lease, and John Horton",
                         2013,
                         "The future of crowd work",
-                        "ACM Conference on Computer Supported Cooperative Work",
+                        "#CSCW",
                         "https://doi.org/10.1145/2441776.2441923"
                 ],
                 "kline85": [
@@ -672,7 +675,7 @@
                         "Cliff Lampe, Nicole B. Ellison, and Charles Steinfield",
                         2008,
                         "Changes in use and perception of Facebook",
-                        "ACM Conference on Computer Supported Cooperative Work",
+                        "#CSCW",
                         "https://doi.org/10.1145/1460563.1460675"
                 ],
                 "lee06": [
@@ -748,7 +751,7 @@
                         "Lena Mamykina, Bella Manoim, Manas Mittal, George Hripcsak, and Björn Hartmann",
                         2011,
                         "Design lessons from the fastest Q&A site in the west",
-                        "ACM SIGCHI Conference on Human Factors in Computing Systems",
+                        "#CHI",
                         "https://doi.org/10.1145/1978942.1979366"
                 ],
                 "marantz20": [
@@ -832,14 +835,14 @@
                         "Helena M. Mentis, Madhu Reddy, and Mary Beth Rosson",
                         2010,
                         "Invisible emotion: information and interaction in an emergency room",
-                        "ACM Conference on Computer Supported Cooperative Work",
+                        "#CSCW",
                         "https://doi.org/10.1145/1718918.1718975"
                 ],
                 "mentis17": [
                         "Helena M. Mentis, Anita Komlodi, Katrina Schrader, Michael Phipps, Ann Gruber-Baldini, Karen Yarbrough, and Lisa Shulman",
                         2017,
                         "Crafting a View of Self-Tracking Data in the Clinical Visit",
-                        "ACM CHI Conference on Human Factors in Computing Systems",
+                        "#CHI",
                         "https://doi.org/10.1145/3025453.3025589"
                 ],
                 "matsubayashi14": [
@@ -870,6 +873,13 @@
                         "The Study of Information: Interdisciplinary Messages",
                         "https://www.google.com/books/edition/The_Study_of_Information/JwpUAAAAMAAJ?hl=en"
                 ],
+                "mahar18": [
+                        "Kaitlin Mahar, Amy X. Zhang, David Karger",
+                        2018,
+                        "Squadbox: A Tool to Combat Email Harassment Using Friendsourced Moderation",
+                        "#CHI",
+                        "https://doi.org/10.1145/3173574.3174160"
+                ],
                 "moore08": [
                         "Adam D. Moore",
                         2008,
@@ -888,14 +898,14 @@
                         "Bonnie A. Nardi, Diane J. Schiano, and Michelle Gumbrecht",
                         2004,
                         "Blogging as social activity, or, would you let 900 million people read your diary?",
-                        "ACM Conference on Computer Supported Cooperative Work",
+                        "#CSCW",
                         "https://doi.org/10.1145/1031607.1031643"
                 ],
                 "nass94": [
                         "Clifford Nass, Jonathan Steuer, and Ellen R. Tauber",
                         1994,
                         "Computers are social actors",
-                        "ACM SIGCHI conference on Human factors in Computing Systems",
+                        "#CHI",
                         "https://doi.org/10.1145/191666.191703"
                 ],
                 "nickel16": [
@@ -958,7 +968,7 @@
                         "Shruti Phadke, Mattia Samory, and Tanushree Mitra",
                         2020,
                         "What Makes People Join Conspiracy Communities? Role of Social Factors in Conspiracy Engagement",
-                        "ACM Conference on Computer Supported Cooperative Work and Social Computing",
+                        "#CSCW",
                         "https://arxiv.org/abs/2009.04527"
                 ],
                 "page99": [
@@ -1056,7 +1066,7 @@
                         "Paul Resnick, Neophytos Iacovou, Mitesh Suchak, Peter Bergstrom, and John Riedl",
                         1994,
                         "GroupLens: an open architecture for collaborative filtering of netnews",
-                        "ACM Conference on Computer Supported Cooperative Work",
+                        "#CSCW",
                         "https://doi.org/10.1145/192844.192905"
                 ],
                 "reyes18": [
@@ -1287,6 +1297,13 @@
                         "Yale University Press",
                         "https://www.google.com/books/edition/King_s_Dream/uinGXcRLlewC?hl=en"
                 ],
+                "sweet19": [
+                        "Paige L. Sweet",
+                        2019,
+                        "The sociology of gaslighting",
+                        "American Sociological Review",
+                        "https://doi.org/10.1177%2F0003122419874843"
+                ],
                 "taneja14": [
                         "Harsh Taneja, Angela Xiao Wu",
                         2014,
@@ -1396,7 +1413,7 @@
                         "Steve Whittaker, Tara Matthews, Julian Cerruti, Hernan Badenes, and John Tang",
                         2011,
                         "Am I wasting my time organizing email? A study of email refinding",
-                        "ACM SIGCHI Conference on Human Factors in Computing Systems",
+                        "#CHI",
                         "https://doi.org/10.1145/1978942.1979457"
                 ],
                 "williams00": [
@@ -1417,7 +1434,7 @@
                         "Sarah Wiseman, Sandy JJ Gould",
                         2018,
                         "Repurposing emoji for personalised communication: Why🍕 means “I love you”",
-                        "ACM CHI Conference on Human Factors in Computing Systems",
+                        "#CHI",
                         "https://doi.org/10.1145/3173574.3173726"
                 ],
                 "wolchok10": [
@@ -1438,7 +1455,7 @@
                         "Ka-Ping Yee, Kirsten Swearingen, Kevin Li, and Marti Hearst",
                         2003,
                         "Faceted metadata for image search and browsing",
-                        "ACM SIGCHI Conference on Human Factors in Computing Systems",
+                        "#CHI",
                         "https://doi.org/10.1145/642611.642681"
                 ],
                 "zeleny05": [
