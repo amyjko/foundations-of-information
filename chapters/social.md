@@ -44,7 +44,9 @@ It is rare that communities last forever. Some of the key reasons for this inclu
 * Platform maintainers make design changes that are disruptive to community norms, such as the infamous [2018 Snapchat redesign|https://www.theverge.com/2018/2/21/17037100/snapchat-update-redesign-petition-response] that condensed stories and snapchats into a single "Friends" page.
 * Platform policies evolve to become hostile to a community's values, or a community's values evolve and policies do not. For example, many experience harassment on Twitter, struggling to maintain block lists, and therefore leave<jhaver18>.
 
-These demonstrate that while a community's communication is key, so are the underlying information systems designed and maintained to support them. Many researchers are investing new forms of community maintenance, such as online harassment moderation systems that use friends instead of platform maintainers or moderators<mahar18>.
+These demonstrate that while a community's communication is key, so are the underlying information systems designed and maintained to support them. 
+
+One key design choice in online communities is how to handle content moderation. All communities moderate somehow; at a minimum, platforms may only allow people with accounts to post, or may disallow content that is illegal where the community or platform operates. Most social media companies have a set of rules that govern what content is allowed, and they enforce those rules to varying degrees. For example, Twitter does not allow violent threats, promotions of terrorism, encouragement of sucide, doxxing, or harassment. However, it does allow other content, such as *gaslighting*, which is a form of abuse that makes victims seem or feel "crazy"<sweet19>. Because of the challenges of centralizing moderation, many researchers are investing new forms of decentralized moderation, such as online harassment moderation systems that use friends instead of platform maintainers or moderators<mahar18>.
 
 |Teamwork.jpg|A photograph of a group of people engaging in teamwork.|Teamwork is social, but it's also informational.|[Van Tay Media|https://unsplash.com/photos/Hh-PIe3qIug]|
 
@@ -77,3 +79,7 @@ Clearly, information technology has changed how we communicate, and in some ways
 # Podcasts
 
 * [Can Big Tech Make Sure That 2020 Is Not 2016?, Sway|https://sway.simplecast.com/episodes/can-big-tech-make-sure-that-2020-is-not-2016-j1sOJ9zx]. Discusses how social media platforms are amending policies around political advertising an disinformation.
+
+* [You Missed a Spot, On the Media|https://www.wnycstudios.org/podcasts/otm/episodes/on-the-media-you-missed-a-spot]. Discusses content moderation, deplatforming, free speech, and the future of social media.
+
+* [I Love Section 230. Got a Problem With That?, The Argument, NY Times|https://the-argument.simplecast.com/episodes/trump-section-230-facebook-twitter-trump-i8CQUVde]. A debate on Section 230, the left's desire for more aggressive moderation, the right's desire for less, and the surprising ways that the policy has created a marketplace for online speech.
