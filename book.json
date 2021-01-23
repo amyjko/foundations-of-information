@@ -145,6 +145,13 @@
                         "Cambridge University Press",
                         "https://www.google.com/books/edition/Non_verbal_Communication_in_Human_Social/9OGbOwAACAAJ?hl=en"
                 ],
+                "arrhenius96": [
+                        "Svante Arrhenius",
+                        1896,
+                        "On the influence of carbonic acid in the air upon the temperature of the ground",
+                        "The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science",
+                        "https://doi.org/10.1080/14786449608620846"
+                ],
                 "babst18": [
                         "Gorden A. Babst",
                         2018,
@@ -235,6 +242,13 @@
                         "The anatomy of a large-scale hypertextual web search engine",
                         "Computer Networks and ISDN Systems",
                         "https://research.google/pubs/pub334/"
+                ],
+                "brynjarsdottir12": [
+                        "Hronn Brynjarsdottir, Maria Håkansson, James Pierce, Eric Baumer, Carl DiSalvo, and Phoebe Sengers",
+                        2012,
+                        "Sustainably unpersuaded: how persuasion narrows our vision of sustainability",
+                        "#CHI",
+                        "https://doi.org/10.1145/2207676.2208539"
                 ],
                 "bock94": [
                         "Kathryn Bock, Willem Levelt",
@@ -348,6 +362,27 @@
                         "MIT Press",
                         "https://www.google.com/books/edition/Data_Feminism/x5nSDwAAQBAJ?hl=en"
                 ],
+                "disalvo10": [
+                        "Carl DiSalvo, Phoebe Sengers, and Hrönn Brynjarsdóttir",
+                        2010,
+                        "Mapping the landscape of sustainable HCI",
+                        "#CHI",
+                        "https://doi.org/10.1145/1753326.1753625"
+                ],
+                "dourish10": [
+                        "Paul Dourish",
+                        2010,
+                        "HCI and environmental sustainability: the politics of design and the design of politics",
+                        "ACM Conference on Designing Interactive Systems",
+                        "https://doi.org/10.1145/1858171.1858173"
+                ],
+                "dynes70": [
+                        "R. R. Dynes",
+                        1970,
+                        "Organized Behavior in Disaster",
+                        "Lexington Books",
+                        "https://www.google.com/books/edition/Organized_Behavior_in_Disaster/IeT48KFQkVMC?hl=en&gbpv=0"
+                ],
                 "eckert20": [
                         "Stine Eckert, Jade Metzger-Riftkin",
                         2020,
@@ -397,12 +432,26 @@
                         "St. Martin's Press",
                         "https://www.google.com/books/edition/Automating_Inequality/pn4pDwAAQBAJ?hl=en"
                 ],
+                "evans87": [
+                        "Edward Paysome Evans",
+                        1887,
+                        "The authorship of the glacial theory",
+                        "The North American Review",
+                        "https://www.jstor.org/stable/25101263"
+                ],
                 "farooq16": [
                         "Umer Farooq, Jonathan Grudin",
                         2016,
                         "Human-computer integration",
                         "interactions",
                         "http://dx.doi.org/10.1145/3001896"
+                ],
+                "faruqui10": [
+                        "Ahmad Faruqui, Sanem Sergici, and Ahmed Sharif",
+                        2010,
+                        "The impact of informational feedback on energy consumption—A survey of the experimental evidence",
+                        "Energy",
+                        "https://doi.org/10.1016/j.energy.2009.07.042"
                 ],
                 "faustosterling00": [
                         "Anne Fausto-Sterling",
@@ -445,6 +494,13 @@
                         "African Americans’ views on research and the Tuskegee Syphilis Study",
                         "Social Science & Medicine",
                         "https://doi.org/10.1016/S0277-9536(00)00178-7"
+                ],
+                "froehlich10": [
+                        "Jon Froehlich, Leah Findlater, and James Landay",
+                        2010,
+                        "The design of eco-feedback technology",
+                        "#CHI",
+                        "https://doi.org/10.1145/1753326.1753629"
                 ],
                 "furnas87": [
                         "George W. Furnas, Thomas K. Landauer, Louis M. Gomez, and Susan T. Dumais",
@@ -754,6 +810,13 @@
                         "#CHI",
                         "https://doi.org/10.1145/1978942.1979366"
                 ],
+                "manabe67": [
+                        "Syukuro Manabe, Richard T. Wetherald",
+                        1967,
+                        "Thermal equilibrium of the atmosphere with a given distribution of relative humidity",
+                        "Journal of the Atmospheric Sciences",
+                        "https://doi.org/10.1175%2F1520-0469%281967%29024%3C0241%3Ateotaw%3E2.0.co%3B2"
+                ],
                 "marantz20": [
                         "Andrew Marantz",
                         2020,
@@ -830,6 +893,13 @@
                         "How cancer survivors provide support on cancer-related Internet mailing lists",
                         "Journal of Medical Internet Research",
                         "https://doi.org/10.2196/jmir.9.2.e12"
+                ],
+                "mendoza10": [
+                        "Marcelo Mendoza, Barbara Poblete, and Carlos Castillo",
+                        2010,
+                        "Twitter under crisis: can we trust what we RT?",
+                        "First Workshop on Social Media Analytics",
+                        "https://doi.org/10.1145/1964858.1964869"                        
                 ],
                 "mentis10": [
                         "Helena M. Mentis, Madhu Reddy, and Mary Beth Rosson",
@@ -978,6 +1048,13 @@
                         "Stanford InfoLab",
                         "http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf"
                 ],
+                "palen07": [
+                        "Leysia Palen, Sarah Vieweg, Jeannette Sutton, Sophia B. Liu, and Amanda Hughes",
+                        2007,
+                        "Crisis informatics: Studying crisis in a networked world",
+                        "Proceedings of the Third International Conference on E-Social Science",
+                        "https://www.ics.uci.edu/~ucrec/pubs/upload/922_Palen2010.pdf"
+                ],
                 "parameswaran07": [
                         "Manoj Parameswaran, Andrew B. Whinston",
                         2007,
@@ -991,6 +1068,13 @@
                         "Characterizations of online harassment: Comparing policies across social media platforms",
                         "International Conference on Supporting Group Work",
                         "https://doi.org/10.1145/2957276.2957297"
+                ],
+                "patrick19": [
+                        "Katie Patrick",
+                        2019,
+                        "How to save the world",
+                        "BLURB Incorporated",
+                        "https://www.google.com/books/edition/How_to_Save_the_World/toUxxQEACAAJ?hl=en"
                 ],
                 "pentzold10": [
                         "Christian Pentzold",
@@ -1269,6 +1353,13 @@
                         "University of Minnesota Press",
                         "https://www.google.com/books/edition/Black_on_Both_Sides/_il0DwAAQBAJ?hl=en"
                 ],
+                "starbird11": [
+                        "Kate Starbird, Leysia Palen",
+                        2011,
+                        "\"Voluntweeters\": self-organizing by digital volunteers in times of crisis",
+                        "#CHI",
+                        "https://doi.org/10.1145/1978942.1979102"
+                ],
                 "starbird19": [
                         "Kate Starbird, Ahmer Arif, Tom Wilson",
                         2019,
@@ -1374,6 +1465,20 @@
                         "Social Media+ Society",
                         "https://doi.org/10.1177%2F2056305120981044"
                 ],
+                "varotto17": [
+                        "Alessandra Varotto, and Anna Spagnolli",
+                        2017,
+                        "Psychological strategies to promote household recycling. A systematic review with meta-analysis of validated field interventions",
+                        "Journal of Environmental Psychology",
+                        "https://doi.org/10.1016/j.jenvp.2017.03.011"
+                ],
+                "vieweg10": [
+                        "Sarah Vieweg, Amanda L. Hughes, Kate Starbird, and Leysia Palen",
+                        2010,
+                        "Microblogging during two natural hazards events: what twitter may contribute to situational awareness",
+                        "#CHI",
+                        "https://doi.org/10.1145/1753326.1753486"
+                ],
                 "vitak12": [
                         "Jessica Vitak",
                         2012,
@@ -1394,6 +1499,13 @@
                         "The current state of business intelligence",
                         "IEEE Computer",
                         "https://doi.org/10.1109/MC.2007.331"
+                ],
+                "weart03": [
+                        "S. Weart",
+                        2003,
+                        "The Discovery of Global Warming",
+                        "Harvard University Press",
+                        "https://www.google.com/books/edition/The_Discovery_of_Global_Warming/zcr3WJ4wP10C?hl=en&gbpv=0"
                 ],
                 "wenger99": [
                         "Etienne Wenger",
@@ -1457,6 +1569,13 @@
                         "Faceted metadata for image search and browsing",
                         "#CHI",
                         "https://doi.org/10.1145/642611.642681"
+                ],
+                "young95": [
+                        "Davis A. Young",
+                        1995,
+                        "The Biblical Flood: A Case Study of the Church's Response to Extrabiblical Evidence",
+                        "University of Michigan",
+                        "https://www.google.com/books/edition/The_Biblical_Flood/hL7YAAAAMAAJ?hl=en&gbpv=0"
                 ],
                 "zeleny05": [
                         "Milan Zeleny",
