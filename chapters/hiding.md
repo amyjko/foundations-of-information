@@ -104,3 +104,5 @@ Is all of this is inconvenient? Yes, and much more so than physical security can
 Want to learn more about privacy and security? Consider these podcasts, which engage some of the many new challenges that digital privacy and security pose on society:
 
 * [Right to be Forgotten, Radiolab|https://www.wnycstudios.org/podcasts/radiolab/articles/radiolab-right-be-forgotten]. This podcast discusses the many challenges of archiving private data, and how the context of that data can shift over time, causing new harm.
+
+* [What Happens in Vegas... is Captured on Camera, In Machines We Trust|https://www.technologyreview.com/2020/08/12/1006676/police-face-recognition-vegas-miami-new-york/]. Discusses the increasing use of facial recogntion in police surveillance and the lack of transparency, oversight, and policy that has led to its abuse.

@@ -95,3 +95,5 @@ Of course, the internet is superior in somethings: it wins in *speed*, and *curr
 These podcasts explore some of the strengths and weaknesses of modern information systems.
 
 * [Rabbit Hole, Episode 1|https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html], New York Times. Discusses YouTube as an information system, and the kinds of information experiences it excels at creating.
+
+* [Why the Vaccine Websites Suck, What Next TBD|https://slate.com/podcasts/what-next-tbd/2021/01/vaccine-websites-failing]. Discusses the many policies, practices, and market dynamics that result in U.S. government websites being so poor in quality.
