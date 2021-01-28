@@ -94,9 +94,9 @@
                         "id": "sustainability",
                         "image": "|Glacier.jpg|A photograph of a glacier melting.|A site of climate change data collection.|[Cassie Matias|https://unsplash.com/photos/VSGEH7tKiUg]|"                },
                 {
-                        "title": "Information careers",
-                        "id": "careers",
-                        "image": "|error.gif|An animated gif of television noise.|No image for this chapter yet!|Blackworker (GIFER)|"
+                        "title": "Information + industry",
+                        "id": "industry",
+                        "image": "|Work.jpg|Five people working at a table and whiteboard with sticky notes.|Information work|[You X Ventures|https://unsplash.com/photos/Oalh2MojUuk]|"
                 }
         ],
         "sources": {
@@ -376,6 +376,13 @@
                         "ACM Conference on Designing Interactive Systems",
                         "https://doi.org/10.1145/1858171.1858173"
                 ],
+                "dweck08": [
+                        "Carol S. Dweck",
+                        2008,
+                        "Mindset: The new psychology of success",
+                        "Random House Digital, Inc.",
+                        "https://www.google.com/books/edition/Mindset/fT6U0Ee7_kQC?hl=en&gbpv=0"
+                ],
                 "dynes70": [
                         "R. R. Dynes",
                         1970,
@@ -417,6 +424,13 @@
                         "Beyond abandonment to next steps: understanding and designing for life after personal informatics tool use",
                         "#CHI",
                         "https://doi.org/10.1145/2858036.2858045"
+                ],
+                "ericsson93": [
+                        "K. Anders Ericsson, Ralf T. Krampe, and Clemens Tesch-Römer",
+                        1993,
+                        "The role of deliberate practice in the acquisition of expert performance",
+                        "Psychological Review",
+                        "https://psycnet.apa.org/doi/10.1037/0033-295X.100.3.363"
                 ],
                 "erskine95": [
                         "Andrew Erskine",
@@ -620,6 +634,13 @@
                         "Mercator: A scalable, extensible web crawler",
                         "World Wide Web",
                         "https://doi.org/10.1023/A:1019213109274"
+                ],
+                "hidi06": [
+                        "Suzanne Hidi, and K. Ann Renninger",
+                        2006,
+                        "The four-phase model of interest development",
+                        "Educational Psychologist",
+                        "https://doi.org/10.1207/s15326985ep4102_4"
                 ],
                 "hirschberg15": [
                         "Julia Hirschberg, Christopher Manning",
@@ -1020,6 +1041,13 @@
                         "Computers & Security",
                         "https://doi.org/10.1016/j.cose.2015.10.002"
                 ],
+                "okeefe18": [
+                        "Paul A. O’Keefe, Carol S. Dweck, and Gregory M. Walton",
+                        2018,
+                        "Implicit theories of interest: Finding your passion or developing it?",
+                        "Psychological Science",
+                        "https://doi.org/10.1177%2F0956797618780643"
+                ],
                 "olson09": [
                         "Gary M. Olson, Judith S. Olson",
                         2009,
@@ -1352,6 +1380,13 @@
                         "Black on both sides: A racial history of trans identity",
                         "University of Minnesota Press",
                         "https://www.google.com/books/edition/Black_on_Both_Sides/_il0DwAAQBAJ?hl=en"
+                ],
+                "spencer16": [
+                        "Steven J. Spencer, Christine Logel, and Paul G. Davies",
+                        2016,
+                        "Stereotype threat",
+                        "Annual Review of Psychology",
+                        "https://doi.org/10.1146/annurev-psych-073115-103235"
                 ],
                 "starbird11": [
                         "Kate Starbird, Leysia Palen",
