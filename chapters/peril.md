@@ -55,3 +55,5 @@ These, of course, are not the only potential problems with information. The worl
 The podcasts below all reveal the peril of information in different ways.
 
 * _[Family Stories, Family Lies|https://www.npr.org/2020/12/22/949425455/family-stories-family-lies], Code Switch_. Shares one story of how the origins of a family name are far more complicated than one can ever imagine, capturing a multi-generation history of love and oppression.
+
+* _[A Conspiracy Theory Proved Wrong, The Daily, The New York Times|https://www.nytimes.com/2021/01/29/podcasts/the-daily/qanon-conspiracy-theory-trump.html]_. Discusses the history of the QAnon conspiracy and its aftermath after its predictions did not come true.
