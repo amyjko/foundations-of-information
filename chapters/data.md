@@ -110,3 +110,9 @@ While some metadata is carefully designed and curated by the creators of data, s
 -
 
 Thus far, we have established that information is powerful when it is situated in systems of power, that this power can lead to problems, and that information is likely a process of interpreting data, and integrating it into our knowledge. This is apparent in the story that began this chapter, in which the information gathered by U.S. Census has great power to distribute political power and federal resources. What this chapter has shown us is that the data itself has its own powers and perils, manifested in encoding and metadata, and illustrated by how the U.S. Census encoding of gender and race excluded my identity and millions of others. This illustrates that the that the choices about how to encode data and metadata reflect the values, beliefs, and priorities of the systems of power in which they are situated. Designers of data, therefore, must recognize the systems of power in which they sit, carefully reflecting on how their choices might exclude.
+
+# Podcasts
+
+Learn more about data and encoding:
+
+* [Emojiconomics, Planet Money, NPR|https://www.npr.org/2021/02/02/963370085/emojiconomics]. Discusses the fraught role of business and money in the Unicode emoji proposal process.
