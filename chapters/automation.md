@@ -48,4 +48,6 @@ Of course, the dichotomy between automation and augmentation is a false one. Com
 
 # Podcasts
 
-* _[What happens when an algorithm gets it wrong, In Machines We Trust, MIT Technology Review|https://www.technologyreview.com/2020/08/12/1006636/face-recognition-algorithm-false-arrest-police-robert-williams/]. Discusses a false arrest based in racially biased facial recogntion software.
+* [_What happens when an algorithm gets it wrong, In Machines We Trust, MIT Technology Review_|https://www.technologyreview.com/2020/08/12/1006636/face-recognition-algorithm-false-arrest-police-robert-williams/]. Discusses a false arrest based in racially biased facial recogntion software.
+
+* [_AI in the Driver's Seat, In Machines We Trust, MIT Technology Review_|https://www.technologyreview.com/2020/09/24/1008878/why-people-might-never-use-autonomous-cars/]. Discusses the many complexities in human-machine communication that have been largely ignored in the design and engineering of current driverless car technology.
