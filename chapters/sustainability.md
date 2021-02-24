@@ -82,3 +82,7 @@ Twitter, of course, and social media in general, are not the only information sy
 -
 
 Fundamentally, information about the climate has the greatest potential to impact our lives, saving us from disaster and helping us find sustainable ways to preserve the fragile balance of our planet and its ecosystem. And yet, because this information is often so indirectly related to our behavior, so distant in our futures, many of the problems that we hope to prevent through information eventually translate into crises, in which information directly impacts our immediate well-being. Is it possible to stop this cycle of short-term focus, and long-term disaster? If the history of information and sustainability proves anything, it's that information and information technology are necessary, but insufficient to survive on this planet.
+
+# Podcasts
+
+* _[Innovation, Not Trees. how Bill Gates Plans to Save the Planet, Sway, NY Times|https://www.nytimes.com/2021/02/15/opinion/sway-kara-swisher-bill-gates.html?]_. An interview with Bill Gates, covering the many energy and information technology innovations required to reach net zero.
