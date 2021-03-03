@@ -71,3 +71,7 @@ Of course, communities can also suffocate learning and deter interests. Consider
 -
 
 Pursuing careers in information, and encountering conflicts in organizations, reinforce the social and cultural nature of organizations that engage in information system design, and the central questions of power at the heart of these organizations. Who decides what we make? What values shape what we make? And when the people involved in making them disagree with an organizations strategic direction, what power do they have to resist that decision? Careers in information can be impactful, lucrative, and meaningful, but because of the increasing power given to information systems and the organizations that create them, organizations can also be sites of cultural tension and moral responsibility. What information problems do you want to solve in the world. Why? And which organizations can help you do that?
+
+# Podcasts
+
+* _[Timnit Gebru Tells Her Story, In Machines We Trust, MIT Technology Review|https://www.technologyreview.com/2020/12/16/1014634/google-ai-ethics-lead-timnit-gebru-tells-story/]_. Gebru describes the toxic work environment at Google that punished advocacy, community organizing, and ultimately scientific progress on AI ethics.
