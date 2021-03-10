@@ -83,3 +83,5 @@ Clearly, information technology has changed how we communicate, and in some ways
 * [You Missed a Spot, On the Media|https://www.wnycstudios.org/podcasts/otm/episodes/on-the-media-you-missed-a-spot]. Discusses content moderation, deplatforming, free speech, and the future of social media.
 
 * [I Love Section 230. Got a Problem With That?, The Argument, NY Times|https://the-argument.simplecast.com/episodes/trump-section-230-facebook-twitter-trump-i8CQUVde]. A debate on Section 230, the left's desire for more aggressive moderation, the right's desire for less, and the surprising ways that the policy has created a marketplace for online speech.
+
+* [Restoring Justice Online, On the Media|https://www.wnycstudios.org/podcasts/otm/episodes/on-the-media-fix-the-internet]. Discusses conflict and harassment online and how methods of restorative justice hold promise to rehabilitate online communities suffering from interpersonal conflict.
