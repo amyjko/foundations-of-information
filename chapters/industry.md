@@ -75,3 +75,5 @@ Pursuing careers in information, and encountering conflicts in organizations, re
 # Podcasts
 
 * _[Timnit Gebru Tells Her Story, In Machines We Trust, MIT Technology Review|https://www.technologyreview.com/2020/12/16/1014634/google-ai-ethics-lead-timnit-gebru-tells-story/]_. Gebru describes the toxic work environment at Google that punished advocacy, community organizing, and ultimately scientific progress on AI ethics.
+
+* _[Does Google Actually Want to Hire Black Engineers?|https://slate.com/podcasts/what-next-tbd/2021/03/google-hbcus-hiring]_. Discusses the problematic and incrementally effective partnership between Google and HBCU's.
