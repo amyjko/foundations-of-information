@@ -115,4 +115,6 @@ Thus far, we have established that information is powerful when it is situated i
 
 Learn more about data and encoding:
 
-* [Emojiconomics, Planet Money, NPR|https://www.npr.org/2021/02/02/963370085/emojiconomics]. Discusses the fraught role of business and money in the Unicode emoji proposal process.
+* _[Emojiconomics, Planet Money, NPR|https://www.npr.org/2021/02/02/963370085/emojiconomics]_. Discusses the fraught role of business and money in the Unicode emoji proposal process.
+
+* _[Our Year: Emergency Mode Can’t Last Forever, What Next, Slate|https://slate.com/podcasts/what-next/2021/03/when-is-the-pandemic-over]_. Discusses the processes by which COVID-19 data have been produced in the United States, and the messy and complex metadata that makes analaysis and decision making more difficult.
