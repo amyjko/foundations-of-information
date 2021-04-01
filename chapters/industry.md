@@ -79,3 +79,5 @@ Pursuing careers in information, and encountering conflicts in organizations, re
 * _[Does Google Actually Want to Hire Black Engineers?, What Next TBD, Slate|https://slate.com/podcasts/what-next-tbd/2021/03/google-hbcus-hiring]_. Discusses the problematic and incrementally effective partnership between Google and HBCU's.
 
 * _[Project Maven, Recode Daily, Vox|https://podcasts.apple.com/us/podcast/project-maven/id1479107698?i=1000513649831]_. Discusses a Google Department of Defense weapons contract and an internal effort by some Google employees to protest and resist the project, resulting its cancelation.
+
+* _[A Union Drive at Amazon, The Daily, New York Times|https://the-daily.simplecast.com/episodes/20210401-5vfXdpMs]_. Discusses the extreme employee surveillance at Amazon warehouses, and how those surveillance activities led to unionization efforts at one warehouse in Bessember, Alabama.
