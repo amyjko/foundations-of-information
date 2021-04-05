@@ -86,7 +86,7 @@ It's easy to be impressed by the scientific and engineering feats that have prod
 
 Learn more about information seeking and search:
 
-* [Who We Are At 2 a.m., Hidden Brain, NPR|https://www.npr.org/2017/05/01/526399881/what-our-google-searches-reveal-about-who-we-really-are]_. Discusses the role of search engines in creating private spaces for learning.
+* _[Who We Are At 2 a.m., Hidden Brain, NPR|https://www.npr.org/2017/05/01/526399881/what-our-google-searches-reveal-about-who-we-really-are]_. Discusses the role of search engines in creating private spaces for learning.
 
 * _[Bias and Perception, TED Radio Hour, NPR|https://podcasts.apple.com/us/podcast/bias-and-perception/id523121474?i=1000429912541]_. Discusses bias, perception, and how search engines can perpetuate them.
 
