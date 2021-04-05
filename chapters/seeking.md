@@ -81,3 +81,13 @@ Of course, knowing all of the above, one thing should become obvious: search eng
 |Bad Google.png|A screenshot of a Google Search result that describes Barack Obama as the King of United States.|Google doesn't verify that you've asked the right question.|Unknown|
 
 It's easy to be impressed by the scientific and engineering feats that have produced web search engines. They are, unquestionably, one of the most impactful and disruptive information technologies of our time. However, it's critical to remember their many limitations: they do not help help us know what we want to know; they do not help us choose the right words to find it; they do not help us know if what we've found is relevant or true; and they do not help us make sense of it. All they do is quickly retrieve what other people on the internet have shared. While this is a great feat, all of the content on the internet is far from everything we know, and quite often a poor substitute for expertise. But we are satisficers, and so this often seems good enough. But our desire for speed and ambience to truth has consequences, as we have seen.
+
+# Podcast
+
+Learn more about information seeking and search:
+
+* [Who We Are At 2 a.m., Hidden Brain, NPR|https://www.npr.org/2017/05/01/526399881/what-our-google-searches-reveal-about-who-we-really-are]_. Discusses the role of search engines in creating private spaces for learning.
+
+* _[Bias and Perception, TED Radio Hour, NPR|https://podcasts.apple.com/us/podcast/bias-and-perception/id523121474?i=1000429912541]_. Discusses bias, perception, and how search engines can perpetuate them.
+
+* _[The Force of Google, Seriously, BBC|https://www.bbc.co.uk/programmes/p03tprfw]_. Discusses Google as a monopoly and the secrecy of the Google Search algorithm.
