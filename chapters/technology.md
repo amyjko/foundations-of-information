@@ -112,3 +112,9 @@ But are computers really the _best_ information technology? Just because they ar
 The dominant narrative that positions computing as superior rests upon the belief that all of the trends above are ultimately better for society. But the reality is that computing is not magic, computing is not infinitely powerful, computing is highly dependent on human labor to write code and create data, and most of the reason that people want computers is because they want information. As we have seen throughout history, fascination with the latest form of information technologies often grants far too much power to the technology itself, overlooking the people behind it and how it is used.
 
 Of course, computing _is_ far more powerful than any information technology we have invented. It is faster, more versatile, and more disruptive than anything that has come before it. While we have long assumed that the power of computing is inherently good, history has also taught is that no information technology is inherently good or bad, nor is it neutral: it is what we do with it that matters, just like information itself.
+
+# Podcasts
+
+Learn more about information technology:
+
+* _[The AI of the Beholder, In Machines We Trust, MIT Technology Review|https://www.technologyreview.com/2021/04/01/1021671/podcast-rate-beauty-ai-score-attractive-algorithm-face/]_. Discusses recent advances in applying machine learning to beauty, and the shift from altering our physical appearance with makeup and surgery to alterning the pixels that represent it. Discusses racism, ageism, and other biases encoded into beautification algorithms.
