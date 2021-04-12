@@ -100,9 +100,9 @@ These four areas of information ethics are of course just some of many informati
 
 Interested in learning more about information ethics, policy, and regulation? Consider these podcasts, which investigate current events:
 
-* [Who Owns the Future? On the Media|https://podcasts.apple.com/us/podcast/on-the-media/id73330715?i=1000502880896]. Discusses the U.S. Justice departments' anti-trust case against Facebook.
+* _[Who Owns the Future? On the Media|https://podcasts.apple.com/us/podcast/on-the-media/id73330715?i=1000502880896]_. Discusses the U.S. Justice departments' anti-trust case against Facebook.
 
-* [Unspeakable Trademark, Planet Money|https://www.npr.org/sections/money/2017/05/26/530252213/episode-774-unspeakable-trademark]. Discusses what rights people have to trademark names and how these rights intersect with culture and identity.
+* _[Unspeakable Trademark, Planet Money|https://www.npr.org/sections/money/2017/05/26/530252213/episode-774-unspeakable-trademark]_. Discusses what rights people have to trademark names and how these rights intersect with culture and identity.
 
 * _[The High Court of Facebook, The Gist|https://slate.com/podcasts/the-gist/2020/08/kate-klonick-facebook-supreme-court]_. Discusses Facebook's long-demanded formation of an independent body for making censorship decisions.
 
