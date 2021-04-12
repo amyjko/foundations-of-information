@@ -92,3 +92,7 @@ One clever combination of interface design and information architecture is *face
 -
 
 One short chapter on the intersection between information, design, and interfaces is not nearly enough to convey the rich practices that surround the design of information, information technology, and information systems. However, fundamentally, these practices ultimately stem from the desire to connect people to information by making accessible, usable, and useful interfaces. The key challenge is designing interfaces that don't just serve the common cases, but also the diversity of exceptional cases at the margin of human experience. Only then will information be truly accessible to all.
+
+# Podcasts
+
+* _[Listen now! Offer ends soon, Recode Daily, Vox|https://podcasts.apple.com/us/podcast/recode-daily/id1479107698?i=1000516402733]_. Discusses the dark patterns used throughout design to manipulate people into interacting and generating ad revenue, including new policies that are beginning to regulate these design patterns.
