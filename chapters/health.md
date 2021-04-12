@@ -50,10 +50,12 @@ At the foundation of all of these intersections between information and health a
 
 For more about the intersection of health and information, consider these podcasts:
 
-* [The Ashes on the Lawn, Radiolab|https://podcasts.apple.com/us/podcast/radiolab/id152249110?i=1000502797262]. Describes the history of HIV/AIDS advocacy, and the response of the U.S. federal government to this advocacy.
+* _[The Ashes on the Lawn, Radiolab|https://podcasts.apple.com/us/podcast/radiolab/id152249110?i=1000502797262]_. Describes the history of HIV/AIDS advocacy, and the response of the U.S. federal government to this advocacy.
 
-* [The Great Vaccinator, Radiolab|https://podcasts.apple.com/us/podcast/radiolab/id152249110?i=1000501295435]. Describes the contributions of Maurice Hilleman, inventor of more than 40 vaccines, many routinely given to children.
+* _[The Great Vaccinator, Radiolab|https://podcasts.apple.com/us/podcast/radiolab/id152249110?i=1000501295435]_. Describes the contributions of Maurice Hilleman, inventor of more than 40 vaccines, many routinely given to children.
 
-* [The Science Behind The Historic mRNA Vaccine, Short Wave|https://podcasts.apple.com/us/podcast/the-science-behind-the-historic-mrna-vaccine/id1482575855?i=1000502685780]. Describes the science behind the mRNA technology used in the Pfizer-BioNTech COVID-19 vaccine.
+* _[The Science Behind The Historic mRNA Vaccine, Short Wave|https://podcasts.apple.com/us/podcast/the-science-behind-the-historic-mrna-vaccine/id1482575855?i=1000502685780]_. Describes the science behind the mRNA technology used in the Pfizer-BioNTech COVID-19 vaccine.
 
-* [Down and Dirty with Covid Genes, In Machines We Trust, MIT Technology Review|https://www.technologyreview.com/2020/08/26/1007705/down-and-dirty-with-covid-genes/]. Describes the many ways that DNA scrubbing and machine learning is being used to detect and treat disease.
+* _[Down and Dirty with Covid Genes, In Machines We Trust, MIT Technology Review|https://www.technologyreview.com/2020/08/26/1007705/down-and-dirty-with-covid-genes/]_. Describes the many ways that DNA scrubbing and machine learning is being used to detect and treat disease.
+
+* _[The Rise of Therapy Apps, What Next TBD, Slate|https://slate.com/podcasts/what-next-tbd/2021/04/therapy-apps]_. Discusses a new genre of therapy apps intended to scale access to mental health, as well as their limitations, and the risks of lowering the bar on care.
