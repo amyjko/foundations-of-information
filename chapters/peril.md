@@ -34,7 +34,7 @@ Some information may be true, but may be created to *manipulate*, by misrepresen
 
 |Menu.jpg|A photograph of a person looking at a complex menu at a cafe|Choice overload can complicate decisions.|Will Esayenko|
 
-Information can also *overload*<scheibehenne10>. In a context where there are two many options--too many search results, too many products, too many tweets, too many emails--it is possible for too much information to lead to people being less happy with their choices or making no choice at all. These effects are not consistent--sometimes information overload occurs and strongly influences decision outcomes, and other times it actually helps. This research suggests that the whether information about choices is good depends on what the information is and what the decision is.
+Information can also *overload*<scheibehenne10>. In a context where there are too many options--too many search results, too many products, too many tweets, too many emails--it is possible for too much information to lead to people being less happy with their choices or making no choice at all. These effects are not consistent--sometimes information overload occurs and strongly influences decision outcomes, and other times it actually helps. This research suggests that whether information about choices is good depends on what the information is and what the decision is.
 
 |Gaming.jpg|A photograph of people gaming in front of PCs in the dark|Gaming can be both fun and addictive.|Fredrick Tendong|
 
