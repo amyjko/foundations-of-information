@@ -50,7 +50,7 @@ Information can also *kill*. Consider, for example, the case of the [Uber autono
 
 -
 
-These, of course, are not the only potential problems with information. The world has ongoing struggle to with the tensions of free speech, censorship, and the many ways we have discussed above that information can do harm. With the ability of the internet to archive much of our past, there are also many open questions about what rights we have to erase information stored on other people's computers that might tie is to a past life, a past action, or a past name or identity. These and the numerous many other questions, reinforce that information is has values, and those values are intrinsically tied to the ways that we exercise control over each other.
+These, of course, are not the only potential problems with information. The world has ongoing struggle with the tensions of free speech, censorship, and the many ways we have discussed above that information can do harm. With the ability of the internet to archive much of our past, there are also many open questions about what rights we have to erase information stored on other people's computers that might tie us to a past life, a past action, or a past name or identity. These and the numerous many other questions, reinforce that information has values, and those values are intrinsically tied to the ways that we exercise control over each other.
 
 # Podcasts
 
