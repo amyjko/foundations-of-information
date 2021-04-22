@@ -52,4 +52,4 @@ Of course, the dichotomy between automation and augmentation is a false one. Com
 
 * [_AI in the Driver's Seat, In Machines We Trust, MIT Technology Review_|https://www.technologyreview.com/2020/09/24/1008878/why-people-might-never-use-autonomous-cars/]. Discusses the many complexities in human-machine communication that have been largely ignored in the design and engineering of current driverless car technology.
 
-* _[She's Taking Jeff Bezos to Task, Sway, NY Times|https://www.nytimes.com/2021/04/19/opinion/sway-kara-swisher-joy-buolamwini.html]_. An interview with Joy Buolamwini, an activist who leads the Algorithmic Justice League, about facial recognition and algorithmic bias.
+* _[She's Taking Jeff Bezos to Task, Sway, NY Times|https://www.nytimes.com/2021/04/19/opinion/sway-kara-swisher-joy-buolamwini.html]_. An interview with Joy Buolamwini, an activist who leads the Algorithmic Justice League, about facial recognition, algorithmic bias, corporate resistance, and opportunities for AI legislation.
