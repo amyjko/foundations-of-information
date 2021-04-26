@@ -32,7 +32,7 @@ As European colonialism waned and modern democracies emerged, information was a 
 
 |MLK.jpg|Martin Luther King, Jr. speaking|Martin Luther King, Jr. gives _I have a dream_.|Unknown|
 
-Some of these injustices in the United States led to information that changed the course of civil rights. For example, Martin Luther King, Jr's 1963 speech, _I have a dream_, conveyed a vision of the United States without racism<sundquist09>. It pressured the U.S. congress to advance civil rights legislation, and create a generation of activists to fight for racial justice, trying to overcome the racist beliefs and laws that had been at the foundation of U.S. history and it's constitution. Information, therefore, *inspires* us.
+Some of these injustices in the United States led to information that changed the course of civil rights. For example, Martin Luther King, Jr's 1963 speech, _I have a dream_, conveyed a vision of the United States without racism<sundquist09>. It pressured the U.S. Congress to advance civil rights legislation, and create a generation of activists to fight for racial justice, trying to overcome the racist beliefs and laws that had been at the foundation of U.S. history and its constitution. Information, therefore, *inspires* us.
 
 |Obama Certificate.jpg|A green printed birth certificate from Hawaii|Obama's birth certificate was at the center of conspiracy theory|Unknown|
 
