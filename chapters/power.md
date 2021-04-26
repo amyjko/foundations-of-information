@@ -24,7 +24,7 @@ Stories of the power of information abound in history<janes17>. For example, in 
 
 |Gregorian Calendar.jpg|On the left, the cover of the proclamation, and on the right, the month of October.|The Gregorian calendar, which standardized time for Western civilization.|Unknown|
 
-Prior to 1592, there was no standard calendar in western civilization, and so it was hard to discuss time. The declaration of Pope Gregory XIII defined months, weeks, years, and days for Europe--and due to the rampant colonialism that followed--for most of the world<moyer82>. It became the basis of time zones, international trade, and is now deeply encoded in computers, through application programming interfaces that facilitate time and date arithemtic. Information, therefore, *organizes* us.
+Prior to 1592, there was no standard calendar in western civilization, and so it was hard to discuss time. The declaration of Pope Gregory XIII defined months, weeks, years, and days for Europe--and due to the rampant colonialism that followed--for most of the world<moyer82>. It became the basis of time zones, international trade, and is now deeply encoded in computers, through application programming interfaces that facilitate time and date arithmetic. Information, therefore, *organizes* us.
 
 |Constitution.jpg|The original U.S. Constitution|The information in the U.S. Constitution continues to be the supreme law of the United States.|Public Domain|
 
