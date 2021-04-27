@@ -35,7 +35,7 @@ When people do their informational work "at the console" and "through the networ
 
 " Licklider and Taylor, _The Computer as a Communication Device_<licklider68>
 
-The vision, while not perfect in its clairvoyance, laid out several hard problems that needed to be solved to realize the networked future: how to format and send messages reliably; where to store data; and most importantly, how to ensure everyone could have access to a computer to participate. This led to the U.S. APRANET project, which sought to solve many of these problems through government-funded research and innovation. This history is told by her by Robert Kahn, discussing the motivations behind the beginnings of the internet:
+The vision, while not perfect in its clairvoyance, laid out several hard problems that needed to be solved to realize the networked future: how to format and send messages reliably; where to store data; and most importantly, how to ensure everyone could have access to a computer to participate. This led to the U.S. APRANET project, which sought to solve many of these problems through government-funded research and innovation. This history is told by Robert Kahn, discussing the motivations behind the beginnings of the internet:
 
 |https://www.youtube.com/embed/ZXTuu7i4hEY|Kahn and Cerf on why the ARPANET was built|Robert Kahn, one of the key inventors behind the internet, speaks about the motivations behind the ARPANET.|Turing Awardee Clips|
 
