@@ -102,4 +102,4 @@ These podcasts explore some of the strengths and weaknesses of modern informatio
 
 * _[Why the Vaccine Websites Suck, What Next TBD|https://slate.com/podcasts/what-next-tbd/2021/01/vaccine-websites-failing]_. Discusses the many policies, practices, and market dynamics that result in U.S. government websites being so poor in quality.
 
-* _[Seduced by Substack, What Next TBD, Slate|https://slate.com/podcasts/what-next-tbd/2021/04/why-you-keep-hearing-about-substack]_. Discusses why some journalists are shifting from traditional journalism to a paid newsletter model on Substack, and the tradeoffs of the new model for editorial oversite, labor, and chasing audience.
+* _[Seduced by Substack, What Next TBD, Slate|https://slate.com/podcasts/what-next-tbd/2021/04/why-you-keep-hearing-about-substack]_. Discusses why some journalists are shifting from traditional journalism to a paid newsletter model on Substack, and the tradeoffs of the new model for editorial oversight, labor, and chasing audience.

@@ -26,7 +26,7 @@ While most of Simon's ideas were applied to organizations such for-profit busine
 
 There are many kinds of information that can be considered "personal":
 
-* Information that people keep, whether stored on paper or in digital form. This includes critical document ssuch as licenses, birth certificates, and passports, but also personally meaningful documents like mementos, letters, and other information-carrying documents.
+* Information that people keep, whether stored on paper or in digital form. This includes critical document such as licenses, birth certificates, and passports, but also personally meaningful documents like mementos, letters, and other information-carrying documents.
 * Information about a person but kept by others. This includes things like health or student records and histories of tax or bill payments.
 * Information directed towards a person, such as emails, social media messages, and advertisements.
 

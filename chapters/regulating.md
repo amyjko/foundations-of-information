@@ -50,7 +50,7 @@ Perhaps the most sweeping privacy law has been the European Union's General Data
 * Data must be secured and confidential; and 
 * Organizations must obtain unambiguous, freely given, specific, informed, documented and revokable consent for the data collection. 
 
-This law sent strong waves through the software industry, requiring it to spend years reengineering its software to be compliant<albrecht16>. Because GDPR only applied to EU citizens, some U.S. states have sought to replicate the law. California was the first, passing the California Consumer Privacy ACT (CCPA) in 2018, mirroring many of the rights in GDPR.
+This law sent strong waves through the software industry, requiring it to spend years re-engineering its software to be compliant<albrecht16>. Because GDPR only applied to EU citizens, some U.S. states have sought to replicate the law. California was the first, passing the California Consumer Privacy ACT (CCPA) in 2018, mirroring many of the rights in GDPR.
 
 Privacy law, of course, has still been narrow in scope, neglecting to address many of the most challenging ethical questions about digital data collection. For example, if a company gathers information about you through legal means, and that information is doing you harm, is it responsible for that harm? Many have begun to imagine "right to be forgotten" laws<rosen11>, that would give people rights to demand that particular information about them be deleted, or at least kept private. Or, if an organization suffers a data breach, disclosing private information that does harm, are they responsible for the harm? Currently, the only consequence that most companies in most countries face is a loss of customer trust.
 
@@ -106,4 +106,4 @@ Interested in learning more about information ethics, policy, and regulation? Co
 
 * _[The High Court of Facebook, The Gist|https://slate.com/podcasts/the-gist/2020/08/kate-klonick-facebook-supreme-court]_. Discusses Facebook's long-demanded formation of an independent body for making censorship decisions.
 
-* _[A Vast Web of Vengence, The Daily, NY Times|https://www.nytimes.com/2021/04/06/podcasts/the-daily/a-vast-web-of-vengeance.html]_. Discusses a specific case of online harasssment and defamation, the harm that came from it, and how the law shielded companies from responsibility for taking the defamitory content down.
+* _[A Vast Web of Vengence, The Daily, NY Times|https://www.nytimes.com/2021/04/06/podcasts/the-daily/a-vast-web-of-vengeance.html]_. Discusses a specific case of online harassment and defamation, the harm that came from it, and how the law shielded companies from responsibility for taking the defamatory content down.
