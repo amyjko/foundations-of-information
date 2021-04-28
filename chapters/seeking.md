@@ -47,7 +47,7 @@ What these various ideas about information seeking reveal is that finding and ma
 
 # Search engines
 
-How do *search engines* like Google fit in to all of this? In essence, search engines are software take, as input, some query, and return as output some ranked list of resources. Within the context of information seeking, they _feel_ like they play a prominent role in our lives, when in actuality, they only play a small role: the _retrieval_ part of the sensemaking steps above. To reinforce that, here is the list again, and how search engines fail to help:
+How do *search engines* like Google fit in to all of this? In essence, search engines are software that take, as input, some query, and return as output some ranked list of resources. Within the context of information seeking, they _feel_ like they play a prominent role in our lives, when in actuality, they only play a small role: the _retrieval_ part of the sensemaking steps above. To reinforce that, here is the list again, and how search engines fail to help:
 
 * Search engines *don't* help us identify what we need--that's up to us; search engines don't question what we ask for, though they do recommend queries that use similar words.
 * Search engines *don't* help us choose a source--though they are themselves a source, and a heavily marketed one, so we are certainly compelled to choose search engines over other sources, even when other sources might have better information.
