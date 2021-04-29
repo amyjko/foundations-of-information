@@ -80,8 +80,8 @@ While all information systems are important to someone for some reason, few info
 
 For more about information and democracy, consider these podcasts:
 
-* [_If You Were on Parler, You Saw the Mob Coming, Sway, NY Times_|https://www.nytimes.com/2021/01/07/opinion/sway-kara-swisher-john-matze.html]. Host Kara Swisher interviews Parler CEO John Matze, who defended the platform's lack of content moderation as a neutral town square, even after the violent insurrection at the U.S. capitol on January 6th. His positions in this interview led Amazon to stop providing web hosting on January 11th, 2020.
+* [_If You Were on Parler_, You Saw the Mob Coming, Sway, NY Times|https://www.nytimes.com/2021/01/07/opinion/sway-kara-swisher-john-matze.html]. Host Kara Swisher interviews Parler CEO John Matze, who defended the platform's lack of content moderation as a neutral town square, even after the violent insurrection at the U.S. capitol on January 6th. His positions in this interview led Amazon to stop providing web hosting on January 11th, 2020.
 
-* [_Deplatforming the President, What Next, Slate_|https://slate.com/podcasts/what-next-tbd/2021/01/donald-trump-deplatformed-twitter-facebook]. Host Lizzie O'Leary discuss the history behind content moderation and Twitter's decision to suspend the president's account.
+* [_Deplatforming the President_, What Next, Slate|https://slate.com/podcasts/what-next-tbd/2021/01/donald-trump-deplatformed-twitter-facebook]. Host Lizzie O'Leary discuss the history behind content moderation and Twitter's decision to suspend the president's account.
 
 * [_Shame, Safety and Moving Beyond Cancel Culture_, The Ezra Klein Show, NY Times|https://www.nytimes.com/2021/04/27/opinion/ezra-klein-podcast-cancel-culture.html]. Host Ezra Klein faciliates a discussion with YouTuber Natalie Wynn (ContraPoints) and writer Will Wilkinson about the culture of shame that underlies social media cancellation mobs, and the surprising ways this culture might be eroding democracy.
