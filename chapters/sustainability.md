@@ -85,4 +85,8 @@ Fundamentally, information about the climate has the greatest potential to impac
 
 # Podcasts
 
-* _[Innovation, Not Trees. how Bill Gates Plans to Save the Planet, Sway, NY Times|https://www.nytimes.com/2021/02/15/opinion/sway-kara-swisher-bill-gates.html?]_. An interview with Bill Gates, covering the many energy and information technology innovations required to reach net zero.
+* [_Innovation, Not Trees. how Bill Gates Plans to Save the Planet_, Sway, NY Times|https://www.nytimes.com/2021/02/15/opinion/sway-kara-swisher-bill-gates.html?]. An interview with Bill Gates, covering the many energy and information technology innovations required to reach net zero.
+
+* [_The Birth of Climate Change Denial_, Only Human, WYNC|https://www.wnycstudios.org/podcasts/onlyhuman/episodes/birth-climate-change-denial]. Discusses the political origins of climate change denial and the use of misinformation to create doubt.
+
+* [_What You Need to Know About Climate Change_, Making Sense, Sam Harris|https://samharris.org/podcasts/95-what-you-need-to-know-about-climate-change/]. A conversation between Sam Harris and Joseph Romm, a leading climate science communicator.
