@@ -72,3 +72,9 @@ Industry, like academia, is also beginning to grapple with the risks of bias and
 -
 
 Ultimately, the transformation of science and industry, first through statistics, and then through computation, are transformations about information: where it comes from, how we create it, what it means, and whether we trust it. The disruptive nature of computation is changing the answers to these questions, but it is not changing the questions themselves. Universities, as a nexus of both data-driven science, as well as data science education, are at the heart of shaping whether the answers to these questions are purely technical in nature, or sociotechnical and sociopolitical.
+
+# Podcasts
+
+Interested in learning more about science and data science? Consider these podcasts:
+
+* [_Florence Nightingale: Data Viz Pioneer_, 99% Invisible|https://99percentinvisible.org/episode/florence-nightingale-data-viz-pioneer/]. Discusses the founder of modern nursing, Florence Nightingale, who also happened to be a pioneer in data visualization of public health data.
