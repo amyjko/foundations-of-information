@@ -1,7 +1,7 @@
 {
         "title": "Foundations of Information",
         "authors": ["[Amy J. Ko, Ph.D.|https://faculty.washington.edu/ajko/]"],
-        "license": "[Creative Commons Attribution-NoDeriviatives 4.0|https://creativecommons.org/licenses/by-nd/4.0/]",
+        "license": "[Creative Commons Attribution-NoDerivatives 4.0|https://creativecommons.org/licenses/by-nd/4.0/]",
         "cover": "|cover.jpg|A metallic structure resembling a network of nodes and edges|A sculpture of information, or perhaps the internet?|[Alina Grubnyak|https://unsplash.com/photos/ZiQkhI7417A]|",
         "unknown": "|error.gif|An animated gif of television noise.|Uh oh, something went wrong.|Blackworker (GIFER)|",
         "description": "For several years, I've taught an introductory course on the intellectual foundations of information, which surveys the many ideas and fields that have something to say about information. Unable to find an introductory text, I wrote this book as a gateway into the topics of the course, providing a broad overview of major topics in information, and links into the deeper research and popular literature. Unlike a traditional book, this one will change, evolving as my knowledge and our collective knowledge about information grows.\n\nI hope you enjoy! If not, please file an [issue|https://github.com/amyjko/foundations-of-information/issues/new] on the [the book's GitHub repository|https://github.com/amyjko/foundations-of-information].",
