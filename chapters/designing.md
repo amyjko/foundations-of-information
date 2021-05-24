@@ -44,7 +44,7 @@ In all of these paradigms, there are a set of key design activities:
 
 * *Prototyping*. With a particular idea in mind, prototyping involves creating concrete experiences that reflect a possible future<buxton10>. The goal of prototyping is to approximate that future so that it can be evaluated, but without having to actually create that future. Prototyping data might mean drafting a data structure or data schema. Prototyping information technologies might mean making website or mobile app mockups or algorithmic pseudocode for how a retrieval algorithm might work. Prototyping information systems might mean creating storyboards that narrate the different experiences and roles of people and information technology in a particular use case.
 
-* *Evaluating*. With a prototype, designers can evaluate whether it might be a preferred future<hertzum20>. These methods are similar to research, but focus on stakeholders' judgements about a particular future; what makes them difficult is deciding how much to trust people's reactions to hypothetical, approximate depictions of what the future might be.
+* *Evaluating*. With a prototype, designers can evaluate whether it might be a preferred future<hertzum20>. These methods are similar to research, but focus on stakeholders' judgments about a particular future; what makes them difficult is deciding how much to trust people's reactions to hypothetical, approximate depictions of what the future might be.
 
 While the list of activities above is sequential, design activities are often anything but linear: they are more frequently iterative, returning to all four of these activities. Evaluations can reveal problems that require new prototypes or new questions for research; ideation can result in new questions for research. Prototypes can trigger new ideation. Design is therefore less a procedure and more like a collection of interrelated activities, each requiring a different mindset and skills.
 
@@ -99,3 +99,9 @@ One short chapter on the intersection between information, design, and interface
 # Podcasts
 
 * _[Listen now! Offer ends soon, Recode Daily, Vox|https://podcasts.apple.com/us/podcast/recode-daily/id1479107698?i=1000516402733]_. Discusses the dark patterns used throughout design to manipulate people into interacting and generating ad revenue, including new policies that are beginning to regulate these design patterns.
+
+* [_The Next Billion Users_, 99% Invisible|https://99percentinvisible.org/episode/the-next-billion-users/]. A Google sponsored podcast about how Google conducts research using ethnographic methods from anthropology to understand users who don't yet have access to the internet.
+
+* [_The Worst Video Game Ever_, 99% Invisible|https://99percentinvisible.org/episode/the-worst-video-game-ever/]. Discusses the E.T. game for Atari, one of the worst video games ever, which nearly caused the collapse of the fledgling video game industry int he early 1980's.
+
+* [_All Rings Considered_, 99% Invisible|https://99percentinvisible.org/episode/all-rings-considered/]. Discusses the history of the design of mobile phone ringtones.

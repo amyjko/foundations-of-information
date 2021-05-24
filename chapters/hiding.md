@@ -26,7 +26,7 @@ Much of the complexity of digital privacy can be seen by simply analyzing the sc
 * Everything we view on Facebook and how long we view it
 * People with whom we communicate in our contact books and email clients
 * What device we're using and how it's connected to the internet
-* Our mouse and touchscreem inputs
+* Our mouse and touchscreen inputs
 * Our location
 * Our faces
 * Any information stored by other websites in cookies, which could be anything
@@ -105,4 +105,4 @@ Want to learn more about privacy and security? Consider these podcasts, which en
 
 * [Right to be Forgotten, Radiolab|https://www.wnycstudios.org/podcasts/radiolab/articles/radiolab-right-be-forgotten]. This podcast discusses the many challenges of archiving private data, and how the context of that data can shift over time, causing new harm.
 
-* [What Happens in Vegas... is Captured on Camera, In Machines We Trust|https://www.technologyreview.com/2020/08/12/1006676/police-face-recognition-vegas-miami-new-york/]. Discusses the increasing use of facial recogntion in police surveillance and the lack of transparency, oversight, and policy that has led to its abuse.
+* [What Happens in Vegas... is Captured on Camera, In Machines We Trust|https://www.technologyreview.com/2020/08/12/1006676/police-face-recognition-vegas-miami-new-york/]. Discusses the increasing use of facial recognition in police surveillance and the lack of transparency, oversight, and policy that has led to its abuse.
