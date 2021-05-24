@@ -74,7 +74,7 @@ Thus, despite many decades of innovation and adoption in industry, working toget
 
 -
 
-Clearly, information technology has changed how we communicate, and in some ways, it has even changed what we communicate, allowing us to share more than words. And yet, as we have seen throughout this chapter, it hasn't really changed the fundamental challenges of communication, nor has it supplanted the richness of face-to-face communication. What it has done is expanded the ways we communication, and deepened our understanding of what makes communication work.
+Clearly, information technology has changed how we communicate, and in some ways, it has even changed what we communicate, allowing us to share more than words. And yet, as we have seen throughout this chapter, it hasn't really changed the fundamental challenges of communication, nor has it supplanted the richness of face-to-face communication. What it has done is expanded the ways we communicate, and deepened our understanding of what makes communication work.
 
 # Podcasts
 
