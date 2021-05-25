@@ -6,7 +6,7 @@ We use code, now more than ever, automate how we create, retrieve, and analyze i
 
 # When to automate?
 
-Automation, of course, is not just include computing. As we noted in [Chapter 5|technology] in our discussion of information technology, we used mechanical devices to automate printing, phonographs to automate musical recordings, and electricity to automate the transmission of messages via telegraphs, phones, and television. And our discussion of what is gain and lost began with Socrates and his fears that writing itself was a form of "automation", in that it externalizes our memories, risking atrophy to our intelligence, memory, and wit. Code, therefore, is just the latest information technology to make us wonder about the tradeoffs of delegating our information labor to machines.
+Automation, of course, does not just include computing. As we noted in [Chapter 5|technology] in our discussion of information technology, we used mechanical devices to automate printing, phonographs to automate musical recordings, and electricity to automate the transmission of messages via telegraphs, phones, and television. And our discussion of what is gain and lost began with Socrates and his fears that writing itself was a form of "automation", in that it externalizes our memories, risking atrophy to our intelligence, memory, and wit. Code, therefore, is just the latest information technology to make us wonder about the tradeoffs of delegating our information labor to machines.
 
 |Jackson.jpg|A photograph of Mary Winston Jackson.|Mary Winston Jackson, one of the computers that helped NASA get to space. She eventually became an aerospace engineer.|NASA|
 
