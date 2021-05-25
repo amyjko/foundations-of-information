@@ -54,7 +54,7 @@ This perspective challenges Marshall McLuhan's famous phrase, "the medium is the
 
 -
 
-In the rest of this book, we will try to define information, demarcating its origins, explaining its impacts, deconstructing our efforts to create and share it, and problematizing our use of technology to store, retrieve, and present it. Throughout, we shall see that while information _is_ powerful in it's capacity to shape action, and information technology can make it even more powerful, information can also be perilous to capture and share without doing great harm and injustice.
+In the rest of this book, we will try to define information, demarcating its origins, explaining its impacts, deconstructing our efforts to create and share it, and problematizing our use of technology to store, retrieve, and present it. Throughout, we shall see that while information _is_ powerful in its capacity to shape action, and information technology can make it even more powerful, information can also be perilous to capture and share without doing great harm and injustice.
 
 # Podcasts
 
