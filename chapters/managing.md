@@ -8,7 +8,7 @@ Both of these stories are *information management* stories, one personal, and on
 
 # The economics of attention
 
-What determines when information management becomes necessary? The answer to this question goes back to some seminal work from Herb Simon, who said in (yet another) seminal work, _Designing Organizations for an Information-rich World_<simon71>:
+What determines when information management becomes necessary? The answer to this question goes back to some formative work from Herb Simon, who said in his book _Designing Organizations for an Information-rich World_<simon71>:
 
 "
 In an information-rich world, the wealth of information means a dearth of something else: a scarcity of whatever it is that information consumes. What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention and a need to allocate that attention efficiently among the overabundance of information sources that might consume it.
