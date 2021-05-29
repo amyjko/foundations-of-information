@@ -86,3 +86,9 @@ These many forms of context, and the many others not listed here, show that whil
 -
 
 Returning to my experiences as a child, the diverse notions of information above reveal a few things. First, while the data contained in the books, news, and magazines of my youth might not be different kind from that in my adulthood, the information _is_ different. The social context in which I experience it changes what I take from it, my motivation to seek it has changed, and my ability to understand how it was created, by whom, for what, and when has been transformed by computing. Thus, while the "data" behind information has changed little over time, information itself has changed considerably as media, and the contexts in which we create and consume it, have changed in form and function. And if we are to believe the formulations above that relate information to knowledge, then the knowledge I gain from books, news, and magazines has almost certainly changed too. What implications this has on our individual and collective worlds is something we have yet to fully understand.
+
+# Podcasts
+
+Want to learn more about the importance of context in information? Consider these podcasts:
+
+* [_Can AI Fix Your Credit?_, In Machines We Trust, MIT Technology Review|https://www.technologyreview.com/2021/05/12/1024837/podcast-can-ai-fix-your-credit-report-score/]. Discusses credit reports and the context they miss that leads to inequities in access to loans such as credit cards, car purchases, and homes.
