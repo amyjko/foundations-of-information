@@ -20,7 +20,7 @@ While privacy in physical contexts is endlessly complex, privacy in digital spac
 
 |Zucked.jpg|A photograph of street art in London showing Mark Zuckergerg's face and the phrase 'You've Been Zucked'|This man controls your privacy online.|[Annie Spratt|https://unsplash.com/photos/5psJeebVp9o]|
 
-Much of the complexity of digital privacy can be seen by simply analyzing the scope of surveillance online. Returning to Facebook, for example, let us consider it's [Data Policy|https://www.facebook.com/policy.php]. At the time of this writing, here is the data that Facebook claims to collect:
+Much of the complexity of digital privacy can be seen by simply analyzing the scope of surveillance online. Returning to Facebook, for example, let us consider its [Data Policy|https://www.facebook.com/policy.php]. At the time of this writing, here is the data that Facebook claims to collect:
 
 * Everything we post on Facebook, including text, photos, and video
 * Everything we view on Facebook and how long we view it
