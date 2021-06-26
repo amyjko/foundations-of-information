@@ -12,91 +12,110 @@
                 {
                         "title": "The power of information",
                         "id": "power",
-                        "image": "|Newspapers.jpg|A black and white white photograph of a row of men reading newspapers on the sidewalk|People are informavores, hungry for information.|Unknown|"
+                        "image": "|Newspapers.jpg|A black and white white photograph of a row of men reading newspapers on the sidewalk|People are informavores, hungry for information.|Unknown|",
+                        "section": "Foundations"
                 },
                 {
                         "title": "The peril of information",
                         "id": "peril",
-                        "image": "|Trump.jpg|A photograph of a newspaper with Trump's mouth torn out.|Not all information is good information.|Charles Deluvio|"
+                        "image": "|Trump.jpg|A photograph of a newspaper with Trump's mouth torn out.|Not all information is good information.|Charles Deluvio|",
+                        "section": "Foundations"
                 },
                 {
                         "title": "Data, information, knowledge",
                         "id": "information",
-                        "image": "|Books.jpg|A photograph of a wall of thousands of dusty old books.|Is this a wall of books, data, information, or knowledge?|[Alfons Morales|https://unsplash.com/photos/YLSwjSy7stw]|"
+                        "image": "|Books.jpg|A photograph of a wall of thousands of dusty old books.|Is this a wall of books, data, information, or knowledge?|[Alfons Morales|https://unsplash.com/photos/YLSwjSy7stw]|",
+                        "section": "Foundations"
                 },
                 {
                         "title": "Data, encoding, and metadata",
                         "id": "data",
-                        "image": "|Hieroglyphs.jpg|A photograph of hieroglyphs at the Temple of Hathor, Dendera|A story, encoded in ancient Egyptian hieroglyphs.|[Jeremy Zero|https://unsplash.com/photos/4f_Kk-AYf64]|"
+                        "image": "|Hieroglyphs.jpg|A photograph of hieroglyphs at the Temple of Hathor, Dendera|A story, encoded in ancient Egyptian hieroglyphs.|[Jeremy Zero|https://unsplash.com/photos/4f_Kk-AYf64]|",
+                        "section": "Foundations"
                 },
                 {
                         "title": "Information technology",
                         "id": "technology",
-                        "image": "|Apple IIe.jpg|A photograph of a person staring at an Apple II green display.|Modern information technology comes in the form of beige boxes.|[kevgordon|https://www.youtube.com/watch?v=BEDVjg5y0Hg]|"
+                        "image": "|Apple IIe.jpg|A photograph of a person staring at an Apple II green display.|Modern information technology comes in the form of beige boxes.|[kevgordon|https://www.youtube.com/watch?v=BEDVjg5y0Hg]|",
+                        "section": "Foundations"
                 },
                 {
                         "title": "Information systems",
                         "id": "systems",
-                        "image": "|AOL.jpg|A screenshot of AOL showing a collection of stories, instant messanging, email, and more.|An early information system on the Internet known as AOL.|Unknown|"
+                        "image": "|AOL.jpg|A screenshot of AOL showing a collection of stories, instant messanging, email, and more.|An early information system on the Internet known as AOL.|Unknown|",
+                        "section": "Foundations"
                 },
                 {
                         "title": "Seeking information",
                         "id": "seeking",
-                        "image": "|OG Google.png|A screenshot of the original Google homepage|Google, automating information retrieval since 1997.|Public Domain|"
+                        "image": "|OG Google.png|A screenshot of the original Google homepage|Google, automating information retrieval since 1997.|Public Domain|",
+                        "section": "Foundations"
                 },
                 {
                         "title": "Hiding information",
                         "id": "hiding",
-                        "image": "|Surveillance.jpg|Two women look up to a wall of surveillance cameras|Sometimes, privacy and security are at odds.|[Matthew Henry|https://unsplash.com/photos/fPxOowbR6ls]|"
+                        "image": "|Surveillance.jpg|Two women look up to a wall of surveillance cameras|Sometimes, privacy and security are at odds.|[Matthew Henry|https://unsplash.com/photos/fPxOowbR6ls]|",
+                        "section": "Foundations"
                 },
                 {
                         "title": "Managing information",
                         "id": "managing",
-                        "image": "|Planner.jpg|A photograph of a person managing a calendar and to do list.|Information management can get personal.|[Paico Oficial|https://unsplash.com/photos/DC_gMe5H95k]|"
+                        "image": "|Planner.jpg|A photograph of a person managing a calendar and to do list.|Information management can get personal.|[Paico Oficial|https://unsplash.com/photos/DC_gMe5H95k]|",
+                        "section": "Foundations"
                 },
                 {
                         "title": "Regulating information",
                         "id": "regulating",
-                        "image": "|Signing.jpg|A painting of the signing of the U.S. Constitution showing many White men signing|That time when wealthy white men determined our rights.|Public Domain|"
+                        "image": "|Signing.jpg|A painting of the signing of the U.S. Constitution showing many White men signing|That time when wealthy white men determined our rights.|Public Domain|",
+                        "section": "Foundations"
                 },
                 {
                         "title": "Designing information",
                         "id": "designing",
-                        "image": "|Courthouse.jpg|A photograph of the King County District Court name change office.|Where people in Seattle change their legal names.|Amy J. Ko|"
+                        "image": "|Courthouse.jpg|A photograph of the King County District Court name change office.|Where people in Seattle change their legal names.|Amy J. Ko|",
+                        "section": "Foundations"
                 },
                 {
                         "title": "Information + social",
                         "id": "social",
-                        "image": "|Friends.jpg|A photograph of two friends talking while swinging on a swing set.|Information is social.|[Bewakoof|https://unsplash.com/photos/mG-HdjYiPtE]|"
+                        "image": "|Friends.jpg|A photograph of two friends talking while swinging on a swing set.|Information is social.|[Bewakoof|https://unsplash.com/photos/mG-HdjYiPtE]|",
+                        "section": "Domains"
                 },
                 {
                         "title": "Information + science",
                         "id": "science",
-                        "image": "|Science.jpg|A photograph of a scientist pipetting DNA samples into a tube to copy DNA.|A scientist drops some data into a pipette.|[National Cancer Institute|https://unsplash.com/photos/eo_4DqPUSQA]|"
+                        "image": "|Science.jpg|A photograph of a scientist pipetting DNA samples into a tube to copy DNA.|A scientist drops some data into a pipette.|[National Cancer Institute|https://unsplash.com/photos/eo_4DqPUSQA]|",
+                        "section": "Domains"
                 },
                 {
                         "title": "Information + automation",
                         "id": "automation",
-                        "image": "|Robot.jpg|A girl touching a robot's hand in Japan.|What information should we automate?|[Andy Kelly|https://unsplash.com/photos/0E_vhMVqL9g]|"
+                        "image": "|Robot.jpg|A girl touching a robot's hand in Japan.|What information should we automate?|[Andy Kelly|https://unsplash.com/photos/0E_vhMVqL9g]|",
+                        "section": "Domains"
                 },
                 {
                         "title": "Information + health",
                         "id": "health",
-                        "image": "|Vaccine.jpg|A black man gets a SARS-CoV-2 vaccine from a white woman|A women injects instructions for building SARS-CoV-2 proteins into a man's arm.|[CDC|https://unsplash.com/photos/vt7iAyiwpf0]|"
+                        "image": "|Vaccine.jpg|A black man gets a SARS-CoV-2 vaccine from a white woman|A women injects instructions for building SARS-CoV-2 proteins into a man's arm.|[CDC|https://unsplash.com/photos/vt7iAyiwpf0]|",
+                        "section": "Domains"
                 },
                 {
                         "title": "Information + democracy",
                         "id": "democracy",
-                        "image": "|BLM Protest.jpg|A photo of Black Lives Matter protestors in front of the White House on May 31st, 2020.|The public amplifes information in front of the U.S. President's residence.|[Koshu Kunii|https://unsplash.com/photos/Q5sHZ-_lxvE]|"
+                        "image": "|BLM Protest.jpg|A photo of Black Lives Matter protestors in front of the White House on May 31st, 2020.|The public amplifes information in front of the U.S. President's residence.|[Koshu Kunii|https://unsplash.com/photos/Q5sHZ-_lxvE]|",
+                        "section": "Domains"
                 },
                 {
                         "title": "Information + sustainability",
                         "id": "sustainability",
-                        "image": "|Glacier.jpg|A photograph of a glacier melting.|A site of climate change data collection.|[Cassie Matias|https://unsplash.com/photos/VSGEH7tKiUg]|"                },
+                        "image": "|Glacier.jpg|A photograph of a glacier melting.|A site of climate change data collection.|[Cassie Matias|https://unsplash.com/photos/VSGEH7tKiUg]|",
+                        "section": "Domains"
+                },
                 {
                         "title": "Information + careers",
                         "id": "careers",
-                        "image": "|Work.jpg|Five people working at a table and whiteboard with sticky notes.|Information work.|[You X Ventures|https://unsplash.com/photos/Oalh2MojUuk]|"
+                        "image": "|Work.jpg|Five people working at a table and whiteboard with sticky notes.|Information work.|[You X Ventures|https://unsplash.com/photos/Oalh2MojUuk]|",
+                        "section": "Domains"
                 }
         ],
         "sources": {
