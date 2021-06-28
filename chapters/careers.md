@@ -95,3 +95,5 @@ Pursuing careers in information, as much as it is an individual choice, is also 
 * _[Project Maven, Recode Daily, Vox|https://podcasts.apple.com/us/podcast/project-maven/id1479107698?i=1000513649831]_. Discusses a Google Department of Defense weapons contract and an internal effort by some Google employees to protest and resist the project, resulting its cancellation.
 
 * _[A Union Drive at Amazon, The Daily, New York Times|https://the-daily.simplecast.com/episodes/20210401-5vfXdpMs]_. Discusses the extreme employee surveillance at Amazon warehouses, and how those surveillance activities led to unionization efforts at one warehouse in Bessember, Alabama.
+
+* _[Hired by an Algorithm, In Machines We Trust, MIT Technology Review|https://www.technologyreview.com/2021/06/23/1026918/podcast-hired-by-an-algorithm/]_. Discusses the rapid adoption of AI by companies to filter job applications, and how those filters encode and amplify gender, race, and cultural bias.
