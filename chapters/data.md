@@ -88,7 +88,7 @@ Nowhere is this more clear than when we compare analog to digital encodings of t
 
 * *Analog music*, such as that stored on records and tapes, is hard to record, copy, and share, but it captures a richness and fidelity. *Digital music*, in contrast, is easy to copy, share, and distribute, but is usually of lower quality. Both, however, cannot compare to the embodied experience of live performance, which is hard to capture, but far richer than recordings.
 
-* *Analog video*, such as that stored on film, has superior depth of field but is hard to edit and expensive. *Digital video*, in contrast, is easier to copy, edit and but it is prone to compression errors that are far more disruptive than the blemishes of film. Both, however, cannot compare to the embodied experience of seeing and hearing the real world, even though that embodied experience is impossible to replicate.
+* *Analog video*, such as that stored on film, has superior depth of field but is hard to edit and expensive. *Digital video*, in contrast, is easier to copy and edit, but it is prone to compression errors that are far more disruptive than the blemishes of film. Both, however, cannot compare to the embodied experience of seeing and hearing the real world, even though that embodied experience is impossible to replicate.
 
 Obviously, each encoding has tradeoffs; there is not best way to capture data of each kind, just different ways, reflecting different values and priorities.
 
