@@ -27,7 +27,7 @@ The word technology comes from ancient Greece, combining _tekhne_, which means _
 ,1990’s, *internet*
 ,2000’s, *smartphones*
 
-While many technologies are not explicitly for the purpose of transmitting information, you can see from the ones in bold in the table above that most technology innovations in the five hundred years have been *information technologies*<gleick11>. Information technologies, of course, are any technology that serves to capture, store, process, or transmit information--or, more precisely, _data_, as we've discussed in the previous chapters.
+While many technologies are not explicitly for the purpose of transmitting information, you can see from the ones in bold in the table above that most technology innovations in the last five hundred years have been *information technologies*<gleick11>. Information technologies, of course, are any technology that serves to capture, store, process, or transmit information--or, more precisely, _data_, as we've discussed in the previous chapters.
 
 A second thing that is clear from the history above is that most technologies, and even most information technologies, have been analog, not digital, from the abacus for calculating quantities with wooden beads almost 3,000 years ago to the smartphones that dominate our lives today. Only since the invention of the digital computer in the 1950's, and their broad adoption in the 1990's and 2000's, did the public start using the word "technology" to refer to computing technology.
 
