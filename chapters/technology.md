@@ -59,7 +59,7 @@ Around the same time, French inventor Nicéphore Niépce invented the *photograp
 
 While photography was being refined, in 1876 Alexander Graham Bell was granted a patent for the *telephone*, a device much like the telegraph, but rather than encoding text through electrical pulses, it encoded voice. The first phones were connected directly to each other, but later phones were connected via switchboards, which were eventually automated by computers, creating a worldwide public telephone network.
 
-During nearly the same year in 1887, Thomas Edison and his crew of innovators invented the *phonograph*, a device for recording and reproducing sound. For the first time, it was possible to capture live music or conversation, store it on a circular disk, and then spin that disk to generate sound. It became an increasingly popular invention, and to the recorded music industry.
+During nearly the same year in 1887, Thomas Edison and his crew of innovators invented the *phonograph*, a device for recording and reproducing sound. For the first time, it was possible to capture live music or conversation, store it on a circular disk, and then spin that disk to generate sound. It became an increasingly popular invention, and lead to the recorded music industry.
 
 Shortly after, at the turn of the century, *broadcast radio* emerged from the innovations in recording sound, and both homes and workplaces began to use radios to receive information across AM and then FM bands. And shortly after that, combining radio with motion picture technology, the first live transmission of television occurred in Paris in 1909, and just a decade later, televisions began entering the homes of millions of people.
 
