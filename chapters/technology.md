@@ -95,7 +95,7 @@ In essence, computing is nothing more than the ideas above. The magic of computi
 
 Yet, as an information technology, if we program them to, computers can do a lot. They can take in data, store it, analyze it, manipulate it, even capture it, and then retrieve and display it. This is far more any of the information technologies in the history we discussed earlier, and it could do it far faster and more reliably than any prior technology. It is not surprising then that since the 1950's, computers have transformed all of the prior technologies, replacing the telephone with Voice Over IP, the film photograph with digital photographs, analog music with digital, and print documents with digital documents. The computer has not really contributed new ideas about what information technology can be, but rather digitized old ideas about information technology, helping us to make them easier to capture, process, and retrieve.
 
-|Quantum Computer.jpg|Google's quantum computer|Google's most recent quantum computer can perform a task that currently takes 10,000 in a few minutes.|Google|
+|Quantum Computer.jpg|Google's quantum computer|Google's most recent quantum computer can perform a task that currently takes 10,000 years in a few minutes.|Google|
 
 # Is computing the superior information technology?
 
