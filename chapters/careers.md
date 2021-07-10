@@ -80,7 +80,7 @@ Because abilities and interests are not innate, there is no right answer. This i
 
 Of course, communities can also suffocate learning and deter interests. Consider, for example, the conflict in 2020, with algorithmic bias expert Timnit Gebru. She had spent a long career studying electrical engineering, then worked at Apple on signal processing algorithms. She later earned her Ph.D. doing research on bias in image collections. This led to an interest in AI ethics, and eventually to a position at Google, where she worked as both a researcher of AI ethics, but also an advocate for justice in addressing issues of systemic bias in facial recognition, language processing, and other AI technologies. Her public advocacy, her research, her insistence on transparency, Google's apparent resistance to publishing research critical about AI, led her to be fired, threatening her ability to pursue her carefully cultivated skills and interests. Organizational conflicts like this--as well as the many other issues of sexual harassment, abuses of power, and disagreements about organizations' moral and ethical stances on information systems--mean that choosing information careers also means investing in ways of making organizations more diverse, equitable, inclusive, and just, so that the systems we make reflect everyone's needs.
 
-|NotOKGoogle.jpg|A photograph of a Google walkout, with a sign that says "Not OK Google"|Organizations that create information systems have power, with comes with conflict and responsiblity|Reuters|
+|NotOKGoogle.jpg|A photograph of a Google walkout, with a sign that says "Not OK Google"|Organizations that create information systems have power, with comes with conflict and responsibility|Reuters|
 
 -
 
