@@ -34,17 +34,17 @@ While most communication with language throughout human history was embodied (us
 
 This history of analog encodings directly informed the digital encodings that followed Shannon's work on information theory. The immediate problem posed by the idea of using bits was how to encode the many kinds of data in human civilization into bits. Consider, for example, numbers. Many of us learn to work in base 10, learning basic arithmetic such as 1+1=2. But mathematicians have long known that there are an infinite number of bases for encoding numbers. Bits, or binary values, simply use base two. There, encoding the integers 1 to 10 in base two is simply:
 
-,*Binary*,*Decimal*
-,1, 1
-,10, 2
-,11, 3
-,100, 4
-,101, 5
-,110, 6
-,111, 7
-,1000, 8
-,1001, 9
-,1010, 10
+,*Binary*|*Decimal*
+,1|1
+,10|2
+,11|3
+,100|4
+,101|5
+,110|6
+,111|7
+,1000|8
+,1001|9
+,1010|10
 
 That was simple enough. But in storing numbers, the early inventors of the computer quickly realized that there would be limits on storage<stokes07>. If a computer had 8 transistors, each storing one bit, how many possible numbers could one store? The long way to find out is to simply keep counting in binary as above until one reaches 8 digits. The short way is to remember from mathematics that the number of possible permutations of a sequence of 8 binary choices can be computed as 2 to power 8, or 256. When you see references to _32-bit processors_ or _64-bit processes_, this is what those numbers refer to: the number of bits used to store chunks of data, such as numbers.
 
@@ -60,21 +60,21 @@ Of course, as is plain the name for this encoding, it was highly exclusionary: o
 
 Numbers and text of course do not cover all of the kinds of data in the world. Images have their own analog and digital encodings (film photograph negatives, JPEG, PNG, HEIC, WebP), as do sounds (analog records, WAV, MP3, AAC, FLAC, WMA). And of course, software of all kinds defines encodings for all other imaginable kinds of data. Each of these, of course, are designed, and use these basic primitive data encodings as their foundation. For example, when the U.S. Census was designing the 2000 survey, the two questions I struggled with were stored as a *data structure*, with several fields, each with a data type:
 
-,*Data type*, *Description*
-,boolean, true if checked male
-,boolean, true if checked White
-,boolean, true if checked Black
-,boolean, true if checked American Indian/Native Alaskan
-,boolean, true if checked Asian Indian
-,boolean, true if checked Chinese
-,boolean, true if checked Filipino
-,boolean, true if checked Japanese
-,boolean, true if checked Korean
-,boolean, true if checked Vietnamese
-,boolean, true if checked Hawaiian
-,boolean, true if checked Guamanian/Chamorro
-,boolean, true if checked Pacific Islander
-,text, encoding of handwritten text describing another race
+,*Data type*|*Description*
+,boolean|true if checked male
+,boolean|true if checked White
+,boolean|true if checked Black
+,boolean|true if checked American Indian/Native Alaskan
+,boolean|true if checked Asian Indian
+,boolean|true if checked Chinese
+,boolean|true if checked Filipino
+,boolean|true if checked Japanese
+,boolean|true if checked Korean
+,boolean|true if checked Vietnamese
+,boolean|true if checked Hawaiian
+,boolean|true if checked Guamanian/Chamorro
+,boolean|true if checked Pacific Islander
+,text|encoding of handwritten text describing another race
 
 Each response to that survey was encoded using that data structure, encoding binary as one of two values, and encoding race is a yes or no value to one of twelve descriptors, plus an optional text value in which someone could write their own racial label. Data structures, like the one above, are defined by software designers and developers using programming languages; database designers create similar encodings by defining *database schema*, specifying the data and data types of data to be stored in a *database*.
 

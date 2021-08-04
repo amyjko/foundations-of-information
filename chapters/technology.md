@@ -10,22 +10,22 @@ For many people since the 1980's, life with computers has felt much the same, an
 
 The word technology comes from ancient Greece, combining _tekhne_, which means _art_ or _craft_, with _logia_, which means a "subject of interest" to make the word _tecknologia_. Since ancient Greece, the word *technology* has generally referred to any application of knowledge, scientific or otherwise, for practical purposes, with its use evolving to refer to whatever recent inventions had captivated humanity<kline85>. And it generally has that broader meaning today, referring to any practical application of science, typically stemming from engineering disciplines. Consider, for example, this history of what was considered "technology" in different eras of human history:
 
-,15000 BC, stone tools
-,2700 BC, *abacus*
-,900’s, gunpowder
-,1100’s, rockets
-,1400’s, *printing press*
-,1730’s, yarn spinners
-,1820’s, motors
-,1910’s, flight
-,1920’s, *television*
-,1930’s, flying
-,1950’s, space travel
-,1960’s, lasers
-,1970’s, *computers*
-,1980’s, *cell phones*
-,1990’s, *internet*
-,2000’s, *smartphones*
+,15000 BC|stone tools
+,2700 BC|*abacus*
+,900’s|gunpowder
+,1100’s|rockets
+,1400’s|*printing press*
+,1730’s|yarn spinners
+,1820’s|motors
+,1910’s|flight
+,1920’s|*television*
+,1930’s|flying
+,1950’s|space travel
+,1960’s|lasers
+,1970’s|*computers*
+,1980’s|*cell phones*
+,1990’s|*internet*
+,2000’s|*smartphones*
 
 While many technologies are not explicitly for the purpose of transmitting information, you can see from the ones in bold in the table above that most technology innovations in the last five hundred years have been *information technologies*<gleick11>. Information technologies, of course, are any technology that serves to capture, store, process, or transmit information--or, more precisely, _data_, as we've discussed in the previous chapters.
 
