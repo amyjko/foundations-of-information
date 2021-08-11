@@ -2,8 +2,6 @@
         "title": "Foundations of Information",
         "authors": [{ "id" : "ajko", "name": "Amy J. Ko", "url" : "https://faculty.washington.edu/ajko" }],
         "license": "[Creative Commons Attribution-NoDerivatives 4.0|https://creativecommons.org/licenses/by-nd/4.0/]",
-        "cover": "|cover.jpg|A metallic structure resembling a network of nodes and edges|A sculpture of information, or perhaps the internet?|[Alina Grubnyak|https://unsplash.com/photos/ZiQkhI7417A]|",
-        "unknown": "|error.gif|An animated gif of television noise.|Uh oh, something went wrong.|Blackworker (GIFER)|",
         "images": {
                 "cover": "|cover.jpg|A metallic structure resembling a network of nodes and edges|A sculpture of information, or perhaps the internet?|[Alina Grubnyak|https://unsplash.com/photos/ZiQkhI7417A]|",
                 "unknown": "|error.gif|An animated gif of television noise.|Uh oh, something went wrong.|Blackworker (GIFER)|"
