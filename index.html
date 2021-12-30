@@ -7,17 +7,66 @@
 		<meta property="og:image" content="https://faculty.washington.edu/ajko/books/foundations-of-information/images/cover.jpg" />
 		<meta property="og:description" content="Foundations of Information | Amy J. Ko" />
 
-		<!-- Bootstrap CSS -->
-		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-
-		<!-- Peruse -->
-		<script src="https://faculty.washington.edu/ajko/peruse/peruse.js"></script>
-		<link rel="stylesheet" href="https://faculty.washington.edu/ajko/peruse/peruse.css">
+		<!-- Bookish -->
+		<script src="https://faculty.washington.edu/ajko/bookish/bookish.js"></script>
+		<link rel="stylesheet" href="https://faculty.washington.edu/ajko/bookish/bookish.css">
 		<link rel="apple-touch-icon" sizes="180x180" href="https://faculty.washington.edu/ajko/peruse/ios-icon.png">
-		<link rel="icon" type="image/png" sizes="32x32" href="https://faculty.washington.edu/ajko/peruse/favicon.png">		
+		<link rel="icon" type="image/png" sizes="32x32" href="https://faculty.washington.edu/ajko/peruse/favicon.png">
+
+		<!-- Theme -->
+		<style>
+
+			@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Piazzolla:ital,wght@0,300;0,700;1,300&display=swap');
+
+			:root {
+				/* Background colors */
+				--bookish-background-color: #FFFFFF;
+				--bookish-block-background-color: #FCFAFA;
+
+				/* Border colors */
+				--bookish-border-color-light: #E0E0E0;
+				--bookish-border-color-bold: #000000;
+
+				/* Foreground colors */
+				--bookish-paragraph-color: #000000;
+				--bookish-highlight-color: #3b92e4;
+				--bookish-link-color: #3b92e4;
+				--bookish-bullet-color: #3b92e4;
+
+				/* Fonts */
+				--bookish-paragraph-font-family: "Piazzolla", serif;
+				--bookish-header-font-family: "Caveat", serif;
+
+				/* Font weights */
+				--bookish-paragraph-font-weight: 300;
+				--bookish-header-font-weight: 700;
+				--bookish-bold-font-weight: 700;
+				--bookish-link-font-weight: 700;
+
+				--bookish-paragraph-font-size: 14pt;
+				--bookish-small-font-size: 10pt;
+				--bookish-title-font-size: 4rem;
+				--bookish-header-1-font-size: 3rem;
+				--bookish-header-2-font-size: 2rem;
+				--bookish-header-3-font-size: 1rem;
+
+				/* Line heights */
+				--bookish-paragraph-line-height: 2.2rem;
+				--bookish-header-line-height: 1.3em;
+			}
+
+			.bookish-dark {
+				--bookish-background-color: #141421;
+				--bookish-paragraph-color: #DADADA;
+				--bookish-highlight-color: #070707;
+				--bookish-link-color: #2b8ae3;
+				--bookish-bullet-color: #2b8ae3;
+			}
+
+		</style>
 
     </head>
-	<body onload="peruse('book.json')">
+	<body onload="bookish()">
 		
 		<script type="text/javascript">
 		
