@@ -1,0 +1,7 @@
+# Set the path to prepend to all rewrites.
+RewriteBase /ajko/books/foundations-of-information
+
+# Redirect all non-directory paths to index.html for single-page routing,
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule (.*) index.html [L,QSA]
