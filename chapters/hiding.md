@@ -112,3 +112,5 @@ Want to learn more about privacy and security? Consider these podcasts, which en
 * [_What Cops Are Doing With Your DNA_, What Next: TBD, Slate|https://slate.com/podcasts/what-next-tbd/2021/06/do-you-still-own-your-dna]. Discusses the increasing use of open-source DNA platforms to solve crimes, and the problematic ways in which people who never share their DNA still might be implicated in crimes.
 
 * [_Who is Hacking the U.S. Economy?_, The Daily|https://www.nytimes.com/2021/06/08/podcasts/the-daily/colonial-pipeline-jbs-ransomware-attacks.html]. Discusses cyberattacks, ransomware, and the adversarial thinking required to prevent and respond to them.
+
+* [_Why Apple is About to Search Your Files_, The Daily|https://www.nytimes.com/2021/08/20/podcasts/the-daily/apple-iphones-privacy.html]. Discusses the complex tensions between privacy, safety, and law in Apple's child sexual abuse survellance.
