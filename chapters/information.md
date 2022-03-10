@@ -91,4 +91,6 @@ Returning to my experiences as a child, the diverse notions of information above
 
 Want to learn more about the importance of context in information? Consider these podcasts:
 
-* [_Can AI Fix Your Credit?_, In Machines We Trust, MIT Technology Review|https://www.technologyreview.com/2021/05/12/1024837/podcast-can-ai-fix-your-credit-report-score/]. Discusses credit reports and the context they miss that leads to inequities in access to loans such as credit cards, car purchases, and homes.
+* _[Can AI Fix Your Credit?, In Machines We Trust, MIT Technology Review|https://www.technologyreview.com/2021/05/12/1024837/podcast-can-ai-fix-your-credit-report-score/]_. Discusses credit reports and the context they miss that leads to inequities in access to loans such as credit cards, car purchases, and homes.
+
+* _[How Radio Makes Female Voices Sound Shrill, On the Media|https://www.wnycstudios.org/podcasts/otm/episodes/how-radio-female-voices-sound-shrill-on-the-media]_. Discusses how voice information is not simply data, but a complex set of hardware decisions about how voice is translated into data.
