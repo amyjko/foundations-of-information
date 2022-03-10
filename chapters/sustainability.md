@@ -92,3 +92,5 @@ Fundamentally, information about the climate has the greatest potential to impac
 * [_The Birth of Climate Change Denial_, Only Human, WYNC|https://www.wnycstudios.org/podcasts/onlyhuman/episodes/birth-climate-change-denial]. Discusses the political origins of climate change denial and the use of misinformation to create doubt.
 
 * [_What You Need to Know About Climate Change_, Making Sense, Sam Harris|https://samharris.org/podcasts/95-what-you-need-to-know-about-climate-change/]. A conversation between Sam Harris and Joseph Romm, a leading climate science communicator.
+
+* [_It’s Hot. It’s Flooding. Is This the New Normal?_, What Next: TBD|https://slate.com/podcasts/what-next-tbd/2021/07/climate-change]. Discusses the latest advances in causal analysis of climate change impacts.
