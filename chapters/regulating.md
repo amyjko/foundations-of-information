@@ -107,3 +107,5 @@ Interested in learning more about information ethics, policy, and regulation? Co
 * _[The High Court of Facebook, The Gist|https://slate.com/podcasts/the-gist/2020/08/kate-klonick-facebook-supreme-court]_. Discusses Facebook's long-demanded formation of an independent body for making censorship decisions.
 
 * _[A Vast Web of Vengence, The Daily, NY Times|https://www.nytimes.com/2021/04/06/podcasts/the-daily/a-vast-web-of-vengeance.html]_. Discusses a specific case of online harassment and defamation, the harm that came from it, and how the law shielded companies from responsibility for taking the defamatory content down.
+
+* _[The Facebook Whistle-Blower Testifies, The Daily, NY Times|https://www.nytimes.com/2021/10/06/podcasts/the-daily/facebook-whistleblower-frances-haugen.html]_. Explores the impact of the testimony on possible regulation.
