@@ -92,4 +92,4 @@ Learn more about information seeking and search:
 
 * _[The Force of Google, Seriously, BBC|https://www.bbc.co.uk/programmes/p03tprfw]_. Discusses Google as a monopoly and the secrecy of the Google Search algorithm.
 
-* _[Meet the Man Who Wants You to Give Up Google, Sway|https://www.nytimes.com/2021/07/29/opinion/sway-kara-swisher-sridhar-ramaswamy.html]. Discusses how ad-supported search engines bias search results and the various tradeoffs of subscription-based alternatives.
+* _[Meet the Man Who Wants You to Give Up Google, Sway|https://www.nytimes.com/2021/07/29/opinion/sway-kara-swisher-sridhar-ramaswamy.html]_. Discusses how ad-supported search engines bias search results and the various tradeoffs of subscription-based alternatives.
