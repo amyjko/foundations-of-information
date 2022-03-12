@@ -1713,9 +1713,241 @@
                 ]
         },
         "glossary": {
+                "accesscontrol": {
+                        "phrase": "accesscontrol",
+                        "definition": "A system for making and enforcing promises about privacy."
+                },
+                "anarchy": {
+                        "phrase": "anarchy",
+                        "definition": "The absense of any form of government."
+                },
+                "augmentation": {
+                        "phrase": "augmentation",
+                        "definition": "The use of technology to improve or enhance human abilities."
+                },
+                "authentiction": {
+                        "phrase": "authentiction",
+                        "definition": "Verifying that one has authorization to access private data."
+                },
+                "authoritarian": {
+                        "phrase": "authoritarianism",
+                        "definition": "A system of government that centralizes power."
+                },
+                "authorization": {
+                        "phrase": "authorization",
+                        "definition": "Granting permission to access private data."
+                },
+                "automation": {
+                        "phrase": "automation",
+                        "definition": "The delegation of human action to technology, often for the purpose of efficiency or reliability."
+                },
+                "bits": {
+                        "phrase": "bit",
+                        "definition": "A binary value, often represented as either 1 or 0 or true or false."
+                },
+                "browsing": {
+                        "phrase": "browsing",
+                        "definition": "Exploring what information exists in an information system."
+                },
+                "capitalism": {
+                        "phrase": "capitalism",
+                        "definition": "A system of commerce organized by government to optimize trade and profit above all other concerns."
+                },
+                "centralization": {
+                        "phrase": "centralization",
+                        "definition": "Concentrating control over information or information systems to a small group of people."
+                },
+                "encryption": {
+                        "phrase": "encryption",
+                        "definition": "Encoding data with a secret so that it can only be read by those who possess the secret."
+                },
+                "info": {
+                        "phrase": "information",
+                        "definition": "The process of receiving, perceiving, and interpreting data into knowledge."
+                },
+                "integrity": {
+                        "phrase": "conextual integrity",
+                        "definition": "The degree to which the context of information is preserved in its presentation, distribution, and interpretation."
+                },
+                "context": {
+                        "phrase": "context",
+                        "definition": "Social, situational information that shapes the meaning of information being received."
+                },
+                "controlledvocab": {
+                        "phrase": "controlled vocabulary",
+                        "definition": "A fixed collection of terminology used to restrict word choice to ensure consistency and support browsing and searching."
+                },
+                "crawler": {
+                        "phrase": "crawler",
+                        "definition": "Software that navigates interlinked data collections to discover and index new documents."
+                },
+                "cx": {
+                        "phrase": "customer experience",
+                        "definition": "Educating customers about an information technology's functionality and use."
+                },
+                "data": {
+                        "phrase": "data",
+                        "definition": "Analog or digital symbols that someone might perceive in the world and ascribe meaning."
+                },
+                "democracy": {
+                        "phrase": "democracy",
+                        "definition": "A system of government that distributes power."
+                },
+                "design": {
+                        "phrase": "design",
+                        "definition": "The human activity of envisioning how to change the status quo into a more preferred one."
+                },
+                "datascience": {
+                        "phrase": "data science",
+                        "definition": "Using data and code to answer questions."
+                },
+                "dev": {
+                        "phrase": "software engineering",
+                        "definition": "Writing computer programs to implement a design."
+                },
+                "encoding": {
+                        "phrase": "encoding",
+                        "definition": "Rules that define the structure and syntax of data, enabling unambiguous interpretation and reliable storage and transmission."
+                },
+                "epistemology": {
+                        "phrase": "epistemology",
+                        "definition": "The study of how we know we know things."
+                },
+                "ethics": {
+                        "phrase": "ethics",
+                        "definition": "Systems of moral and questions and principles about human behavior."
+                },
+                "ia": {
+                        "phrase": "information architecture",
+                        "definition": "Organzing data and metadata to faciliate searching, browsing, and discovery."
+                },
+                "im": {
+                        "phrase": "information management",
+                        "definition": "The systematic and strategic collection, storage, retrieval, and analysis of information for some purpose."
+                },
+                "index": {
+                        "phrase": "index",
+                        "definition": "A data structure that organizes documents by one or more facets of their contents or metadata."
+                },
+                "infobe": {
+                        "phrase": "information behavior",
+                        "definition": "How people go about creating, finding, and interpreting information."
+                },
+                "interfaces": {
+                        "phrase": "interfaces",
+                        "definition": "A technology used to faciliate information creation, retrieval, searching, browsing, and/or analysis."
+                },
                 "interop": {
                         "phrase": "interoperability",
                         "definition": "The ability to move and translate data structures between different systems without losing data or changing its meaning."
+                },
+                "fixedintelligence": {
+                        "phrase": "fixed intelligence",
+                        "definition": "A false belief that one's intelligence is fixed at birth."
+                },
+                "fixedinterest": {
+                        "phrase": "fixed interest",
+                        "definition": "A false belief that one's interests are discovered rather than developed."
+                },
+                "forage": {
+                        "phrase": "information foraging",
+                        "definition": "The observation that humans rely on metadata cues in information environments to drive searching and browsing."
+                },
+                "graphicdesign": {
+                        "phrase": "graphic design",
+                        "definition": "Creating visual and typographic forms of information."
+                },
+                "knowledge": {
+                        "phrase": "knowledge",
+                        "definition": "An interconnected system of information in a mind."
+                },
+                "law": {
+                        "phrase": "law",
+                        "definition": "Policies enforced by governments."
+                },
+                "matrixofdom": {
+                        "phrase": "matrix of domination",
+                        "definition": "The system of culture, norms, and laws designed to maintain particular social hierarchies of power."
+                },
+                "metadata": {
+                        "phrase": "metadata",
+                        "definition": "Data about data, capturing its meaning and context."
+                },
+                "parse": {
+                        "phrase": "parse",
+                        "definition": "Algorithms for translating encoded data into representations suitable for analysis."
+                },
+                "pm": {
+                        "phrase": "product management",
+                        "definition": "Synthesizing design, engineering, marketing, and sales concerns into strategic choices about product behavior."
+                },
+                "policy": {
+                        "phrase": "policy",
+                        "definition": "Rules that restrict human behavior to some end."
+                },
+                "power": {
+                        "phrase": "power",
+                        "definition": "The capacity to influence and control others."
+                },
+                "privacy": {
+                        "phrase": "privacy",
+                        "definition": "Control over information about one's body and self."
+                },
+                "projectmanagement": {
+                        "phrase": "project management",
+                        "definition": "Organizing teams of people to work more productivity to meet deadlines."
+                },
+                "ranking": {
+                        "phrase": "ranking",
+                        "definition": "Ordering documents in a collection by relevance."
+                },
+                "regulations": {
+                        "phrase": "regulations",
+                        "definition": "Interpretations of law that enable enforcement."
+                },
+                "research": {
+                        "phrase": "research",
+                        "definition": "Answering questions that have not yet been answered by humanity."
+                },
+                "satisficing": {
+                        "phrase": "satisficing",
+                        "definition": "Human tendency to seek as little information as is necessary to decide, bounding rationality."
+                },
+                "search": {
+                        "phrase": "searching",
+                        "definition": "Attempting to retrieve particular information from an information system."
+                },
+                "searchengine": {
+                        "phrase": "search engine",
+                        "definition": "Software that translates queries into a collection of documents related to a query."
+                },
+                "security": {
+                        "phrase": "security",
+                        "definition": "Efforts to ensure agreements about privacy."
+                },
+                "sensemaking": {
+                        "phrase": "sensemaking",
+                        "definition": "The human process of gathering, interpreting, and synthesizing information into knowledge."
+                },
+                "stakeholder": {
+                        "phrase": "stakeholder",
+                        "definition": "Someone who might be directly or indirectly impacted by the creation of a new information technology."
+                },
+                "systems": {
+                        "phrase": "information system",
+                        "definition": "A process for coordinating people, data, and information technology in order to faciliate information creation, storage, and access."
+                },
+                "tagging": {
+                        "phrase": "tagging",
+                        "definition": "A system for enabling users of an information system to create descriptive metatdata for data."
+                },
+                "uxd": {
+                        "phrase": "user experience design",
+                        "definition": "Using design methods to envisioning products that meet needs."
+                },
+                "uxresearch": {
+                        "phrase": "user experience research",
+                        "definition": "Investigating how technology is currently used to reveal opportunities for how technology might better serve needs."
                 }
         }
 }
