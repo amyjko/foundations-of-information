@@ -88,3 +88,5 @@ For more about information and democracy, consider these podcasts:
 * [_Deplatforming the President_, What Next, Slate|https://slate.com/podcasts/what-next-tbd/2021/01/donald-trump-deplatformed-twitter-facebook]. Host Lizzie O'Leary discuss the history behind content moderation and Twitter's decision to suspend the president's account.
 
 * [_Shame, Safety and Moving Beyond Cancel Culture_, The Ezra Klein Show, NY Times|https://www.nytimes.com/2021/04/27/opinion/ezra-klein-podcast-cancel-culture.html]. Host Ezra Klein faciliates a discussion with YouTuber Natalie Wynn (ContraPoints) and writer Will Wilkinson about the culture of shame that underlies social media cancellation mobs, and the surprising ways this culture might be eroding democracy.
+
+* _[The People Online Justice Leaves Behind, What Next: TBD|https://slate.com/podcasts/what-next-tbd/2021/12/coronavirus-changed-civil-courts]_. Discusses how those at the margins in the U.S. justice system were even less well-served online.
