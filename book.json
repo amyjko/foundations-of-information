@@ -1711,5 +1711,11 @@
                         "Public Affairs",
                         "https://www.google.com/books/edition/The_Age_of_Surveillance_Capitalism/lRqrDQAAQBAJ?hl=en"
                 ]
+        },
+        "glossary": {
+                "interop": {
+                        "phrase": "interoperability",
+                        "definition": "The ability to move and translate data structures between different systems without losing data or changing its meaning."
+                }
         }
 }
