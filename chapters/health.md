@@ -63,3 +63,5 @@ For more about the intersection of health and information, consider these podcas
 * _[Down and Dirty with Covid Genes, In Machines We Trust, MIT Technology Review|https://www.technologyreview.com/2020/08/26/1007705/down-and-dirty-with-covid-genes/]_. Describes the many ways that DNA scrubbing and machine learning is being used to detect and treat disease.
 
 * _[The Rise of Therapy Apps, What Next TBD, Slate|https://slate.com/podcasts/what-next-tbd/2021/04/therapy-apps]_. Discusses a new genre of therapy apps intended to scale access to mental health, as well as their limitations, and the risks of lowering the bar on care.
+
+* _[How AI is giving a woman back her voice, In Machines We Trust|https://www.technologyreview.com/2021/12/08/1041544/podcast-how-ai-is-giving-a-woman-back-her-voice/]_. Discusses applications of voice recognition in health care.
