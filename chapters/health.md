@@ -67,3 +67,5 @@ For more about the intersection of health and information, consider these podcas
 * _[How AI is giving a woman back her voice, In Machines We Trust|https://www.technologyreview.com/2021/12/08/1041544/podcast-how-ai-is-giving-a-woman-back-her-voice/]_. Discusses applications of voice recognition in health care.
 
 * _[What Does It Mean to Give Away Our DNA?, The Experiment|https://www.theatlantic.com/podcasts/archive/2021/10/native-american-dna-navajo-ban-on-genetic-research/620510/]_. Discusses the tensions between genetic testing and Indigenous communities.
+
+* _[The Downfall of One of the World's Biggest Brains, What Next TBD|https://slate.com/podcasts/what-next-tbd/2022/01/ibm-watson-fail]_. Discusses IBM Watson's failulre to transform health care.
