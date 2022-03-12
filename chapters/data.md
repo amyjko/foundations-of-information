@@ -122,4 +122,4 @@ Learn more about data and encoding:
 
 * _[Inventing Hispanic, The Experiment, The Atlantic|https://www.theatlantic.com/podcasts/archive/2021/03/chicanos-the-census-and-celia-cruz-inventing-latino/618248/]_. Discusses the history behind the invention of the category "Hispanic" and "Latino", and how racial categories are used to encode race as a social construct.
 
-* _[Organizing Chaos, On the Media| https://www.wnycstudios.org/podcasts/otm/episodes/on-the-media-organizing-chaos]_. Reports on the debates about the Dewey Decimal System and it's inherent social biases.
+* _[Organizing Chaos, On the Media|https://www.wnycstudios.org/podcasts/otm/episodes/on-the-media-organizing-chaos]_. Reports on the debates about the Dewey Decimal System and it's inherent social biases.
