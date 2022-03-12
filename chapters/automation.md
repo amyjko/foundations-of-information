@@ -55,3 +55,5 @@ Of course, the dichotomy between automation and augmentation is a false one. Com
 * _[She's Taking Jeff Bezos to Task, Sway, NY Times|https://www.nytimes.com/2021/04/19/opinion/sway-kara-swisher-joy-buolamwini.html]_. An interview with Joy Buolamwini, an activist who leads the Algorithmic Justice League, about facial recognition, algorithmic bias, corporate resistance, and opportunities for AI legislation.
 
 * _[What's Causing the Tesla Crashes, What Next:TBD, Slate|https://slate.com/podcasts/what-next-tbd/2021/04/tesla-autopilot]_. An interview with Missy Cummings, a safety critical systems researcher at Duke, about driverless cars.
+
+* _[Biased Algorithms, Biased World, On the Media|https://www.wnycstudios.org/podcasts/otm/episodes/biased-algorithms-biased-world-on-the-media]_. Discusses the illusion of algorithmic objectivity and how they end up reflecting the biases in our world.

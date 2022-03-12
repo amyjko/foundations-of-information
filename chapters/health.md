@@ -65,3 +65,5 @@ For more about the intersection of health and information, consider these podcas
 * _[The Rise of Therapy Apps, What Next TBD, Slate|https://slate.com/podcasts/what-next-tbd/2021/04/therapy-apps]_. Discusses a new genre of therapy apps intended to scale access to mental health, as well as their limitations, and the risks of lowering the bar on care.
 
 * _[How AI is giving a woman back her voice, In Machines We Trust|https://www.technologyreview.com/2021/12/08/1041544/podcast-how-ai-is-giving-a-woman-back-her-voice/]_. Discusses applications of voice recognition in health care.
+
+* _[What Does It Mean to Give Away Our DNA?, The Experiment|https://www.theatlantic.com/podcasts/archive/2021/10/native-american-dna-navajo-ban-on-genetic-research/620510/]_. Discusses the tensions between genetic testing and Indigenous communities.

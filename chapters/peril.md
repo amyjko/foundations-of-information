@@ -63,3 +63,5 @@ The podcasts below all reveal the peril of information in different ways.
 * _[No Silver Bullets, On the Media, WNCY Studios|https://www.wnycstudios.org/podcasts/otm/episodes/on-the-media-no-silver-bullets]_. Discusses how information and propaganda has led to far-right extremism, and how information is also used to deradicalize.
 
 * _[Facebook's CTO on Misinformation, In Machines We Trust|https://www.technologyreview.com/2020/11/18/1012064/emtech-stage-facebooks-cto-on-misinformation/]_. Facebook's CTO describes Facebook's struggling efforts to detect misinformation and prevent harm.
+
+* _[Undercover and Over-Exposed, On the Media|https://www.wnycstudios.org/podcasts/otm/episodes/on-the-media-undercover-and-overexposed]_. Discusses the risks of freely sharing information with journalists.

@@ -104,6 +104,8 @@ But metadata is useful for more than just interpreting information. It is also u
 
 While some metadata is carefully designed and curated by the creators of data, sometimes metadata is created by the consumers of data. Most systems call these *tagging systems*, and work by having consumers of data apply public tags to items, resulting in an emergent classification system; scholars have also called them *folksonomies*, *collaborative tagging*, or *social classification*, or *social tagging* systems<hotho06>, distinguishing them from tagging systems that are controlled by some authoritative body such as a designer or a standard body. These have the benefit of having the classification scheme reflect users' vocabulary and offer great flexibility to change tag metadata over time. However, they can also result in metadata that is too ambiguous, personal, or inconsistent to be useful to a wider audience.
 
+Classification, in general, is fraught with social consequences.<bowker00> We use them throughout society to categorize, label, and organize our environments, identities, and systems, but too often, the people who make these classification systems do not design them to include everyone, and so many of us end up not fitting the rigid categories prescribed by classification schemes. For example, we encode data using racial categories to prioritize resources; we use gender categories to inform sexist assumptions about lived experience and knowledge; we use categories about histories of incarcertation to deny people work. Classification, metadata, and data itself, is therefore not simply about bits and information, but morality, politics, and identity.
+
 |Census.jpg|Printed U.S. census surveys saying "Your Response is Required by Law"|Paper used to encode gender and race for the purpose of distributing political power.|[Enayet Raheem|https://unsplash.com/photos/0UxQZNoLnlk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink]|
 
 -
@@ -119,3 +121,5 @@ Learn more about data and encoding:
 * _[Our Year: Emergency Mode Can’t Last Forever, What Next, Slate|https://slate.com/podcasts/what-next/2021/03/when-is-the-pandemic-over]_. Discusses the processes by which COVID-19 data have been produced in the United States, and the messy and complex metadata that makes analysis and decision making more difficult.
 
 * _[Inventing Hispanic, The Experiment, The Atlantic|https://www.theatlantic.com/podcasts/archive/2021/03/chicanos-the-census-and-celia-cruz-inventing-latino/618248/]_. Discusses the history behind the invention of the category "Hispanic" and "Latino", and how racial categories are used to encode race as a social construct.
+
+* _[Organizing Chaos, On the Media| https://www.wnycstudios.org/podcasts/otm/episodes/on-the-media-organizing-chaos]_. Reports on the debates about the Dewey Decimal System and it's inherent social biases.
