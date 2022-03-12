@@ -107,3 +107,5 @@ These podcasts explore some of the strengths and weaknesses of modern informatio
 * [_Brown Box_, Radiolab, WNYC Studios|https://www.wnycstudios.org/podcasts/radiolab/articles/brown-box]. Discusses the information systems used to rapidly provision online orders and some of inhumane work they cause. Also discusses the complexities of name changes for those with records of archived, credited work. (The reporter is transgender.)
 
 * [_The Internet is a Luxury_, Recode Daily, Vox|https://podcasts.apple.com/us/podcast/recode-daily/id1479107698?i=1000525711792]. Discusses the digital divide and why most people in the world still don't have access to the internet.
+
+* _[404: Podcast Not Found, Recode Daily, Vox|https://podcasts.apple.com/us/podcast/recode-daily/id1479107698?i=1000545914185]_. Discusses the exceptional difficulties of archiving content on the internet relative to other information systems.
