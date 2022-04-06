@@ -57,3 +57,5 @@ Of course, the dichotomy between automation and augmentation is a false one. Com
 * _[What's Causing the Tesla Crashes, What Next:TBD, Slate|https://slate.com/podcasts/what-next-tbd/2021/04/tesla-autopilot]_. An interview with Missy Cummings, a safety critical systems researcher at Duke, about driverless cars.
 
 * _[Biased Algorithms, Biased World, On the Media|https://www.wnycstudios.org/podcasts/otm/episodes/biased-algorithms-biased-world-on-the-media]_. Discusses the illusion of algorithmic objectivity and how they end up reflecting the biases in our world.
+
+* _[An Engineer Tries to Build His Way Out of Tragedy, The Experiment|https://www.theatlantic.com/podcasts/archive/2022/03/traumatic-brain-injury-rehab-engineering/627089/]_. Discusses the limits of solutionism when facing lived experiences.
