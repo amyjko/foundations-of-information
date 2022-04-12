@@ -91,4 +91,4 @@ For more about information and democracy, consider these podcasts:
 
 * _[The People Online Justice Leaves Behind, What Next: TBD|https://slate.com/podcasts/what-next-tbd/2021/12/coronavirus-changed-civil-courts]_. Discusses how those at the margins in the U.S. justice system were even less well-served online.
 
-* _[|How Minnesota Spied On Protesters, What Next: TBD|https://slate.com/podcasts/what-next-tbd/2022/03/how-minnesota-spied-on-protesters]_. Discusses police surveillance of protestors.
+* _[How Minnesota Spied On Protesters, What Next: TBD|https://slate.com/podcasts/what-next-tbd/2022/03/how-minnesota-spied-on-protesters]_. Discusses police surveillance of protestors.
