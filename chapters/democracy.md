@@ -83,12 +83,12 @@ While all information systems are important to someone for some reason, few info
 
 For more about information and democracy, consider these podcasts:
 
-* [_If You Were on Parler_, You Saw the Mob Coming, Sway, NY Times|https://www.nytimes.com/2021/01/07/opinion/sway-kara-swisher-john-matze.html]. Host Kara Swisher interviews Parler CEO John Matze, who defended the platform's lack of content moderation as a neutral town square, even after the violent insurrection at the U.S. capitol on January 6th. His positions in this interview led Amazon to stop providing web hosting on January 11th, 2020.
+* [If You Were on Parler, You Saw the Mob Coming, Sway, NY Times|https://www.nytimes.com/2021/01/07/opinion/sway-kara-swisher-john-matze.html]. Host Kara Swisher interviews Parler CEO John Matze, who defended the platform's lack of content moderation as a neutral town square, even after the violent insurrection at the U.S. capitol on January 6th. His positions in this interview led Amazon to stop providing web hosting on January 11th, 2020.
 
-* [_Deplatforming the President_, What Next, Slate|https://slate.com/podcasts/what-next-tbd/2021/01/donald-trump-deplatformed-twitter-facebook]. Host Lizzie O'Leary discuss the history behind content moderation and Twitter's decision to suspend the president's account.
+* [Deplatforming the President, What Next, Slate|https://slate.com/podcasts/what-next-tbd/2021/01/donald-trump-deplatformed-twitter-facebook]. Host Lizzie O'Leary discuss the history behind content moderation and Twitter's decision to suspend the president's account.
 
-* [_Shame, Safety and Moving Beyond Cancel Culture_, The Ezra Klein Show, NY Times|https://www.nytimes.com/2021/04/27/opinion/ezra-klein-podcast-cancel-culture.html]. Host Ezra Klein faciliates a discussion with YouTuber Natalie Wynn (ContraPoints) and writer Will Wilkinson about the culture of shame that underlies social media cancellation mobs, and the surprising ways this culture might be eroding democracy.
+* [Shame, Safety and Moving Beyond Cancel Culture, The Ezra Klein Show, NY Times|https://www.nytimes.com/2021/04/27/opinion/ezra-klein-podcast-cancel-culture.html]. Host Ezra Klein faciliates a discussion with YouTuber Natalie Wynn (ContraPoints) and writer Will Wilkinson about the culture of shame that underlies social media cancellation mobs, and the surprising ways this culture might be eroding democracy.
 
-* _[The People Online Justice Leaves Behind, What Next: TBD|https://slate.com/podcasts/what-next-tbd/2021/12/coronavirus-changed-civil-courts]_. Discusses how those at the margins in the U.S. justice system were even less well-served online.
+* [The People Online Justice Leaves Behind, What Next: TBD|https://slate.com/podcasts/what-next-tbd/2021/12/coronavirus-changed-civil-courts]. Discusses how those at the margins in the U.S. justice system were even less well-served online.
 
-* _[How Minnesota Spied On Protesters, What Next: TBD|https://slate.com/podcasts/what-next-tbd/2022/03/how-minnesota-spied-on-protesters]_. Discusses police surveillance of protestors.
+* [How Minnesota Spied On Protesters, What Next: TBD|https://slate.com/podcasts/what-next-tbd/2022/03/how-minnesota-spied-on-protesters]. Discusses police surveillance of protestors.

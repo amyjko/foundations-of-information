@@ -105,12 +105,12 @@ Is all of this is inconvenient? Yes. But ensuring your digital privacy not only 
 
 Want to learn more about privacy and security? Consider these podcasts, which engage some of the many new challenges that digital privacy and security pose on society:
 
-* [_Right to be Forgotten_, Radiolab|https://www.wnycstudios.org/podcasts/radiolab/articles/radiolab-right-be-forgotten]. This podcast discusses the many challenges of archiving private data, and how the context of that data can shift over time, causing new harm.
+* [Right to be Forgotten, Radiolab|https://www.wnycstudios.org/podcasts/radiolab/articles/radiolab-right-be-forgotten]. This podcast discusses the many challenges of archiving private data, and how the context of that data can shift over time, causing new harm.
 
-* [_What Happens in Vegas... is Captured on Camera_, In Machines We Trust|https://www.technologyreview.com/2020/08/12/1006676/police-face-recognition-vegas-miami-new-york/]. Discusses the increasing use of facial recognition in police surveillance and the lack of transparency, oversight, and policy that has led to its abuse.
+* [What Happens in Vegas... is Captured on Camera, In Machines We Trust|https://www.technologyreview.com/2020/08/12/1006676/police-face-recognition-vegas-miami-new-york/]. Discusses the increasing use of facial recognition in police surveillance and the lack of transparency, oversight, and policy that has led to its abuse.
 
-* [_What Cops Are Doing With Your DNA_, What Next: TBD, Slate|https://slate.com/podcasts/what-next-tbd/2021/06/do-you-still-own-your-dna]. Discusses the increasing use of open-source DNA platforms to solve crimes, and the problematic ways in which people who never share their DNA still might be implicated in crimes.
+* [What Cops Are Doing With Your DNA, What Next: TBD, Slate|https://slate.com/podcasts/what-next-tbd/2021/06/do-you-still-own-your-dna]. Discusses the increasing use of open-source DNA platforms to solve crimes, and the problematic ways in which people who never share their DNA still might be implicated in crimes.
 
-* [_Who is Hacking the U.S. Economy?_, The Daily|https://www.nytimes.com/2021/06/08/podcasts/the-daily/colonial-pipeline-jbs-ransomware-attacks.html]. Discusses cyberattacks, ransomware, and the adversarial thinking required to prevent and respond to them.
+* [Who is Hacking the U.S. Economy?, The Daily|https://www.nytimes.com/2021/06/08/podcasts/the-daily/colonial-pipeline-jbs-ransomware-attacks.html]. Discusses cyberattacks, ransomware, and the adversarial thinking required to prevent and respond to them.
 
-* [_Why Apple is About to Search Your Files_, The Daily|https://www.nytimes.com/2021/08/20/podcasts/the-daily/apple-iphones-privacy.html]. Discusses the complex tensions between privacy, safety, and law in Apple's child sexual abuse survellance.
+* [Why Apple is About to Search Your Files, The Daily|https://www.nytimes.com/2021/08/20/podcasts/the-daily/apple-iphones-privacy.html]. Discusses the complex tensions between privacy, safety, and law in Apple's child sexual abuse survellance.

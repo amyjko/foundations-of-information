@@ -77,8 +77,8 @@ Ultimately, the transformation of science and industry, first through statistics
 
 Interested in learning more about science and data science? Consider these podcasts:
 
-* [_Florence Nightingale: Data Viz Pioneer_, 99% Invisible|https://99percentinvisible.org/episode/florence-nightingale-data-viz-pioneer/]. Discusses the founder of modern nursing, Florence Nightingale, who also happened to be a pioneer in data visualization of public health data.
+* Florence Nightingale: Data Viz Pioneer, 99% Invisible|https://99percentinvisible.org/episode/florence-nightingale-data-viz-pioneer/]. Discusses the founder of modern nursing, Florence Nightingale, who also happened to be a pioneer in data visualization of public health data.
 
-* [_Scientists Are Hunting For Alien Worlds Outside Our Solar System_, Are We There Yet?, NPR|https://www.wmfe.org/scientists-are-hunting-for-alien-worlds-outside-our-solar-system/177382]. Discusses efforts to detect life in other solar systems using data.
+* [Scientists Are Hunting For Alien Worlds Outside Our Solar System, Are We There Yet?, NPR|https://www.wmfe.org/scientists-are-hunting-for-alien-worlds-outside-our-solar-system/177382]. Discusses efforts to detect life in other solar systems using data.
 
-* [_CRISPR_, Radiolab, WYNC|https://www.wnycstudios.org/podcasts/radiolab/articles/antibodies-part-1-crispr]. Discusses technology for editing DNA, and the many complex implications of treating DNA as data.
+* [CRISPR, Radiolab, WYNC|https://www.wnycstudios.org/podcasts/radiolab/articles/antibodies-part-1-crispr]. Discusses technology for editing DNA, and the many complex implications of treating DNA as data.

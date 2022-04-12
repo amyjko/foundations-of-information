@@ -56,12 +56,12 @@ These, of course, are not the only potential problems with information. The worl
 
 The podcasts below all reveal the peril of information in different ways.
 
-* _[Family Stories, Family Lies|https://www.npr.org/2020/12/22/949425455/family-stories-family-lies], Code Switch_. Shares one story of how the origins of a family name are far more complicated than one can ever imagine, capturing a multi-generation history of love and oppression.
+* [Family Stories, Family Lies|https://www.npr.org/2020/12/22/949425455/family-stories-family-lies], Code Switch_. Shares one story of how the origins of a family name are far more complicated than one can ever imagine, capturing a multi-generation history of love and oppression.
 
-* _[A Conspiracy Theory Proved Wrong, The Daily, The New York Times|https://www.nytimes.com/2021/01/29/podcasts/the-daily/qanon-conspiracy-theory-trump.html]_. Discusses the history of the QAnon conspiracy and its aftermath after its predictions did not come true.
+* [A Conspiracy Theory Proved Wrong, The Daily, The New York Times|https://www.nytimes.com/2021/01/29/podcasts/the-daily/qanon-conspiracy-theory-trump.html]. Discusses the history of the QAnon conspiracy and its aftermath after its predictions did not come true.
 
-* _[No Silver Bullets, On the Media, WNCY Studios|https://www.wnycstudios.org/podcasts/otm/episodes/on-the-media-no-silver-bullets]_. Discusses how information and propaganda has led to far-right extremism, and how information is also used to deradicalize.
+* [No Silver Bullets, On the Media, WNCY Studios|https://www.wnycstudios.org/podcasts/otm/episodes/on-the-media-no-silver-bullets]. Discusses how information and propaganda has led to far-right extremism, and how information is also used to deradicalize.
 
-* _[Facebook's CTO on Misinformation, In Machines We Trust|https://www.technologyreview.com/2020/11/18/1012064/emtech-stage-facebooks-cto-on-misinformation/]_. Facebook's CTO describes Facebook's struggling efforts to detect misinformation and prevent harm.
+* [Facebook's CTO on Misinformation, In Machines We Trust|https://www.technologyreview.com/2020/11/18/1012064/emtech-stage-facebooks-cto-on-misinformation/]. Facebook's CTO describes Facebook's struggling efforts to detect misinformation and prevent harm.
 
-* _[Undercover and Over-Exposed, On the Media|https://www.wnycstudios.org/podcasts/otm/episodes/on-the-media-undercover-and-overexposed]_. Discusses the risks of freely sharing information with journalists.
+* [Undercover and Over-Exposed, On the Media|https://www.wnycstudios.org/podcasts/otm/episodes/on-the-media-undercover-and-overexposed]. Discusses the risks of freely sharing information with journalists.

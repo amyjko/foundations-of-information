@@ -116,10 +116,10 @@ Thus far, we have established that information is powerful when it is situated i
 
 Learn more about data and encoding:
 
-* _[Emojiconomics, Planet Money, NPR|https://www.npr.org/2021/02/02/963370085/emojiconomics]_. Discusses the fraught role of business and money in the Unicode emoji proposal process.
+* [Emojiconomics, Planet Money, NPR|https://www.npr.org/2021/02/02/963370085/emojiconomics]. Discusses the fraught role of business and money in the Unicode emoji proposal process.
 
-* _[Our Year: Emergency Mode Can’t Last Forever, What Next, Slate|https://slate.com/podcasts/what-next/2021/03/when-is-the-pandemic-over]_. Discusses the processes by which COVID-19 data have been produced in the United States, and the messy and complex metadata that makes analysis and decision making more difficult.
+* [Our Year: Emergency Mode Can’t Last Forever, What Next, Slate|https://slate.com/podcasts/what-next/2021/03/when-is-the-pandemic-over]. Discusses the processes by which COVID-19 data have been produced in the United States, and the messy and complex metadata that makes analysis and decision making more difficult.
 
-* _[Inventing Hispanic, The Experiment, The Atlantic|https://www.theatlantic.com/podcasts/archive/2021/03/chicanos-the-census-and-celia-cruz-inventing-latino/618248/]_. Discusses the history behind the invention of the category "Hispanic" and "Latino", and how racial categories are used to encode race as a social construct.
+* [Inventing Hispanic, The Experiment, The Atlantic|https://www.theatlantic.com/podcasts/archive/2021/03/chicanos-the-census-and-celia-cruz-inventing-latino/618248/]. Discusses the history behind the invention of the category "Hispanic" and "Latino", and how racial categories are used to encode race as a social construct.
 
-* _[Organizing Chaos, On the Media|https://www.wnycstudios.org/podcasts/otm/episodes/on-the-media-organizing-chaos]_. Reports on the debates about the Dewey Decimal System and it's inherent social biases.
+* [Organizing Chaos, On the Media|https://www.wnycstudios.org/podcasts/otm/episodes/on-the-media-organizing-chaos]. Reports on the debates about the Dewey Decimal System and it's inherent social biases.

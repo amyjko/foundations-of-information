@@ -98,14 +98,14 @@ Information systems, therefore, aren't better or worse in the absolute sense, bu
 
 These podcasts explore some of the strengths and weaknesses of modern information systems.
 
-* [_Rabbit Hole_, Episode 1, NY Times|https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html]. Discusses YouTube as an information system, and the kinds of information experiences it excels at creating.
+* [Rabbit Hole, Episode 1, NY Times|https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html]. Discusses YouTube as an information system, and the kinds of information experiences it excels at creating.
 
-* [_Why the Vaccine Websites Suck_, What Next TBD|https://slate.com/podcasts/what-next-tbd/2021/01/vaccine-websites-failing]. Discusses the many policies, practices, and market dynamics that result in U.S. government websites being so poor in quality.
+* [Why the Vaccine Websites Suck, What Next TBD|https://slate.com/podcasts/what-next-tbd/2021/01/vaccine-websites-failing]. Discusses the many policies, practices, and market dynamics that result in U.S. government websites being so poor in quality.
 
-* [_Seduced by Substack_, What Next TBD, Slate|https://slate.com/podcasts/what-next-tbd/2021/04/why-you-keep-hearing-about-substack]. Discusses why some journalists are shifting from traditional journalism to a paid newsletter model on Substack, and the tradeoffs of the new model for editorial oversight, labor, and chasing audience.
+* [Seduced by Substack, What Next TBD, Slate|https://slate.com/podcasts/what-next-tbd/2021/04/why-you-keep-hearing-about-substack]. Discusses why some journalists are shifting from traditional journalism to a paid newsletter model on Substack, and the tradeoffs of the new model for editorial oversight, labor, and chasing audience.
 
-* [_Brown Box_, Radiolab, WNYC Studios|https://www.wnycstudios.org/podcasts/radiolab/articles/brown-box]. Discusses the information systems used to rapidly provision online orders and some of inhumane work they cause. Also discusses the complexities of name changes for those with records of archived, credited work. (The reporter is transgender.)
+* [Brown Box, Radiolab, WNYC Studios|https://www.wnycstudios.org/podcasts/radiolab/articles/brown-box]. Discusses the information systems used to rapidly provision online orders and some of inhumane work they cause. Also discusses the complexities of name changes for those with records of archived, credited work. (The reporter is transgender.)
 
-* [_The Internet is a Luxury_, Recode Daily, Vox|https://podcasts.apple.com/us/podcast/recode-daily/id1479107698?i=1000525711792]. Discusses the digital divide and why most people in the world still don't have access to the internet.
+* [The Internet is a Luxury, Recode Daily, Vox|https://podcasts.apple.com/us/podcast/recode-daily/id1479107698?i=1000525711792]. Discusses the digital divide and why most people in the world still don't have access to the internet.
 
-* _[404: Podcast Not Found, Recode Daily, Vox|https://podcasts.apple.com/us/podcast/recode-daily/id1479107698?i=1000545914185]_. Discusses the exceptional difficulties of archiving content on the internet relative to other information systems.
+* [404: Podcast Not Found, Recode Daily, Vox|https://podcasts.apple.com/us/podcast/recode-daily/id1479107698?i=1000545914185]. Discusses the exceptional difficulties of archiving content on the internet relative to other information systems.

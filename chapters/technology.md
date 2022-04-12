@@ -117,6 +117,8 @@ Of course, computing _is_ far more powerful than any information technology we h
 
 Learn more about information technology:
 
-* _[The AI of the Beholder, In Machines We Trust, MIT Technology Review|https://www.technologyreview.com/2021/04/01/1021671/podcast-rate-beauty-ai-score-attractive-algorithm-face/]_. Discusses recent advances in applying machine learning to beauty, and the shift from altering our physical appearance with makeup and surgery to altering the pixels that represent it. Discusses racism, ageism, and other biases encoded into beautification algorithms.
+* [The AI of the Beholder, In Machines We Trust, MIT Technology Review|https://www.technologyreview.com/2021/04/01/1021671/podcast-rate-beauty-ai-score-attractive-algorithm-face/]. Discusses recent advances in applying machine learning to beauty, and the shift from altering our physical appearance with makeup and surgery to altering the pixels that represent it. Discusses racism, ageism, and other biases encoded into beautification algorithms.
 
-* [_A Vast Web of Vengeance_, Part 2, The Daily, NY Times|https://www.nytimes.com/2021/05/03/podcasts/the-daily/a-vast-web-of-vengeance-part-2.html]. Discusses the maintainers of websites who spread information that harms reputations, how Section 230 protects them, and the extortion that some companies use to have defamatory information removed.
+* [A Vast Web of Vengeance, Part 2, The Daily, NY Times|https://www.nytimes.com/2021/05/03/podcasts/the-daily/a-vast-web-of-vengeance-part-2.html]. Discusses the maintainers of websites who spread information that harms reputations, how Section 230 protects them, and the extortion that some companies use to have defamatory information removed.
+
+* [The Most Thorough case Against Crypto I've Heard, The Ezra Klein Show, NY Times|https://www.nytimes.com/2022/04/05/podcasts/transcript-ezra-klein-interviews-dan-olson.html]. Discusses the numerous risks of decentralized currency, intersecting with issues of privacy, property, and individualism.

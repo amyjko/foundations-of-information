@@ -100,12 +100,12 @@ These four areas of information ethics are of course just some of many informati
 
 Interested in learning more about information ethics, policy, and regulation? Consider these podcasts, which investigate current events:
 
-* _[Who Owns the Future? On the Media|https://podcasts.apple.com/us/podcast/on-the-media/id73330715?i=1000502880896]_. Discusses the U.S. Justice departments' anti-trust case against Facebook.
+* [Who Owns the Future? On the Media|https://podcasts.apple.com/us/podcast/on-the-media/id73330715?i=1000502880896]. Discusses the U.S. Justice departments' anti-trust case against Facebook.
 
-* _[Unspeakable Trademark, Planet Money|https://www.npr.org/sections/money/2017/05/26/530252213/episode-774-unspeakable-trademark]_. Discusses what rights people have to trademark names and how these rights intersect with culture and identity.
+* [Unspeakable Trademark, Planet Money|https://www.npr.org/sections/money/2017/05/26/530252213/episode-774-unspeakable-trademark]. Discusses what rights people have to trademark names and how these rights intersect with culture and identity.
 
-* _[The High Court of Facebook, The Gist|https://slate.com/podcasts/the-gist/2020/08/kate-klonick-facebook-supreme-court]_. Discusses Facebook's long-demanded formation of an independent body for making censorship decisions.
+* [The High Court of Facebook, The Gist|https://slate.com/podcasts/the-gist/2020/08/kate-klonick-facebook-supreme-court]. Discusses Facebook's long-demanded formation of an independent body for making censorship decisions.
 
-* _[A Vast Web of Vengence, The Daily, NY Times|https://www.nytimes.com/2021/04/06/podcasts/the-daily/a-vast-web-of-vengeance.html]_. Discusses a specific case of online harassment and defamation, the harm that came from it, and how the law shielded companies from responsibility for taking the defamatory content down.
+* [A Vast Web of Vengence, The Daily, NY Times|https://www.nytimes.com/2021/04/06/podcasts/the-daily/a-vast-web-of-vengeance.html]. Discusses a specific case of online harassment and defamation, the harm that came from it, and how the law shielded companies from responsibility for taking the defamatory content down.
 
-* _[The Facebook Whistle-Blower Testifies, The Daily, NY Times|https://www.nytimes.com/2021/10/06/podcasts/the-daily/facebook-whistleblower-frances-haugen.html]_. Explores the impact of the testimony on possible regulation.
+* [The Facebook Whistle-Blower Testifies, The Daily, NY Times|https://www.nytimes.com/2021/10/06/podcasts/the-daily/facebook-whistleblower-frances-haugen.html]. Explores the impact of the testimony on possible regulation.

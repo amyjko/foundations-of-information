@@ -98,10 +98,10 @@ One short chapter on the intersection between information, design, and interface
 
 # Podcasts
 
-* _[Listen now! Offer ends soon, Recode Daily, Vox|https://podcasts.apple.com/us/podcast/recode-daily/id1479107698?i=1000516402733]_. Discusses the dark patterns used throughout design to manipulate people into interacting and generating ad revenue, including new policies that are beginning to regulate these design patterns.
+* [Listen now! Offer ends soon, Recode Daily, Vox|https://podcasts.apple.com/us/podcast/recode-daily/id1479107698?i=1000516402733]. Discusses the dark patterns used throughout design to manipulate people into interacting and generating ad revenue, including new policies that are beginning to regulate these design patterns.
 
-* [_The Next Billion Users_, 99% Invisible|https://99percentinvisible.org/episode/the-next-billion-users/]. A Google sponsored podcast about how Google conducts research using ethnographic methods from anthropology to understand users who don't yet have access to the internet.
+* [The Next Billion Users, 99% Invisible|https://99percentinvisible.org/episode/the-next-billion-users/]. A Google sponsored podcast about how Google conducts research using ethnographic methods from anthropology to understand users who don't yet have access to the internet.
 
-* [_The Worst Video Game Ever_, 99% Invisible|https://99percentinvisible.org/episode/the-worst-video-game-ever/]. Discusses the E.T. game for Atari, one of the worst video games ever, which nearly caused the collapse of the fledgling video game industry int he early 1980's.
+* [The Worst Video Game Ever, 99% Invisible|https://99percentinvisible.org/episode/the-worst-video-game-ever/]. Discusses the E.T. game for Atari, one of the worst video games ever, which nearly caused the collapse of the fledgling video game industry int he early 1980's.
 
-* [_All Rings Considered_, 99% Invisible|https://99percentinvisible.org/episode/all-rings-considered/]. Discusses the history of the design of mobile phone ringtones.
+* [All Rings Considered, 99% Invisible|https://99percentinvisible.org/episode/all-rings-considered/]. Discusses the history of the design of mobile phone ringtones.
