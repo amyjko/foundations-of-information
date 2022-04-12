@@ -60,8 +60,8 @@ In the rest of this book, we will try to define information, demarcating its ori
 
 The podcasts below all reveal the power of information in different ways.
 
-* [The Other Extinguishers|https://www.thisamericanlife.org/727/boulder-v-hill/act-two-10] (Act 2), Boulder v. Hill, This American Life_. Shows how a long, collaborative history of science led to the DNA sequencing of the SARS-CoV-2 "spike" in just 10 minutes ([transcript|https://www.thisamericanlife.org/727/transcript])
+* [The Other Extinguishers|https://www.thisamericanlife.org/727/boulder-v-hill/act-two-10] (Act 2), Boulder v. Hill, This American Life. Shows how a long, collaborative history of science led to the DNA sequencing of the SARS-CoV-2 "spike" in just 10 minutes ([transcript|https://www.thisamericanlife.org/727/transcript])
 
-* [Electoral College Documents, 2020|https://podcasts.apple.com/us/podcast/electoral-college-documents-2020/id549558135?i=1000504239005], Documents that Changed the World_. Discusses how the U.S. electoral college system actually determine transfer of power in United States elections.
+* [Electoral College Documents, 2020|https://podcasts.apple.com/us/podcast/electoral-college-documents-2020/id549558135?i=1000504239005], Documents that Changed the World. Discusses how the U.S. electoral college system actually determine transfer of power in United States elections.
 
-* [Statistical Significance, 1925|https://podcasts.apple.com/us/podcast/statistical-significance-1925/id549558135?i=1000344069440], Documents that Changed the World_. Discusses the messy process by which scientific certainty is established.
+* [Statistical Significance, 1925|https://podcasts.apple.com/us/podcast/statistical-significance-1925/id549558135?i=1000344069440], Documents that Changed the World. Discusses the messy process by which scientific certainty is established.
