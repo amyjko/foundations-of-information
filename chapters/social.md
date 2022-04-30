@@ -81,6 +81,8 @@ Clearly, information technology has changed how we communicate, and in some ways
 
 # Podcasts
 
+* [Ghost in the Machine, On the Media|https://www.wnycstudios.org/podcasts/otm/episodes/on-the-media-ghost-in-the-machine]. Discusses the possible necessary limits of free speech, ideas from planning that could shape future social media platforms, and the often problematic role of science fiction in shaping online platforms.
+
 * [Can Big Tech Make Sure That 2020 Is Not 2016?, Sway|https://sway.simplecast.com/episodes/can-big-tech-make-sure-that-2020-is-not-2016-j1sOJ9zx]. Discusses how social media platforms are amending policies around political advertising and disinformation.
 
 * [You Missed a Spot, On the Media|https://www.wnycstudios.org/podcasts/otm/episodes/on-the-media-you-missed-a-spot]. Discusses content moderation, deplatforming, free speech, and the future of social media.
