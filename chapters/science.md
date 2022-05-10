@@ -43,7 +43,7 @@ Underlying this pipeline were two long-standing challenges. The first, _how to a
 5. When is it unethical to gather data at scale? Issues of consent, sampling bias, and harm still matter, even when data collection is automated.
 6. Who gets access to data, especially if it is gathered privately? Science is practiced in public, and private data risks creating digital divides.
 
-Scholars have further worried that all of the phases of data science above, when done without awareness of the deep, structural, and historical inequities in society, might only reinforce those inequities<dignazio20>. They might posing questions only of importance to dominant groups, they might gather data in ways that exclude marginalized groups, they might analyze data in ways that ignore the margins society, and they might visualize, report, and interpret data in ways that are ignorant of marginalized experiences. Computing and statistics might then become another tool for oppression.
+Scholars have further worried that all of the phases of data science above, when done without awareness of the deep, structural, and historical inequities in society, might only reinforce those inequities<dignazio20>. They might pose questions only of importance to dominant groups, they might gather data in ways that exclude marginalized groups, they might analyze data in ways that ignore the margins society, and they might visualize, report, and interpret data in ways that are ignorant of marginalized experiences. Computing and statistics might then become another tool for oppression.
 
 |Tableau.png|A screenshot of a Tableau dashboard showing sales and profit.|A Tableau dashboard, applying methods of science to business.|Tableau|
 
