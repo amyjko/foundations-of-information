@@ -96,6 +96,8 @@ Pursuing careers in information, as much as it is an individual choice, is also 
 
 * [Timnit Gebru Tells Her Story, In Machines We Trust, MIT Technology Review|https://www.technologyreview.com/2020/12/16/1014634/google-ai-ethics-lead-timnit-gebru-tells-story/]. Gebru describes the toxic work environment at Google that punished advocacy, community organizing, and ultimately scientific progress on AI ethics.
 
+* [Amazon Black Stories: Taurean Jones, Amazon Design|https://soundcloud.com/amazondesign/amazon-black-stories06-taurean-jones]. Taurean Jones talks about design leadership at Google, discussing allyship, mentorship, and representation.
+
 * [Does Google Actually Want to Hire Black Engineers?, What Next TBD, Slate|https://slate.com/podcasts/what-next-tbd/2021/03/google-hbcus-hiring]. Discusses the problematic and incrementally effective partnership between Google and HBCU's.
 
 * [Project Maven, Recode Daily, Vox|https://podcasts.apple.com/us/podcast/project-maven/id1479107698?i=1000513649831]. Discusses a Google Department of Defense weapons contract and an internal effort by some Google employees to protest and resist the project, resulting its cancellation.
