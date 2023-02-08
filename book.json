@@ -1,1953 +1,2026 @@
 {
-        "title": "Foundations of Information",
-        "authors": ["[Amy J. Ko|https://amyjko.com]"],
-        "license": "[Creative Commons Attribution-NoDerivatives 4.0|https://creativecommons.org/licenses/by-nd/4.0/]",
-        "images": {
-                "cover": "|cover.jpg|A metallic structure resembling a network of nodes and edges|A sculpture of information, or perhaps the internet?|[Alina Grubnyak|https://unsplash.com/photos/ZiQkhI7417A]|",
-                "unknown": "|error.gif|An animated gif of television noise.|Uh oh, something went wrong.|Blackworker (GIFER)|"
-        },
-        "description": "For several years, I've taught an introductory course on the intellectual foundations of information, which surveys the many ideas and fields that have something to say about information. Unable to find an introductory text, I wrote this book as a gateway into the topics of the course, providing a broad overview of major topics in information, and links into the deeper research and popular literature. Unlike a traditional book, this one will change, evolving as my knowledge and our collective knowledge about information grows.\n\nI hope you enjoy! If not, please file an [issue|https://github.com/amyjko/foundations-of-information/issues/new] on the [the book's GitHub repository|https://github.com/amyjko/foundations-of-information].\n\n_This material is based upon work supported by the National Science Foundation under Grant No. 2031265. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation._",
-        "acknowledgements": "Several have contributed minor corrections and improvements, including, alphabetical order, Kristin Bott, Luke Channings, Antoine Cheron, Matthew Conlen, Stuart Schechter, and Bojan Tosic.",
-        "revisions": [
-                ["January 2021", "Initial draft."]
-        ],
-        "chapters": [
-                {
-                        "title": "The power of information",
-                        "id": "power",
-                        "image": "|Newspapers.jpg|A black and white white photograph of a row of men reading newspapers on the sidewalk|People are informavores, hungry for information.|Unknown|",
-                        "section": "Foundations"
-                },
-                {
-                        "title": "The peril of information",
-                        "id": "peril",
-                        "image": "|Trump.jpg|A photograph of a newspaper with Trump's mouth torn out.|Not all information is good information.|Charles Deluvio|",
-                        "section": "Foundations"
-                },
-                {
-                        "title": "Data, information, knowledge",
-                        "id": "information",
-                        "image": "|Books.jpg|A photograph of a wall of thousands of dusty old books.|Is this a wall of books, data, information, or knowledge?|[Alfons Morales|https://unsplash.com/photos/YLSwjSy7stw]|",
-                        "section": "Foundations"
-                },
-                {
-                        "title": "Data, encoding, and metadata",
-                        "id": "data",
-                        "image": "|Hieroglyphs.jpg|A photograph of hieroglyphs at the Temple of Hathor, Dendera|A story, encoded in ancient Egyptian hieroglyphs.|[Jeremy Zero|https://unsplash.com/photos/4f_Kk-AYf64]|",
-                        "section": "Foundations"
-                },
-                {
-                        "title": "Information technology",
-                        "id": "technology",
-                        "image": "|Apple IIe.jpg|A photograph of a person staring at an Apple II green display.|Modern information technology comes in the form of beige boxes.|[kevgordon|https://www.youtube.com/watch?v=BEDVjg5y0Hg]|",
-                        "section": "Foundations"
-                },
-                {
-                        "title": "Information systems",
-                        "id": "systems",
-                        "image": "|AOL.jpg|A screenshot of AOL showing a collection of stories, instant messaging, email, and more.|An early information system on the Internet known as AOL.|Unknown|",
-                        "section": "Foundations"
-                },
-                {
-                        "title": "Seeking information",
-                        "id": "seeking",
-                        "image": "|OG Google.png|A screenshot of the original Google homepage|Google, automating information retrieval since 1997.|Public Domain|",
-                        "section": "Foundations"
-                },
-                {
-                        "title": "Hiding information",
-                        "id": "hiding",
-                        "image": "|Surveillance.jpg|Two women look up to a wall of surveillance cameras|Sometimes, privacy and security are at odds.|[Matthew Henry|https://unsplash.com/photos/fPxOowbR6ls]|",
-                        "section": "Foundations"
-                },
-                {
-                        "title": "Managing information",
-                        "id": "managing",
-                        "image": "|Planner.jpg|A photograph of a person managing a calendar and to do list.|Information management can get personal.|[Paico Oficial|https://unsplash.com/photos/DC_gMe5H95k]|",
-                        "section": "Foundations"
-                },
-                {
-                        "title": "Regulating information",
-                        "id": "regulating",
-                        "image": "|Signing.jpg|A painting of the signing of the U.S. Constitution showing many White men signing|That time when wealthy white men determined our rights.|Public Domain|",
-                        "section": "Foundations"
-                },
-                {
-                        "title": "Designing information",
-                        "id": "designing",
-                        "image": "|Courthouse.jpg|A photograph of the King County District Court name change office.|Where people in Seattle change their legal names.|Amy J. Ko|",
-                        "section": "Foundations"
-                },
-                {
-                        "title": "Information + social",
-                        "id": "social",
-                        "image": "|Friends.jpg|A photograph of two friends talking while swinging on a swing set.|Information is social.|[Bewakoof|https://unsplash.com/photos/mG-HdjYiPtE]|",
-                        "section": "Domains"
-                },
-                {
-                        "title": "Information + science",
-                        "id": "science",
-                        "image": "|Science.jpg|A photograph of a scientist pipetting DNA samples into a tube to copy DNA.|A scientist drops some data into a pipette.|[National Cancer Institute|https://unsplash.com/photos/eo_4DqPUSQA]|",
-                        "section": "Domains"
-                },
-                {
-                        "title": "Information + automation",
-                        "id": "automation",
-                        "image": "|Robot.jpg|A girl touching a robot's hand in Japan.|What information should we automate?|[Andy Kelly|https://unsplash.com/photos/0E_vhMVqL9g]|",
-                        "section": "Domains"
-                },
-                {
-                        "title": "Information + health",
-                        "id": "health",
-                        "image": "|Vaccine.jpg|A black man gets a SARS-CoV-2 vaccine from a white woman|A women injects instructions for building SARS-CoV-2 proteins into a man's arm.|[CDC|https://unsplash.com/photos/vt7iAyiwpf0]|",
-                        "section": "Domains"
-                },
-                {
-                        "title": "Information + democracy",
-                        "id": "democracy",
-                        "image": "|BLM Protest.jpg|A photo of Black Lives Matter protestors in front of the White House on May 31st, 2020.|The public amplifes information in front of the U.S. President's residence.|[Koshu Kunii|https://unsplash.com/photos/Q5sHZ-_lxvE]|",
-                        "section": "Domains"
-                },
-                {
-                        "title": "Information + sustainability",
-                        "id": "sustainability",
-                        "image": "|Glacier.jpg|A photograph of a glacier melting.|A site of climate change data collection.|[Cassie Matias|https://unsplash.com/photos/VSGEH7tKiUg]|",
-                        "section": "Domains"
-                },
-                {
-                        "title": "Information + careers",
-                        "id": "careers",
-                        "image": "|Work.jpg|Five people working at a table and whiteboard with sticky notes.|Information work.|[You X Ventures|https://unsplash.com/photos/Oalh2MojUuk]|",
-                        "section": "Domains"
-                }
-        ],
-        "sources": {
-                "CHI": "ACM Conference on Human Factors in Computing Systems",
-                "CSCW": "ACM Conference on Computer Supported Cooperative Work and Social Computing"
-        },
-        "references": {
-                "ackerman00": [
-                        "Mark S. Ackerman",
-                        2000,
-                        "The intellectual challenge of CSCW: the gap between social requirements and technical feasibility",
-                        "Human-Computer Interaction",
-                        "https://doi.org/10.1207/S15327051HCI1523_5"
-                ],
-                "albrecht16": [
-                        "Jan Philipp Albrecht",
-                        2016,
-                        "How the GDPR will change the world",
-                        "European Data Portection Law Review"
-                ],
-                "amershi19": [
-                        "Saleema Amershi, Andrew Begel, Christian Bird, Robert DeLine, Harald Gall, Ece Kamar, Nachiappan Nagappan, Besmira Nushi, and Thomas Zimmermann",
-                        2019,
-                        "Software engineering for machine learning: A case study",
-                        "International Conference on Software Engineering: Software Engineering in Practice",
-                        "https://doi.org/10.1109/ICSE-SEIP.2019.00042"
-                ],
-                "anderson08": [
-                        "Keith B. Anderson, Erik Durbin, and Michael A. Salinger",
-                        2008,
-                        "Identity Theft",
-                        "Journal of Economic Perspectives",
-                        "https://doi.org/10.1257/jep.22.2.171"
-                ],
-                "anderson18": [
-                        "Carol Anderson, Dick Durbin",
-                        2018,
-                        "One Person, No Vote: How Voter Suppression Is Destroying Our Democracy",
-                        "Bloomsbury",
-                        "https://www.google.com/books/edition/One_Person_No_Vote/KLlHDwAAQBAJ?hl=en&gbpv=0"
-                ],
-                "argyle72": [
-                        "Michael Argyle",
-                        1972,
-                        "Non-verbal communication in human social interaction",
-                        "Cambridge University Press",
-                        "https://www.google.com/books/edition/Non_verbal_Communication_in_Human_Social/9OGbOwAACAAJ?hl=en"
-                ],
-                "arrhenius96": [
-                        "Svante Arrhenius",
-                        1896,
-                        "On the influence of carbonic acid in the air upon the temperature of the ground",
-                        "The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science",
-                        "https://doi.org/10.1080/14786449608620846"
-                ],
-                "babst18": [
-                        "Gorden A. Babst",
-                        2018,
-                        "Privacy and Outing",
-                        "Core Concepts and Contemporary Issues in Privacy",
-                        "https://doi.org/10.1007/978-3-319-74639-5_15"
-                ],
-                "bateson70": [
-                        "Gregory Bateson",
-                        1970,
-                        "Form, substance and difference",
-                        "Essential Readings in Biosemiotics",
-                        "https://www.jstor.org/stable/4147987"
-                ],
-                "baumer00": [
-                        "David Baumer, Julia Brande Earp, and Fay Cobb Payton",
-                        2000,
-                        "Privacy of medical records: IT implications of HIPAA",
-                        "ACM SIGCAS Computers and Society",
-                        "https://doi.org/10.1145/572260.572261"
-                ],
-                "baxevanis20": [
-                        "Andreas D. Baxevanis, Gary D. Bader, David S. Wishart",
-                        2020,
-                        "Bioinformatics",
-                        "John Wiley & Sons",
-                        "https://www.google.com/books/edition/Bioinformatics/OuHNDwAAQBAJ?hl=en"
-                ],
-                "bernstein11": [
-                        "Michael Bernstein, Andrés Monroy-Hernández, Drew Harry, Paul André, Katrina Panovich, and Greg Vargas",
-                        2011,
-                        "4chan and/b: An Analysis of Anonymity and Ephemerality in a Large Online Community",
-                        "AAAI Conference on Web and Social Media",
-                        "http://eprints.soton.ac.uk/id/eprint/272345"
-                ],
-                "benjamin19": [
-                        "Ruha Benjamin",
-                        2019,
-                        "Race after technology: Abolitionist tools for the new jim code",
-                        "Social Forces",
-                        "https://doi.org/10.1093/sf/soz162"
-                ],
-                "bennett19": [
-                        "Cynthia L. Bennett and Daniela K. Rosner",
-                        2019,
-                        "The Promise of Empathy: Design, Disability, and Knowing the \"Other\"",
-                        "#CHI",
-                        "https://doi.org/10.1145/3290605.3300528"
-                ],
-                "bhatt10": [
-                        "Arun Bhatt",
-                        2010,
-                        "Evolution of clinical research: a history before and beyond James Lind",
-                        "Perspectives in Clinical Research",
-                        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3149409/"      
-                ],
-                "bimber03": [
-                        "Bruce Bimber",
-                        2003,
-                        "Information and American democracy: Technology in the evolution of political power",
-                        "Cambridge University Press",
-                        "https://www.google.com/books/edition/Information_and_American_Democracy/5fpneXcFVBwC?hl=en&gbpv=0"
-                ],
-                "bird09": [
-                        "Steven Bird, Ewan Klein, Edward Loper",
-                        2009,
-                        "Natural Language Processing with Python",
-                        "O'Reilly Media",
-                        "https://www.google.com/books/edition/Natural_Language_Processing_with_Python/KGIbfiiP1i4C?hl=en"
-                ],
-                "brandt78": [
-                        "Allan M. Brandt",
-                        1978,
-                        "Racism and research: the case of the Tuskegee Syphilis Study",
-                        "Hastings Center Report",
-                        "https://doi.org/10.2307/3561468"
-                ],
-                "braveman06": [
-                        "Paula Braveman",
-                        2006,
-                        "Health disparities and health equity: concepts and measurement",
-                        "Annual Review of Public Health",
-                        "https://doi.org/10.1146/annurev.publhealth.27.021405.102103"
-                ],
-                "brin98": [
-                        "Sergey Brin, Lawrence Page",
-                        1998,
-                        "The anatomy of a large-scale hypertextual web search engine",
-                        "Computer Networks and ISDN Systems",
-                        "https://research.google/pubs/pub334/"
-                ],
-                "brynjarsdottir12": [
-                        "Hronn Brynjarsdottir, Maria Håkansson, James Pierce, Eric Baumer, Carl DiSalvo, and Phoebe Sengers",
-                        2012,
-                        "Sustainably unpersuaded: how persuasion narrows our vision of sustainability",
-                        "#CHI",
-                        "https://doi.org/10.1145/2207676.2208539"
-                ],
-                "bock94": [
-                        "Kathryn Bock, Willem Levelt",
-                        1994,
-                        "Language production: Grammatical encoding",
-                        "Academic Press",
-                        "https://pure.mpg.de/rest/items/item_61347/component/file_262298/content"
-                ],
-                "boyd12": [
-                        "danah boyd, Kate Crawford",
-                        2012,
-                        "Critical questions for big data: Provocations for a cultural, technological, and scholarly phenomenon",
-                        "Information, Communication & Society",
-                        "https://doi.org/10.1080/1369118X.2012.678878"
-                ],
-                "bowker00": [
-                        "Geoffrey Bowker, Susan Leigh",
-                        2000,
-                        "Sorting things out: Classification and its consequences",
-                        "MIT Press",
-                        "https://mitpress.mit.edu/books/sorting-things-out"
-                ],
-                "brattingham18": [
-                        "Jeffrey Brantingham, P., Matthew Valasik, and George O. Mohler",
-                        2018,
-                        "Does predictive policing lead to biased arrests? Results from a randomized controlled trial",
-                        "Statistics and Public Policy",
-                        "https://doi.org/10.1080/2330443X.2018.1438940"
-                ],
-                "browne15": [
-                        "Simone Browne",
-                        2015,
-                        "Dark matters: On the surveillance of blackness",
-                        "Duke University Press",
-                        "https://www.google.com/books/edition/Dark_Matters/snmJCgAAQBAJ?hl=en"
-                ],
-                "buckland91": [
-                        "Michael K. Buckland",
-                        1991,
-                        "Information as thing",
-                        "Journal of the American Society for information Science",
-                        "http://ppggoc.eci.ufmg.br/downloads/bibliografia/Buckland1991.pdf"
-                ],
-                "buckland91b": [
-                        "Michael K. Buckland",
-                        1991,
-                        "Information and information systems",
-                        "ABC-CLIO",
-                        "https://www.google.com/books/edition/Information_and_information_systems/xOqaFMA9Kh4C?hl=en"
-                ],
-                "buneman04": [
-                        "Peter Buneman, Sanjeev Khanna, Keishi Tajima, and Wang-Chiew Tan",
-                        2004,
-                        "Archiving scientific data",
-                        "ACM Transactions on Database Systems",
-                        "https://doi.org/10.1145/974750.974752"
-                ],
-                "bush45": [
-                        "Vannevar Bush",
-                        1945,
-                        "As we may think",
-                        "The atlantic monthly",
-                        "https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/"
-                ],
-                "buxton10": [
-                        "Bill Buxton",
-                        2010,
-                        "Sketching user experiences: getting the design right and the right design",
-                        "Morgan Kaufmann",
-                        "https://www.google.com/books/edition/Sketching_User_Experiences_Getting_the_D/2vfPxocmLh0C?hl=en"
-                ],
-                "choo02": [
-                        "Chun Wei Choo",
-                        2002,
-                        "Information Management for the Intelligent Organization",
-                        "Information Today",
-                        "https://www.google.com/books/edition/Information_Management_for_the_Intellige/IDlDwy9UfmsC?hl=en"
-                ],
-                "coe03": [
-                        "Lewis Coe",
-                        2003,
-                        "The telegraph: A history of Morse's invention and its predecessors in the United States",
-                        "McFarland",
-                        "https://www.google.com/books/edition/The_Telegraph/pzkZPIXm89UC?hl=en&gbpv=0"
-                ],
-                "collins90": [
-                        "Patricia Collins",
-                        1990,
-                        "Black feminist thought: Knowledge, consciousness, and the politics of empowerment",
-                        "Routeledge",
-                        "https://www.google.com/books/edition/Black_Feminist_Thought/WMGTAgAAQBAJ?hl=en"
-                ],
-                "costanzachock20": [
-                        "Sasha Costanza-Chock",
-                        2020,
-                        "Design justice: Community-led practices to build the worlds we need",
-                        "MIT Press",
-                        "http://design-justice.pubpub.org"
-                ],
-                "dicenzo03": [
-                        "Maria DiCenzo",
-                        2003,
-                        "Gutter politics: Women newsies and the suffrage press",
-                        "Women's History Review",
-                        "https://doi.org/10.1080/09612020300200345"
-                ],
-                "dietterich17": [
-                        "Thomas G. Dietterich",
-                        2017,
-                        "Steps Toward Robust Artificial Intelligence",
-                        "AI Magazine",
-                        "https://doi.org/10.1609/aimag.v38i3.2756"
-                ],
-                "dignazio20": [
-                        "Catherine D'Ignazio, Lauren F. Klein",
-                        2020,
-                        "Data Feminism",
-                        "MIT Press",
-                        "https://www.google.com/books/edition/Data_Feminism/x5nSDwAAQBAJ?hl=en"
-                ],
-                "disalvo10": [
-                        "Carl DiSalvo, Phoebe Sengers, and Hrönn Brynjarsdóttir",
-                        2010,
-                        "Mapping the landscape of sustainable HCI",
-                        "#CHI",
-                        "https://doi.org/10.1145/1753326.1753625"
-                ],
-                "dourish10": [
-                        "Paul Dourish",
-                        2010,
-                        "HCI and environmental sustainability: the politics of design and the design of politics",
-                        "ACM Conference on Designing Interactive Systems",
-                        "https://doi.org/10.1145/1858171.1858173"
-                ],
-                "dweck08": [
-                        "Carol S. Dweck",
-                        2008,
-                        "Mindset: The new psychology of success",
-                        "Random House Digital, Inc.",
-                        "https://www.google.com/books/edition/Mindset/fT6U0Ee7_kQC?hl=en&gbpv=0"
-                ],
-                "dynes70": [
-                        "R. R. Dynes",
-                        1970,
-                        "Organized Behavior in Disaster",
-                        "Lexington Books",
-                        "https://www.google.com/books/edition/Organized_Behavior_in_Disaster/IeT48KFQkVMC?hl=en&gbpv=0"
-                ],
-                "eckert20": [
-                        "Stine Eckert, Jade Metzger-Riftkin",
-                        2020,
-                        "Doxxing",
-                        "The International Encyclopedia of Gender, Media, and Communication",
-                        "https://doi.org/10.1002/9781119429128.iegmc009"
-                ],
-                "edling03": [
-                        "Max Edling",
-                        2003,
-                        "A Revolution in Favor of Government: Origin of the U.S. Constitution and the Making of the American State",
-                        "OUP USA",
-                        "https://www.google.com/books/edition/A_Revolution_in_Favor_of_Government/RKw_6w4psdkC?hl=en"
-                ],
-                "edmond13": [
-                        "Chris Edmond",
-                        2013,
-                        "Information manipulation, coordination, and regime change",
-                        "Review of Economic Studies",
-                        "https://doi.org/10.1093/restud/rdt020"
-                ],
-                "edwards19": [
-                        "George C. Edwards III",
-                        2019,
-                        "Why the Electoral College is bad for America",
-                        "Yale University Press",
-                        "https://www.google.com/books/edition/Why_the_Electoral_College_Is_Bad_for_Ame/8z2lDwAAQBAJ?hl=en&gbpv=0"
-                ],
-                "epstein16": [
-                        "Daniel A. Epstein, Monica Caraway, Chuck Johnston, An Ping, James Fogarty, and Sean A. Munson",
-                        2016,
-                        "Beyond abandonment to next steps: understanding and designing for life after personal informatics tool use",
-                        "#CHI",
-                        "https://doi.org/10.1145/2858036.2858045"
-                ],
-                "ericsson93": [
-                        "K. Anders Ericsson, Ralf T. Krampe, and Clemens Tesch-Römer",
-                        1993,
-                        "The role of deliberate practice in the acquisition of expert performance",
-                        "Psychological Review",
-                        "https://psycnet.apa.org/doi/10.1037/0033-295X.100.3.363"
-                ],
-                "erskine95": [
-                        "Andrew Erskine",
-                        1995, 
-                        "Culture and power in ptolemaic Egypt: The Museum and Library of Alexandria",
-                        "Greece & Rome",
-                        "https://www.jstor.org/stable/643071"
-                ],
-                "eubanks18": [
-                        "Virginia Eubanks",
-                        2018,
-                        "Automating inequality: How high-tech tools profile, police, and punish the poor",
-                        "St. Martin's Press",
-                        "https://www.google.com/books/edition/Automating_Inequality/pn4pDwAAQBAJ?hl=en"
-                ],
-                "evans87": [
-                        "Edward Paysome Evans",
-                        1887,
-                        "The authorship of the glacial theory",
-                        "The North American Review",
-                        "https://www.jstor.org/stable/25101263"
-                ],
-                "farooq16": [
-                        "Umer Farooq, Jonathan Grudin",
-                        2016,
-                        "Human-computer integration",
-                        "interactions",
-                        "http://dx.doi.org/10.1145/3001896"
-                ],
-                "faruqui10": [
-                        "Ahmad Faruqui, Sanem Sergici, and Ahmed Sharif",
-                        2010,
-                        "The impact of informational feedback on energy consumption—A survey of the experimental evidence",
-                        "Energy",
-                        "https://doi.org/10.1016/j.energy.2009.07.042"
-                ],
-                "faustosterling00": [
-                        "Anne Fausto-Sterling",
-                        2000,
-                        "Sexing the Body: Gender Politics and the Construction of Sexuality",
-                        "Basic Books",
-                        "https://www.google.com/books/edition/Sexing_the_Body/c3lhYfZzIXkC?hl=en"
-                ],
-                "fiesler20": [
-                        "Casey Fiesler, Brianna Dym",
-                        2020,
-                        "Moving Across Lands: Online Platform Migration in Fandom Communities",
-                        "ACM Proceedings of Human-Computer Interaction",
-                        "https://doi.org/10.1145/3392847"
-                ],
-                "fisher05": [
-                        " Karen E. Fisher, Sanda Erdelez, and Lynne E.F. McKechnie, Sanda Erdelez",
-                        2005,
-                        "Theories of information behavior",
-                        "ASIST",
-                        "https://www.google.com/books/edition/Theories_of_Information_Behavior/ll6qzqhIj8wC?hl=en"
-                ],
-                "fiske10": [
-                        "John Fiske",
-                        2010,
-                        "Introduction to Communication Studies",
-                        "Routledge",
-                        "https://www.google.com/books/edition/Introduction_to_Communication_Studies/kfEtCgAAQBAJ?hl=en"
-                ],
-                "fitzpatrick13": [
-                        "Geraldine Fitzpatrick, Gunnar Ellingsen",
-                        2013,
-                        "A review of 25 years of CSCW research in healthcare: contributions, challenges and future agendas",
-                        "Computer Supported Cooperative Work",
-                        "https://doi.org/10.1007/s10606-012-9168-0"
-                ],
-                "floridi14": [
-                        "Luciano Floridi",
-                        2014,
-                        "The Fourth Revolution: How the Infosphere is Reshaping Human Reality",
-                        "OUP Oxford",
-                        "https://www.google.com/books/edition/The_Fourth_Revolution/65eAAwAAQBAJ?hl=en&gbpv=0"
-                ],
-                "forlano17": [
-                        "Laura Forlano",
-                        2017,
-                        "Posthumanism and Design",
-                        "She Ji: The Journal of Design, Economics, and Innovation",
-                        "https://doi.org/10.1016/j.sheji.2017.08.001"
-                ],
-                "freimuth01": [
-                        "Vicki S. Freimuth, Sandra Crouse Quinn, Stephen B. Thomas, Galen Cole, Eric Zook, and Ted Duncan",
-                        2001,
-                        "African Americans’ views on research and the Tuskegee Syphilis Study",
-                        "Social Science & Medicine",
-                        "https://doi.org/10.1016/S0277-9536(00)00178-7"
-                ],
-                "friedman19": [
-                        "Batya Friedman, David G. Hendry",
-                        2019,
-                        "Value Sensitive Design: Shaping Technology with Moral Imagination",
-                        "MIT Press",
-                        "https://www.google.com/books/edition/Value_Sensitive_Design/8ZiWDwAAQBAJ?hl=en&gbpv=0&kptab=overview"
-                ],
-                "froehlich10": [
-                        "Jon Froehlich, Leah Findlater, and James Landay",
-                        2010,
-                        "The design of eco-feedback technology",
-                        "#CHI",
-                        "https://doi.org/10.1145/1753326.1753629"
-                ],
-                "furnas87": [
-                        "George W. Furnas, Thomas K. Landauer, Louis M. Gomez, and Susan T. Dumais",
-                        1987,
-                        "The vocabulary problem in human-system communication",
-                        "Communications of the ACM",
-                        "https://doi.org/10.1145/32206.32212"
-                ],
-                "gasser00": [
-                        "James Gasser",
-                        2000,
-                        "A Boole anthology: recent and classical studies in the logic of George Boole",
-                        "Springer Science & Business Media",
-                        "https://www.google.com/books/edition/A_Boole_Anthology/A2Q5Yghl000C?hl=en&gbpv=0"
-                ],
-                "gazet10": [
-                        "Alexandre Gazet",
-                        2010,
-                        "Comparative analysis of various ransomware virii",
-                        "Journal in Computer Virology",
-                        "https://doi.org/10.1007/s11416-008-0092-2"
-                ],
-                "gerber18": [
-                        "Nina Gerber, Paul Gerber, Melanie Volkamer",
-                        2018,
-                        "Explaining the privacy paradox: A systematic review of literature investigating privacy attitude and behavior",
-                        "Computers & Security",
-                        "https://doi.org/10.1016/j.cose.2018.04.002"
-                ],
-                "gergle13": [
-                        "Darren Gergle, Robert E. Kraut, and Susan R. Fussell",
-                        2013,
-                        "Using visual information for grounding and awareness in collaborative tasks",
-                        "Human–Computer Interaction",
-                        "https://www.tandfonline.com/doi/full/10.1080/07370024.2012.678246?casa_token=tvxBVTJfyLQAAAAA%3A3WOtAeUmZxWRY_JY5XHIUQk8RDxbGFzkbbKEZMy3P3x1ztZyoksCduPYj3S-m0ZbdZyDmoGTRI128g"
-                ],
-                "gleick11": [
-                        "James Gleick",
-                        2011,
-                        "The information: A history, a theory, a flood",
-                        "Vintage Books",
-                        "https://www.google.com/books/edition/The_Information/617JSFW0D2kC?hl=en"
-                ],
-                "grigg10": [
-                        "Dorothy Wunmi Grigg",
-                        2010,
-                        "Cyber-aggression: Definition and concept of cyberbullying",
-                        "Australian Journal of Guidance and Counselling",
-                        "https://doi.org/10.1375/ajgc.20.2.143"
-                ],
-                "grudin88": [
-                        "Jonathan Grudin",
-                        1988, 
-                        "Why CSCW applications fail: problems in the design and evaluation of organizational interfaces",
-                        "#CSCW",
-                        "https://doi.org/10.1145/62266.62273"
-                ],
-                "grover93": [
-                        "Varun Grover, Seung-Ryul Jeong, William J. Kettinger, and Choong C. Lee",
-                        1993,
-                        "The chief information officer: A study of managerial roles",
-                        "Journal of Management Information Systems",
-                        "https://doi.org/10.1080/07421222.1993.11518002"
-                ],
-                "haimson20": [
-                        "Oliver L. Haimson, Justin Buss, Zu Weinger, Denny L. Starks, Dykee Gorrell, and Briar Sweetbriar Baron",
-                        2020,
-                        "Trans Time: Safety, Privacy, and Content Warnings on a Transgender-Specific Social Media Site",
-                        "ACM Proceedings on Human-Computer Interaction",
-                        "https://doi.org/10.1145/3415195"
-                ],
-                "haldar19": [
-                        "Shefali Haldar, Sonali R. Mishra, Maher Khelifi, Ari H. Pollack, and Wanda Pratt",
-                        2019,
-                        "Beyond the Patient Portal: Supporting Needs of Hospitalized Patients",
-                        "ACM Conference on Human Factors in Computing Systems",
-                        "https://doi.org/10.1145/3290605.3300596"
-                ],
-                "hall06": [
-                        "Richard L. Hall, and Alan V. Deardorff",
-                        2006,
-                        "Lobbying as legislative subsidy",
-                        "American Political Science Review",
-                        "https://www.jstor.org/stable/27644332"
-                ],
-                "harcourt08": [
-                        "Bernard E. Harcourt",
-                        2008,
-                        "Against prediction: Profiling, policing, and punishing in an actuarial age",
-                        "University of Chicago Press",
-                        "https://www.google.com/books/edition/Against_Prediction/sqryh6ol1LwC?hl=en&gbpv=0"
-                ],
-                "harris99": [
-                        "Michael H. Harris",
-                        1999,
-                        "History of Libraries in the Western World",
-                        "Scarecrow Press",
-                        "https://www.google.com/books/edition/History_of_Libraries_of_the_Western_Worl/KQ3FmadbMvkC?hl=en"
-                ],
-                "hauben97": [
-                        "Michael Hauben, Ronda Hauben, Thomas Truscott",
-                        1997,
-                        "Netizens: On the History and Impact of Usenet and the Internet",
-                        "Wiley",
-                        "https://www.google.com/books/edition/Netizens/De5SAAAAMAAJ?hl=en"
-                ],
-                "hellman10": [
-                        "Deborah Hellman",
-                        2010,
-                        "Money Talks but It Isn't Speech",
-                        "Minnesota Law Review",
-                        "https://heinonline.org/HOL/LandingPage?handle=hein.journals/mnlr95&div=23&id=&page="
-                ],
-                "hersch04": [
-                        "William Hersh",
-                        2004,
-                        "Health care information technology: progress and barriers",
-                        "Journal of the American Medical Association",
-                        "https://doi.org/10.1001/jama.292.18.2273"
-                ],
-                "hertzum20": [
-                        "Morten Hertzum",
-                        2020,
-                        "Usability Testing: A Practitioner's Guide to Evaluating the User Experience",
-                        "Morgan & Claypool",
-                        "https://www.google.com/books/edition/Usability_Testing/uWnXDwAAQBAJ?hl=en"
-                ],
-                "heydon99": [
-                        "Allan Heydon, Marc Najork",
-                        1999,
-                        "Mercator: A scalable, extensible web crawler",
-                        "World Wide Web",
-                        "https://doi.org/10.1023/A:1019213109274"
-                ],
-                "hidi06": [
-                        "Suzanne Hidi, and K. Ann Renninger",
-                        2006,
-                        "The four-phase model of interest development",
-                        "Educational Psychologist",
-                        "https://doi.org/10.1207/s15326985ep4102_4"
-                ],
-                "hirschberg15": [
-                        "Julia Hirschberg, Christopher Manning",
-                        2015,
-                        "Advances in natural language processing",
-                        "Science",
-                        "https://science.sciencemag.org/content/349/6245/261"
-
-                ],
-                "hohman19": [
-                        "Fred Hohman, Andrew Head, Rich Caruana, Robert DeLine, and Steven M. Drucker",
-                        2019,
-                        "Gamut: A Design Probe to Understand How Data Scientists Understand Machine Learning Models",
-                        "#CHI",
-                        "https://doi.org/10.1145/3290605.3300809"
-                ],
-                "hotho06": [
-                        "Andreas Hotho, Robert Jäschke, Christoph Schmitz, Gerd Stumme",
-                        2006, 
-                        "Information retrieval in folksonomies: Search and ranking",
-                        "European Semantic Web Conference",
-                        "https://link.springer.com/chapter/10.1007/11762256_31"
-                ],
-                "jacko12": [
-                        "Julie A. Jacko",
-                        2012,
-                        "Human computer interaction handbook: Fundamentals, evolving technologies, and emerging applications",
-                        "CRC press",
-                        "https://www.google.com/books/edition/Human_Computer_Interaction_Handbook/dVrRBQAAQBAJ?hl=en"
-                ],
-                "janes17": [
-                        "Joseph Janes",
-                        2017,
-                        "Documents That Changed the Way We Live",
-                        "Rowman & Littlefield",
-                        "https://www.google.com/books/edition/Documents_That_Changed_the_Way_We_Live/a6-zDgAAQBAJ?hl=en&gbpv=0"
-                ],
-                "jhaver18": [
-                        "Shagun Jhaver, Sucheta Ghoshal, Amy Bruckman, and Eric Gilbert",
-                        2018,
-                        "Online harassment and content moderation: The case of blocklists",
-                        "ACM Transactions on Computer-Human Interaction",
-                        "https://doi.org/10.1145/3185593"
-                ],
-                "jansen09": [
-                        "Bernard J. Jansen, Danielle L. Booth, and Amanda Spink",
-                        2009,
-                        "Patterns of query reformulation during Web searching",
-                        "Journal of the American Society for Information Science and Technology",
-                        "https://doi.org/10.1002/asi.21071"
-                ],
-                "jonson05": [
-                        "Ben Jonson",
-                        2005,
-                        "Design ideation: the conceptual sketch in the digital age",
-                        "Design Studies",
-                        "https://doi.org/10.1016/j.destud.2005.03.001"
-                ],
-                "jung17": [
-                        "Young-Wook Jung, Youn-kyung Lim, and Myung-suk Kim",
-                        2017,
-                        "Possibilities and limitations of online document tools for design collaboration: The case of Google Docs",
-                        "#CSCW",
-                        "https://doi.org/10.1145/2998181.2998297"
-                ],
-                "kim16": [
-                        "Miryung Kim, Thomas Zimmermann, Robert DeLine, and Andrew Begel",
-                        2016,
-                        "The emerging role of data scientists on software development teams",
-                        "IEEE/ACM International Conference on Software Engineering",
-                        "https://doi.org/10.1145/2884781.2884783"
-                ],
-                "kindig11": [
-                        "David Kindig and Greg Stoddart",
-                        2011,
-                        "What is population health?",
-                        "American Journal of Public Health",
-                        "https://doi.org/10.2105/AJPH.93.3.380"
-                ],
-                "kittur13": [
-                        "Aniket Kittur, Jeffrey V. Nickerson, Michael Bernstein, Elizabeth Gerber, Aaron Shaw, John Zimmerman, Matt Lease, and John Horton",
-                        2013,
-                        "The future of crowd work",
-                        "#CSCW",
-                        "https://doi.org/10.1145/2441776.2441923"
-                ],
-                "kline85": [
-                        "Stephen J. Kline",
-                        1985,
-                        "What is technology?",
-                        "Bulletin of Science, Technology & Society",
-                        "https://doi.org/10.1177%2F027046768500500301"
-                ],
-                "kuhn12": [
-                        "Thomas S. Kuhn",
-                        2012,
-                        "The structure of scientific revolutions",
-                        "University of Chicago Press",
-                        "https://www.google.com/books/edition/The_Structure_of_Scientific_Revolutions/3eP5Y_OOuzwC?hl=en"
-                ],
-                "korenhof14": [
-                        "Paulan Korenhof, Bert-Jaap Koops",
-                        2014,
-                        "Identity construction and the right to be forgotten: the case of gender identity",
-                        "The Ethics of Memory in a Digital Age",
-                        "https://doi.org/10.1057/9781137428455_7"
-                ],
-                "korpela06": [
-                        "Jukka K. Korpela",
-                        2006,
-                        "Unicode explained",
-                        "O'Reilly Media, Inc.",
-                        "https://www.google.com/books/edition/Unicode_Explained/lxndiWaFMvMC?hl=en&gbpv=0"
-                ],
-                "lampe08": [
-                        "Cliff Lampe, Nicole B. Ellison, and Charles Steinfield",
-                        2008,
-                        "Changes in use and perception of Facebook",
-                        "#CSCW",
-                        "https://doi.org/10.1145/1460563.1460675"
-                ],
-                "lee06": [
-                        "Charlotte P. Lee, Paul Dourish, and Gloria Mark",
-                        2006,
-                        "The human infrastructure of cyberinfrastructure",
-                        "ACM Conference on Computer Supported Cooperative ",
-                        "https://doi.org/10.1145/1180875.1180950"
-                ],
-                "leiner09": [
-                        "Barry M. Leiner, Vinton G. Cerf, David D. Clark, Robert E. Kahn, Leonard Kleinrock, Daniel C. Lynch, Jon Postel, Larry G. Roberts, Stephen Wolff",
-                        2009,
-                        "A brief history of the internet",
-                        "ACM SIGCOMM Computer Communication Review",
-                        "https://doi.org/10.1145/1629607.1629613"
-                ],
-                "leinokilpi01": [
-                        "Helena Leino-Kilpi, Maritta Välimäki, Theo Dassen, Maria Gasull, Chryssoula Lemonidou, Anne Scott, and Marianne Arndt",
-                        2001,
-                        "Privacy: a review of the literature",
-                        "International Journal of Nursing Studies",
-                        "https://doi.org/10.1016/S0020-7489(00)00111-5"
-                ],
-                "lerner15": [
-                        "Jennifer Lerner",
-                        2015,
-                        "Emotion and decision making",
-                        "Annual Review of Psychology",
-                        "https://doi.org/10.1146/annurev-psych-010213-115043"
-                ],
-                "licklider68": [
-                        "Joseph C.R. Licklider, Robert W. Taylor",
-                        1968,
-                        "The computer as a communication device",
-                        "Science and technology",     
-                        "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.828.9273&rep=rep1&type=pdf"
-                ],
-                "levitsky18": [
-                        "Steven Levitsky, Daniel Ziblatt",
-                        2018,
-                        "How Democracies Die",
-                        "Crown",
-                        "https://www.google.com/books/edition/How_Democracies_Die/iF3ODgAAQBAJ?hl=en&gbpv=0"
-                ],
-                "lupia94": [
-                        "Arthur Lupia",
-                        1994,
-                        "Shortcuts versus encyclopedias: Information and voting behavior in California insurance reform elections",
-                        "American Political Science Review",
-                        "https://doi.org/10.2307/2944882"
-                ],
-                "lott99": [
-                        "John R. Lott, Jr.",
-                        1999,
-                        "Public schooling, indoctrination, and totalitarianism",
-                        "Journal of Political Economy",
-                        "https://www.journals.uchicago.edu/doi/abs/10.1086/250106?casa_token=DJLarlHqn_sAAAAA:42QuTATvCK9C_hq-XrqpvosW7zlBt6uHvqtFzbBhhUP80ezJGl6qNlj_TMLDEVOvkeZAveNIhO3s"
-                ],
-                "mackenzie80": [
-                        "C.E. Mackenzie",
-                        1980,
-                        "Coded-Character Sets: History and Development",
-                        "Addison-Wesley Longman Publishing"
-                ],
-                "malone83": [
-                        "Thomas W. Malone",
-                        1983,
-                        "How do people organize their desks? Implications for the design of office information systems",
-                        "ACM Transactions on Information Systems",
-                        "https://doi.org/10.1145/357423.357430"
-                ],
-                "mamykina11": [
-                        "Lena Mamykina, Bella Manoim, Manas Mittal, George Hripcsak, and Björn Hartmann",
-                        2011,
-                        "Design lessons from the fastest Q&A site in the west",
-                        "#CHI",
-                        "https://doi.org/10.1145/1978942.1979366"
-                ],
-                "manabe67": [
-                        "Syukuro Manabe, Richard T. Wetherald",
-                        1967,
-                        "Thermal equilibrium of the atmosphere with a given distribution of relative humidity",
-                        "Journal of the Atmospheric Sciences",
-                        "https://doi.org/10.1175%2F1520-0469%281967%29024%3C0241%3Ateotaw%3E2.0.co%3B2"
-                ],
-                "marantz20": [
-                        "Andrew Marantz",
-                        2020,
-                        "Antisocial: Online extremists, techno-utopians, and the hijacking of the American conversation",
-                        "Penguin Books",
-                        "https://www.google.com/books/edition/Antisocial/j5QFEAAAQBAJ?hl=en&gbpv=0"
-                ],
-                "marchionini98": [
-                        "Gary Marchionini, Catherine Plaisant, and Anita Komlodi",
-                        1998,
-                        "Interfaces and tools for the Library of Congress national digital library program",
-                        "Information Processing & Management",
-                        "https://doi.org/10.1016/S0306-4573(98)00020-X"
-                ],
-                "marmot05": [
-                        "Michael Marmot, Richard Wilkinson",
-                        2005,
-                        "Social determinants of health",
-                        "OUP Oxford",
-                        "https://www.google.com/books/edition/Social_Determinants_of_Health/AmwiS8HZeRIC?hl=en"
-                ],
-                "martin04": [
-                        "Patricia Yancey Martin",
-                        2004,
-                        "Gender as social institution",
-                        "Social Forces",
-                        "https://doi.org/10.1353/sof.2004.0081"
-                ],
-                "mathew20": [
-                        "Binny Mathew, Anurag Illendula, Punyajoy Saha, Soumya Sarkar, Pawan Goyal, and Animesh Mukherjee",
-                        2020,
-                        "Hate begets Hate: A Temporal Study of Hate Speech",
-                        "ACM Proceedings of Human-Computer Itneraction",
-                        "https://doi.org/10.1145/3415163"
-                ],
-                "mccarty09": [
-                        "Nolan McCarty, Keith T. Poole, and Howard Rosenthal",
-                        2009,
-                        "Does gerrymandering cause polarization?",
-                        "American Journal of Political Science",
-                        "https://doi.org/10.1111/j.1540-5907.2009.00393.x"
-                ],
-                "mcdougall15": [
-                        "William McDougall",
-                        2015,
-                        "An Introduction to Social Psychology",
-                        "Psychology Press",
-                        "https://www.google.com/books/edition/An_Introduction_to_Social_Psychology/nojwCQAAQBAJ?hl=en"
-                ],
-                "mcilwain19": [
-                        "Charleton D. McIlwain",
-                        2019,
-                        "Black Software: The Internet and Racial Justice, from the AfroNet to Black Lives Matter",
-                        "Oxford University Press",
-                        "https://www.google.com/books/edition/Black_Software/DmmtDwAAQBAJ?hl=en"
-                ],
-                "mcluhan64": [
-                        "Marshall McLuhan",
-                        1964,
-                        "Understanding Media: The Extensions of Man",
-                        "Routledge, London",
-                        "https://www.google.com/books/edition/Understanding_Media/TcsSvgAACAAJ?hl=en"
-                ],
-                "meadow97": [
-                        "Charles Meadow, Weijing Yuan",
-                        1997,
-                        "Measuring the impact of information: defining the concepts",
-                        "Information Processing & Management",
-                        "https://doi-org.offcampus.lib.washington.edu/10.1016/S0306-4573(97)00042-3"
-                ],
-                "meier07": [
-                        "Andrea Meier, Elizabeth Lyons, Gilles Frydman, Michael Forlenza, and Barbara Rimer",
-                        2007,
-                        "How cancer survivors provide support on cancer-related Internet mailing lists",
-                        "Journal of Medical Internet Research",
-                        "https://doi.org/10.2196/jmir.9.2.e12"
-                ],
-                "mendoza10": [
-                        "Marcelo Mendoza, Barbara Poblete, and Carlos Castillo",
-                        2010,
-                        "Twitter under crisis: can we trust what we RT?",
-                        "First Workshop on Social Media Analytics",
-                        "https://doi.org/10.1145/1964858.1964869"                        
-                ],
-                "mentis10": [
-                        "Helena M. Mentis, Madhu Reddy, and Mary Beth Rosson",
-                        2010,
-                        "Invisible emotion: information and interaction in an emergency room",
-                        "#CSCW",
-                        "https://doi.org/10.1145/1718918.1718975"
-                ],
-                "mentis17": [
-                        "Helena M. Mentis, Anita Komlodi, Katrina Schrader, Michael Phipps, Ann Gruber-Baldini, Karen Yarbrough, and Lisa Shulman",
-                        2017,
-                        "Crafting a View of Self-Tracking Data in the Clinical Visit",
-                        "#CHI",
-                        "https://doi.org/10.1145/3025453.3025589"
-                ],
-                "matsubayashi14": [
-                        "Tetsuya Matsubayashi, and Michiko Ueda",
-                        2014,
-                        "Disability and voting",
-                        "Disability and Health Journal",
-                        "https://doi.org/10.1016/j.dhjo.2014.03.001"
-                ],
-                "minsky61": [
-                        "Marvin Minsky",
-                        1961,
-                        "Steps toward artificial intelligence",
-                        "Proceedings of the IRE",
-                        "https://doi.org/10.1109/JRPROC.1961.287775"
-                ],
-                "miyagawa18": [
-                        "Shigeru Miyagawa, Cora Lesure, Vitor A. Nóbrega",
-                         2018,
-                         "Cross-modality information transfer: a hypothesis about the relationship among prehistoric cave paintings, symbolic thinking, and the emergence of language",
-                         "Frontiers in Psychology",
-                         "https://doi.org/10.3389/fpsyg.2018.00115"
-                ],
-                "miller83": [
-                        "George A. Miller",
-                        1983,
-                        "Informavores",
-                        "The Study of Information: Interdisciplinary Messages",
-                        "https://www.google.com/books/edition/The_Study_of_Information/JwpUAAAAMAAJ?hl=en"
-                ],
-                "mahar18": [
-                        "Kaitlin Mahar, Amy X. Zhang, David Karger",
-                        2018,
-                        "Squadbox: A Tool to Combat Email Harassment Using Friendsourced Moderation",
-                        "#CHI",
-                        "https://doi.org/10.1145/3173574.3174160"
-                ],
-                "moore08": [
-                        "Adam D. Moore",
-                        2008,
-                        "Defining privacy",
-                        "Journal of Social Philosophy",
-                        "https://ssrn.com/abstract=1980849"
-                ],
-                "moyer82": [
-                        "Gordon Moyer",
-                        1982,
-                        "The Gregorian Calendar",
-                        "Scientific American",
-                        "https://www.jstor.org/stable/10.2307/24966597"
-                ],
-                "nardi04": [
-                        "Bonnie A. Nardi, Diane J. Schiano, and Michelle Gumbrecht",
-                        2004,
-                        "Blogging as social activity, or, would you let 900 million people read your diary?",
-                        "#CSCW",
-                        "https://doi.org/10.1145/1031607.1031643"
-                ],
-                "nass94": [
-                        "Clifford Nass, Jonathan Steuer, and Ellen R. Tauber",
-                        1994,
-                        "Computers are social actors",
-                        "#CHI",
-                        "https://doi.org/10.1145/191666.191703"
-                ],
-                "nickel16": [
-                        "Maximilian Nickel, Kevin Murphy, Volker Tresp, Evgeniy Gabrilovich",
-                        2016,
-                        "A Review of Relational Machine Learning for Knowledge Graphs",
-                        "Proceedings of the IEEE",
-                        "https://doi.org/10.1109/JPROC.2015.2483592"
-                ],
-                "nickerson98": [
-                        "Raymond Nickerson",
-                        1998,
-                        "Confirmation bias: A ubiquitous phenomenon in many guises", 
-                        "Review of General Psychology",
-                        "https://doi.org/10.1037%2F1089-2680.2.2.175"
-                ],
-                "nissenbaum98": [
-                        "Helen Nissenbaum",
-                        1998,
-                        "Protecting Privacy in an Information Age: The Problem of Privacy in Public",
-                        "Law and Philosphy",
-                        "https://doi.org/10.2307/3505189"
-                ],
-                "nissenbaum04": [
-                        "Helen Nissenbaum",
-                        2004,
-                        "Privacy as contextual integrity",
-                        "Washington Law Review",
-                        "https://digitalcommons.law.uw.edu/wlr/vol79/iss1/10"
-                ],
-                "noble18": [
-                        "Safiya Noble",
-                        2018,
-                        "Algorithms of oppression: How search engines reinforce racism",
-                        "NYU Press",
-                        "https://www.google.com/books/edition/Algorithms_of_Oppression/-ThDDwAAQBAJ?hl=en"
-                ],
-                "öğütçü16": [
-                        "Gizem Öğütçü, Özlem Müge Testik, and Oumout Chouseinoglou",
-                        2016,
-                        "Analysis of personal information security behavior and awareness",
-                        "Computers & Security",
-                        "https://doi.org/10.1016/j.cose.2015.10.002"
-                ],
-                "okeefe18": [
-                        "Paul A. O’Keefe, Carol S. Dweck, and Gregory M. Walton",
-                        2018,
-                        "Implicit theories of interest: Finding your passion or developing it?",
-                        "Psychological Science",
-                        "https://doi.org/10.1177%2F0956797618780643"
-                ],
-                "olson09": [
-                        "Gary M. Olson, Judith S. Olson",
-                        2009,
-                        "Distance matters",
-                        "Human-Computer Interaction",
-                        "https://doi.org/10.1207/S15327051HCI1523_4"
-                ],
-                "oneil16": [
-                        "Cathy O'Neil",
-                        2016,
-                        "Weapons of math destruction: How big data increases inequality and threatens democracy",
-                        "Broadway Books",
-                        "https://www.google.com/books/edition/Weapons_of_Math_Destruction/cbwvDwAAQBAJ?hl=en"
-                ],
-                "padke20": [
-                        "Shruti Phadke, Mattia Samory, and Tanushree Mitra",
-                        2020,
-                        "What Makes People Join Conspiracy Communities? Role of Social Factors in Conspiracy Engagement",
-                        "#CSCW",
-                        "https://arxiv.org/abs/2009.04527"
-                ],
-                "page99": [
-                        "Lawrence Page, Sergey Brin, Rajeev Motwani, Terry Winograd",
-                        1999,
-                        "The PageRank citation ranking: Bringing order to the web",
-                        "Stanford InfoLab",
-                        "http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf"
-                ],
-                "palen07": [
-                        "Leysia Palen, Sarah Vieweg, Jeannette Sutton, Sophia B. Liu, and Amanda Hughes",
-                        2007,
-                        "Crisis informatics: Studying crisis in a networked world",
-                        "Proceedings of the Third International Conference on E-Social Science",
-                        "https://www.ics.uci.edu/~ucrec/pubs/upload/922_Palen2010.pdf"
-                ],
-                "parameswaran07": [
-                        "Manoj Parameswaran, Andrew B. Whinston",
-                        2007,
-                        "Social computing: An overview",
-                        "Communications of the Association for Information Systems",
-                        "https://doi.org/10.17705/1CAIS.01937"
-                ],
-                "pater16": [
-                        "Jessica Pater, Moon K. Kim, Elizabeth D. Mynatt, and Casey Fiesler",
-                        2016,
-                        "Characterizations of online harassment: Comparing policies across social media platforms",
-                        "International Conference on Supporting Group Work",
-                        "https://doi.org/10.1145/2957276.2957297"
-                ],
-                "patrick19": [
-                        "Katie Patrick",
-                        2019,
-                        "How to save the world",
-                        "BLURB Incorporated",
-                        "https://www.google.com/books/edition/How_to_Save_the_World/toUxxQEACAAJ?hl=en"
-                ],
-                "pentzold10": [
-                        "Christian Pentzold",
-                        2010,
-                        "Imagining the Wikipedia community: What do Wikipedia authors mean when they write about their ‘community’?",
-                        "New Media & Society",
-                        "https://doi.org/10.1177%2F1461444810378364"
-                ],
-                "pirolli07": [
-                        "Peter Pirolli",
-                        2007,
-                        "Information foraging theory: Adaptive interaction with information",
-                        "Oxford University Press",
-                        "https://www.google.com/books/edition/Information_Foraging_Theory_Adaptive_Int/LADEE_1fwLQC?hl=en"
-                ],
-                "pham15": [
-                        "Vincent N. Pham",
-                        2015,
-                        "Our foreign president Barack Obama: The racial logics of birther discourses",
-                        "Journal of International and Intercultural Communication",
-                        "https://doi.org/10.1080/17513057.2015.1025327"
-                ],
-                "plato72": [
-                        "Plato",
-                        -370,
-                        "Phaesrus",
-                        "Cambridge University Press",
-                        "https://www.google.com/books/edition/Plato_Phaedrus/N6HRTHXlrE0C?hl=en"
-                ],
-                "pollack20": [
-                        "Ari H. Pollack, Sonali R. Mishra, Calvin Apodaca, Maher Khelifi, Shefali Haldar, and Wanda Pratt",
-                        2020,
-                        "Different roles with different goals: Designing to support shared situational awareness between patients and clinicians in the hospital",
-                        "Journal of the American Medical Informatics Association",
-                        "https://doi.org/10.1093/jamia/ocaa198"
-                ],
-                "ponniah11": [
-                        "Paulraj Ponniah",
-                        2011,
-                        "Data warehousing fundamentals for IT professionals",
-                        "John Wiley & Sons",
-                        "https://www.google.com/books/edition/Data_Warehousing_Fundamentals_for_IT_Pro/aIDjcF9r_hgC?hl=en"
-                ],
-                "potvin16": [
-                        "Rachel Potvin, Josh Levenberg",
-                        2016,
-                        "Why Google stores billions of lines of code in a single repository",
-                        "Communications of the ACM",
-                        "http://dx.doi.org/10.1145/2854146"
-                ],
-                "pray08": [
-                        "Leslie A. Pray",
-                        2008,
-                        "Discovery of DNA structure and function: Watson and Crick",
-                        "Nature Education",
-                        "https://www.nature.com/scitable/topicpage/discovery-of-dna-structure-and-function-watson-397/"
-                ],
-                "randell06": [
-                        "Brian Randell, Peter YA Ryan",
-                        2006,
-                        "Voting technologies and trust",
-                        "IEEE Security & Privacy",
-                        "https://doi.org/10.1109/MSP.2006.140"
-                ],
-                "ribes10": [
-                        "David Ribes, Charlotte P. Lee",
-                        2010,
-                        "Sociotechnical Studies of Cyberinfrastructure and e-Research: Current Themes and Future Trajectories",
-                        "Computer Supported Cooperative Work",
-                        "https://doi.org/10.1007/s10606-010-9120-0"
-                ],
-                "resnick94": [
-                        "Paul Resnick, Neophytos Iacovou, Mitesh Suchak, Peter Bergstrom, and John Riedl",
-                        1994,
-                        "GroupLens: an open architecture for collaborative filtering of netnews",
-                        "#CSCW",
-                        "https://doi.org/10.1145/192844.192905"
-                ],
-                "reyes18": [
-                        "Irwin Reyes, Primal Wijesekera, Joel Reardon, Amit Elazari Bar On, Abbas Razaghpanah, Narseo Vallina-Rodriguez, and Serge Egelman",
-                        2018,
-                        "\"Won’t somebody think of the children?\" Examining COPPA compliance at scale",
-                        "Privacy Enhancing Technologies",
-                        "https://doi.org/10.1515/popets-2018-0021"
-                ],
-                "riordan04": [
-                        "M. Riordan",
-                        2004,
-                        "The lost history of the transistor",
-                        "IEEE spectrum",
-                        "https://doi.org/10.1109/MSPEC.2004.1296014"
-                ],
-                "rocha13": [
-                        "Rene R. Rocha, Tetsuya Matsubayashi",
-                        2013,
-                        "The politics of race and voter ID laws in the states: The return of Jim Crow?",
-                        "Political Research Quarterly",
-                        "https://doi.org/10.1177%2F1065912913514854"
-                ],
-                "russell93": [
-                        "Daniel Russell, Mark J. Stefik, Peter Pirolli, Stuard K. Card",
-                        1993,
-                        "The cost structure of sensemaking",
-                        "ACM Conference on Human Factors in Computing Systems",
-                        "https://doi.org/10.1145/169059.169209"
-                ],
-                "roos06": [
-                        "Wynand P. Roos, and Bernd Kaina",
-                        2006,
-                        "DNA damage-induced cell death by apoptosis",
-                        "Trends in molecular medicine",
-                        "https://doi.org/10.1016/j.molmed.2006.07.007"
-                ],
-                "rosen11": [
-                        "Jeffrey Rosen",
-                        2011,
-                        "The right to be forgotten",
-                        "Stanford Law Review"
-                ],
-                "rosenfeld02": [
-                        "Louis Rosenfeld, Peter Morville",
-                        2002,
-                        "Information architecture for the world wide web",
-                        "O'Reilly Media, Inc.",
-                        "https://www.google.com/books/edition/Information_Architecture_for_the_World_W/hLdcLklZOFAC?hl=en"
-                ],
-                "rousseau12": [
-                        "Jean-Jacques Rousseau, John H. Moran, Johann Gottfried Herder, Alexander Gode",
-                        2012,
-                        "On the Origin of Language",
-                        "University of Chicago Press",
-                        "https://www.google.com/books/edition/On_the_Origin_of_Language/596NDwAAQBAJ?hl=en"
-                ],
-                "rowley07": [
-                        "Jennifer Rowley",
-                        2007,
-                        "The wisdom hierarchy: representations of the DIKW hierarchy",
-                        "Journal of Information and Communication",
-                        "https://doi.org/10.1177%2F0165551506070706"
-                ],
-                "russell53": [
-                        "Bertrand Russell",
-                        1953,
-                        "The impact of science on society",
-                        "Routledge",
-                        "https://www.google.com/books/edition/The_Impact_of_Science_on_Society/vEv7CwAAQBAJ?hl=en"
-                ],
-                "sandel10": [
-                        "Michael J. Sandel",
-                        2010, 
-                        "Justice: What's the right thing to do?",
-                        "Macmillan",
-                        "https://www.google.com/books/edition/Justice/BrdNDG7TTUEC?hl=en"
-                ],
-                "samaha16": [
-                        "Samaha, M., & Hawi, N. S.",
-                        2016,
-                        "Relationships among smartphone addiction, stress, academic performance, and satisfaction with life",
-                        "Computers in Human Behavior",
-                        "https://doi.org/10.1016/j.chb.2015.12.045"
-                ],
-                "saravanan09": [
-                        "Manavalan Saravanan, Balaraman Ravindran, and Shivani Raman",
-                        2009,
-                        "Improving legal information retrieval using an ontological framework",
-                        "Artificial Intelligence and Law",
-                        "http://doi.org/10.1007/s10506-009-9075-y"
-                ],
-                "schatz10": [
-                        "Michael C. Schatz, Ben Langmead, Steven L. Salzberg",
-                        2010,
-                        "Cloud computing and the DNA data race",
-                        "Nature Biotechnology",
-                        "https://doi.org/10.1038/nbt0710-691"
-                ],
-                "schiff16": [
-                        "Gordon D. Schiff, and Laura Zucker",
-                        2016,
-                        "Medical scribes: salvation for primary care or workaround for poor EMR usability?",
-                        "Journal of General Internal Medicine",
-                        "https://doi.org/10.1007/s11606-016-3788-x"
-                ],
-                "schwartz06": [
-                        "Kendra L. Schwartz, Thomas Roe, Justin Northrup, James Meza, Raouf Seifeldin, and Anne Victoria Neale",
-                        2006,
-                        "Family medicine patients’ use of the Internet for health information: a MetroNet study",
-                        "The Journal of the American Board of Family Medicine",
-                        "https://doi.org/10.3122/jabfm.19.1.39"
-                ],
-                "scheibehenne10": [
-                        "Benjamin Scheibehenne, Rainer Greifender, Peter M. Todd",
-                        2010,
-                        "Can There Ever Be Too Many Options? A Meta‐Analytic Review of Choice Overload",
-                        "Journal of Consumer Research",
-                        "https://doi.org/10.1086/651235"
-                ],
-                "schermerhorn11": [
-                        "John R. Schermerhorn, Jr., Richard N. Osborn, Mary Uhl-Bien, James G. Hunt",
-                        2011,
-                        "Organizational Behavior",
-                        "Wiley",
-                        "https://www.google.com/books/edition/Organizational_Behavior/8eRtuZeIguIC?hl=en"
-                ],
-                "schudson81": [
-                        "Michael Schudson",
-                        1981,
-                        "Discovering the news: A social history of American newspapers",
-                        "Basic Books",
-                        "https://www.google.com/books/edition/Discovering_The_News/uLois7_nNMgC?hl=en"
-                ],
-                "shannon48": [
-                        "Claude E. Shannon",
-                        1948,
-                        "A mathematical theory of communication",
-                        "The Bell System Technical Journal",
-                        "https://doi.org/10.1002/j.1538-7305.1948.tb01338.x"
-                ],
-                "shetterly16": [
-                        "Margot Lee Shetterly",
-                        2016,
-                        "Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race",
-                        "HarperCollins",
-                        "https://www.google.com/books/edition/Hidden_Figures/_upVjgEACAAJ?hl=en"
-                ],
-                "shirky11": [
-                        "Clay Shirky",
-                        2011,
-                        "The political power of social media: Technology, the public sphere, and political change",
-                        "Foreign Affairs",
-                        "https://www.jstor.org/stable/25800379"
-                ],
-                "short76": [
-                        "John Short, Ederyn Williams, Bruce Christie",
-                        1976,
-                        "The Social Psychology of Telecommunications",
-                        "John Wiley & Sons",
-                        "https://www.google.com/books/edition/The_Social_Psychology_of_Telecommunicati/Ze63AAAAIAAJ?hl=en"
-                ],
-                "simon66": [
-                        "Herbert A. Simon",
-                        1966,
-                        "Administrative Behavior",
-                        "Free Press",
-                        "https://www.google.com/books/edition/Administrative_Behavior_4th_Edition/_obn42iD3mYC?hl=en"       
-                ],
-                "simon69": [
-                        "Herbert A. Simon",
-                        1963,
-                        "The Sciences of the Artificial",
-                        "MIT Press",
-                        "https://www.google.com/books/edition/The_Sciences_of_the_Artificial/yYSkDwAAQBAJ?hl=en"
-                ],
-                "simon71": [
-                        "Herbert A. Simon",
-                        1971,
-                        "Designing Organizations for an Information-rich World",
-                        "Johns Hopkins University Press",
-                        "https://digitalcollections.library.cmu.edu/awweb/awarchive?type=file&item=33748"
-                ],
-                "simon72": [
-                        "Herbert A. Simon",
-                        1972,
-                        "Theories of bounded rationality",
-                        "Decision and Organization"
-                ],
-                "simon78": [
-                        "Herb A. Simon",
-                        1978, 
-                        "Information-processing theory of human problem solving",
-                        "Handbook of learning and cognitive processes"
-                ],
-                "snorton17": [
-                        "Riley C. Snorton",
-                        2017,
-                        "Black on both sides: A racial history of trans identity",
-                        "University of Minnesota Press",
-                        "https://www.google.com/books/edition/Black_on_Both_Sides/_il0DwAAQBAJ?hl=en"
-                ],
-                "spencer16": [
-                        "Steven J. Spencer, Christine Logel, and Paul G. Davies",
-                        2016,
-                        "Stereotype threat",
-                        "Annual Review of Psychology",
-                        "https://doi.org/10.1146/annurev-psych-073115-103235"
-                ],
-                "starbird11": [
-                        "Kate Starbird, Leysia Palen",
-                        2011,
-                        "\"Voluntweeters\": self-organizing by digital volunteers in times of crisis",
-                        "#CHI",
-                        "https://doi.org/10.1145/1978942.1979102"
-                ],
-                "starbird19": [
-                        "Kate Starbird, Ahmer Arif, Tom Wilson",
-                        2019,
-                        "Disinformation as collaborative work: Surfacing the participatory nature of strategic information operations",
-                        "Proceedings of the ACM on Human-Computer Interaction",
-                        "https://doi.org/10.1145/3359229"
-                ],
-                "starr14": [
-                        "Sonja B. Starr",
-                        2014,
-                        "Evidence-based sentencing and the scientific rationalization of discrimination",
-                        "Stanford Law Review",
-                        "https://heinonline.org/HOL/LandingPage?handle=hein.journals/stflr66&div=24&id=&page="
-                ],
-                "stokes07": [
-                        "Jon Stokes",
-                        2007,
-                        "Inside the Machine: An Illustrated Introduction to Microprocessors and Computer Architecture",
-                        "No Starch Press",
-                        "https://www.google.com/books/edition/Inside_the_Machine/Q1zSIarI8xoC?hl=en&gbpv=0"
-                ],
-                "sundquist09": [
-                        "Eric J. Sundquist",
-                        2009,
-                        "King's Dream",
-                        "Yale University Press",
-                        "https://www.google.com/books/edition/King_s_Dream/uinGXcRLlewC?hl=en"
-                ],
-                "sweet19": [
-                        "Paige L. Sweet",
-                        2019,
-                        "The sociology of gaslighting",
-                        "American Sociological Review",
-                        "https://doi.org/10.1177%2F0003122419874843"
-                ],
-                "taneja14": [
-                        "Harsh Taneja, Angela Xiao Wu",
-                        2014,
-                        "Does the Great Firewall really isolate the Chinese? Integrating access blockage with cultural factors to explain Web user behavior",
-                        "The Information Society",
-                        "https://doi.org/10.1080/01972243.2014.944728"
-                ],
-                "teevan11": [
-                        "Jaime Teevan, William P. Jones",
-                        2011,
-                        "Personal Information Management",
-                        "University of Washington Press",
-                        "https://www.google.com/books/edition/Personal_Information_Management/pJkS9uRo00IC?hl=en"
-                ],
-                "toth18": [
-                        "Michal Tóth, Roman Chytilek",
-                        2018,
-                        "Fast, frugal and correct? An experimental study on the influence of time scarcity and quantity of information on the voter decision making process",
-                        "Public Choice",
-                        "https://doi.org/10.1007/s11127-018-0587-4"
-                ],
-                "toyama15": [
-                        "Kentaro Toyama",
-                        2015,
-                        "Geek heresy: Rescuing social change from the cult of technology",
-                        "PublicAffairs",
-                        "https://www.google.com/books/edition/Geek_Heresy/2w6CBgAAQBAJ?hl=en"      
-                ],
-                "trowbridge19": [
-                        "John Trowbridge, Robert Weller, Deborah Kelley, Edward Dever, Albert Plueddemann, John A. Barth, and Orest Kawka",
-                        2019,
-                        "The Ocean Observatories Initiative",
-                        "Frontiers in Marine Science",
-                        "https://doi.org/10.3389/fmars.2019.00074"
-                ],
-                "tsai16": [
-                        "Cheng-ting Tsai, Peter V. Robinson, Carole A. Spencer, and Carolyn R. Bertozzi",
-                        2016,
-                        "Ultrasensitive Antibody Detection by Agglutination-PCR (ADAP)",
-                        "ACS Central Science",
-                        "https://pubs.acs.org/doi/abs/10.1021/acscentsci.5b00340?source=cen"
-                ],
-                "tukey62": [
-                        "John W. Tukey",
-                        1962,
-                        "The future of data analysis",
-                        "The annals of mathematical statistics",
-                        "https://www.jstor.org/stable/2237638"
-                ],
-                "turkle11": [
-                        "Sherry Turkle",
-                        2011,
-                        "Alone together: Why we expect more from technology and less from ourselves",
-                        "MIT Press",
-                        "https://www.google.com/books/edition/Alone_Together/hc7SYAPVlXwC?hl=en"
-                ],
-                "tyler10": [
-                        "Sarah K. Tyler, Jaime Teevan",
-                        2010,
-                        "Large scale query log analysis of re-finding",
-                        "ACM International Conference on Web Search and Data Mining",
-                        "https://doi.org/10.1145/1718487.1718512"
-                ],
-                "vanduyn20": [
-                        "Emily Van Duyn",
-                        2020,
-                        "Mainstream Marginalization: Secret Political Organizing Through Social Media",
-                        "Social Media+ Society",
-                        "https://doi.org/10.1177%2F2056305120981044"
-                ],
-                "varotto17": [
-                        "Alessandra Varotto, and Anna Spagnolli",
-                        2017,
-                        "Psychological strategies to promote household recycling. A systematic review with meta-analysis of validated field interventions",
-                        "Journal of Environmental Psychology",
-                        "https://doi.org/10.1016/j.jenvp.2017.03.011"
-                ],
-                "vieweg10": [
-                        "Sarah Vieweg, Amanda L. Hughes, Kate Starbird, and Leysia Palen",
-                        2010,
-                        "Microblogging during two natural hazards events: what twitter may contribute to situational awareness",
-                        "#CHI",
-                        "https://doi.org/10.1145/1753326.1753486"
-                ],
-                "vitak12": [
-                        "Jessica Vitak",
-                        2012,
-                        "The impact of context collapse and privacy on social network site disclosures",
-                        "Journal of Broadcasting & Electronic Media",
-                        "https://doi.org/10.1080/08838151.2012.732140"
-                ],
-                "vizer19": [
-                        "Lisa M. Vizer, Jordan Eschler, Bon Mi Koo, James Ralston, Wanda Pratt, and Sean Munson",
-                        2019,
-                        "“It’s Not Just Technology, It’s People”: Constructing a Conceptual Model of Shared Health Informatics for Tracking in Chronic Illness Management",
-                        "Journal of Medical Internet Research",
-                        "https://doi.org/10.2196/10830"
-                ],
-                "watson07": [
-                        "Hugh J. Watson, Barbara H. Wixom",
-                        2007,
-                        "The current state of business intelligence",
-                        "IEEE Computer",
-                        "https://doi.org/10.1109/MC.2007.331"
-                ],
-                "weart03": [
-                        "S. Weart",
-                        2003,
-                        "The Discovery of Global Warming",
-                        "Harvard University Press",
-                        "https://www.google.com/books/edition/The_Discovery_of_Global_Warming/zcr3WJ4wP10C?hl=en&gbpv=0"
-                ],
-                "wenger99": [
-                        "Etienne Wenger",
-                        1999,
-                        "Communities of Practice: Learning, Meaning, and Identity",
-                        "Cambridge University Press",
-                        "https://www.google.com/books/edition/Communities_of_Practice/heBZpgYUKdAC?hl=en"
-                ],
-                "west18": [
-                        "Sarah Myers West",
-                        2018,
-                        "Censored, suspended, shadowbanned: User interpretations of content moderation on social media platforms",
-                        "New Media & Society",
-                        "https://doi.org/10.1177%2F1461444818773059"
-                ],
-                "whittaker11": [
-                        "Steve Whittaker, Tara Matthews, Julian Cerruti, Hernan Badenes, and John Tang",
-                        2011,
-                        "Am I wasting my time organizing email? A study of email refinding",
-                        "#CHI",
-                        "https://doi.org/10.1145/1978942.1979457"
-                ],
-                "williams00": [
-                        "Laurie A. Williams, Robert R. Kessler",
-                        2000,
-                        "All I really need to know about pair programming I learned in kindergarten",
-                        "Communications of the ACM",
-                        "https://doi.org/10.1145/332833.332848"
-                ],
-                "wilson97": [
-                        "Tom D. Wilson",
-                        1997,
-                        "Information behaviour: an interdisciplinary perspective",
-                        "Information Processing & Management",
-                        "https://doi.org/10.1016/S0306-4573(97)00028-9"
-                ],
-                "wiseman18": [
-                        "Sarah Wiseman, Sandy JJ Gould",
-                        2018,
-                        "Repurposing emoji for personalised communication: Why🍕 means “I love you”",
-                        "#CHI",
-                        "https://doi.org/10.1145/3173574.3173726"
-                ],
-                "wolchok10": [
-                        "Scott Wolchok, Eric Wustrow, J. Alex Halderman, Hari K. Prasad, Arun Kankipati, Sai Krishna Sakhamuri, Vasavya Yagati, and Rop Gonggrijp",
-                        2010,
-                        "Security analysis of India's electronic voting machines",
-                        "ACM Conference on Computer and Communications Security",
-                        "https://doi.org/10.1145/1866307.1866309"
-                ],
-                "wu12": [
-                        "Duojiao Wu, Catherine M. Rice, and Xiangdong Wang",
-                        2012,
-                        "Cancer bioinformatics: A new approach to systems clinical medicine",
-                        "BMC Bioinformatics",
-                        "https://doi.org/10.1186/1471-2105-13-71"
-                ],
-                "yee03": [
-                        "Ka-Ping Yee, Kirsten Swearingen, Kevin Li, and Marti Hearst",
-                        2003,
-                        "Faceted metadata for image search and browsing",
-                        "#CHI",
-                        "https://doi.org/10.1145/642611.642681"
-                ],
-                "young95": [
-                        "Davis A. Young",
-                        1995,
-                        "The Biblical Flood: A Case Study of the Church's Response to Extrabiblical Evidence",
-                        "University of Michigan",
-                        "https://www.google.com/books/edition/The_Biblical_Flood/hL7YAAAAMAAJ?hl=en&gbpv=0"
-                ],
-                "zeleny05": [
-                        "Milan Zeleny",
-                        2005,
-                        "Human Systems Management: Integrating Knowledge, Management and Systems",
-                        "World Scientific",
-                        "https://www.google.com/books/edition/Human_Systems_Management/CHVqDQAAQBAJ?hl=en"
-                ],
-                "zeng08": [
-                        "Marcia Lei Zeng",
-                        2008,
-                        "Metadata",
-                        "Neal-Schuman Publishers",
-                        "https://dl.acm.org/doi/book/10.5555/1481677"
-                ],
-                "zhang06": [
-                        "Zhiyong Zhang, Olfa Nasraoui",
-                        2006,
-                        "Mining search engine query logs for query recommendation",
-                        "ACM International Conference on World Wide Web",
-                        "https://doi.org/10.1145/1135777.1136004"
-                ],
-                "zuboff19": [
-                        "Shoshana Zuboff",
-                        2019,
-                        "The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power",
-                        "Public Affairs",
-                        "https://www.google.com/books/edition/The_Age_of_Surveillance_Capitalism/lRqrDQAAQBAJ?hl=en"
-                ]
-        },
-        "glossary": {
-                "accesscontrol": {
-                        "phrase": "accesscontrol",
-                        "definition": "A system for making and enforcing promises about privacy."
-                },
-                "anarchy": {
-                        "phrase": "anarchy",
-                        "definition": "The absense of any form of government."
-                },
-                "augmentation": {
-                        "phrase": "augmentation",
-                        "definition": "The use of technology to improve or enhance human abilities."
-                },
-                "authentiction": {
-                        "phrase": "authentiction",
-                        "definition": "Verifying that one has authorization to access private data."
-                },
-                "authoritarian": {
-                        "phrase": "authoritarianism",
-                        "definition": "A system of government that centralizes power."
-                },
-                "authorization": {
-                        "phrase": "authorization",
-                        "definition": "Granting permission to access private data."
-                },
-                "automation": {
-                        "phrase": "automation",
-                        "definition": "The delegation of human action to technology, often for the purpose of efficiency or reliability."
-                },
-                "bits": {
-                        "phrase": "bit",
-                        "definition": "A binary value, often represented as either 1 or 0 or true or false."
-                },
-                "browsing": {
-                        "phrase": "browsing",
-                        "definition": "Exploring what information exists in an information system."
-                },
-                "capitalism": {
-                        "phrase": "capitalism",
-                        "definition": "A system of commerce organized by government to optimize trade and profit above all other concerns."
-                },
-                "centralization": {
-                        "phrase": "centralization",
-                        "definition": "Concentrating control over information or information systems to a small group of people."
-                },
-                "encryption": {
-                        "phrase": "encryption",
-                        "definition": "Encoding data with a secret so that it can only be read by those who possess the secret."
-                },
-                "info": {
-                        "phrase": "information",
-                        "definition": "The process of receiving, perceiving, and interpreting data into knowledge."
-                },
-                "integrity": {
-                        "phrase": "conextual integrity",
-                        "definition": "The degree to which the context of information is preserved in its presentation, distribution, and interpretation."
-                },
-                "context": {
-                        "phrase": "context",
-                        "definition": "Social, situational information that shapes the meaning of information being received."
-                },
-                "controlledvocab": {
-                        "phrase": "controlled vocabulary",
-                        "definition": "A fixed collection of terminology used to restrict word choice to ensure consistency and support browsing and searching."
-                },
-                "crawler": {
-                        "phrase": "crawler",
-                        "definition": "Software that navigates interlinked data collections to discover and index new documents."
-                },
-                "cx": {
-                        "phrase": "customer experience",
-                        "definition": "Educating customers about an information technology's functionality and use."
-                },
-                "data": {
-                        "phrase": "data",
-                        "definition": "Analog or digital symbols that someone might perceive in the world and ascribe meaning."
-                },
-                "democracy": {
-                        "phrase": "democracy",
-                        "definition": "A system of government that distributes power."
-                },
-                "design": {
-                        "phrase": "design",
-                        "definition": "The human activity of envisioning how to change the status quo into a more preferred one."
-                },
-                "datascience": {
-                        "phrase": "data science",
-                        "definition": "Using data and code to answer questions."
-                },
-                "dev": {
-                        "phrase": "software engineering",
-                        "definition": "Writing computer programs to implement a design."
-                },
-                "encoding": {
-                        "phrase": "encoding",
-                        "definition": "Rules that define the structure and syntax of data, enabling unambiguous interpretation and reliable storage and transmission."
-                },
-                "epistemology": {
-                        "phrase": "epistemology",
-                        "definition": "The study of how we know we know things."
-                },
-                "ethics": {
-                        "phrase": "ethics",
-                        "definition": "Systems of moral and questions and principles about human behavior."
-                },
-                "ia": {
-                        "phrase": "information architecture",
-                        "definition": "Organzing data and metadata to faciliate searching, browsing, and discovery."
-                },
-                "im": {
-                        "phrase": "information management",
-                        "definition": "The systematic and strategic collection, storage, retrieval, and analysis of information for some purpose."
-                },
-                "index": {
-                        "phrase": "index",
-                        "definition": "A data structure that organizes documents by one or more facets of their contents or metadata."
-                },
-                "infobe": {
-                        "phrase": "information behavior",
-                        "definition": "How people go about creating, finding, and interpreting information."
-                },
-                "interfaces": {
-                        "phrase": "interfaces",
-                        "definition": "A technology used to faciliate information creation, retrieval, searching, browsing, and/or analysis."
-                },
-                "interop": {
-                        "phrase": "interoperability",
-                        "definition": "The ability to move and translate data structures between different systems without losing data or changing its meaning."
-                },
-                "fixedintelligence": {
-                        "phrase": "fixed intelligence",
-                        "definition": "A false belief that one's intelligence is fixed at birth."
-                },
-                "fixedinterest": {
-                        "phrase": "fixed interest",
-                        "definition": "A false belief that one's interests are discovered rather than developed."
-                },
-                "forage": {
-                        "phrase": "information foraging",
-                        "definition": "The observation that humans rely on metadata cues in information environments to drive searching and browsing."
-                },
-                "graphicdesign": {
-                        "phrase": "graphic design",
-                        "definition": "Creating visual and typographic forms of information."
-                },
-                "knowledge": {
-                        "phrase": "knowledge",
-                        "definition": "An interconnected system of information in a mind."
-                },
-                "law": {
-                        "phrase": "law",
-                        "definition": "Policies enforced by governments."
-                },
-                "matrixofdom": {
-                        "phrase": "matrix of domination",
-                        "definition": "The system of culture, norms, and laws designed to maintain particular social hierarchies of power."
-                },
-                "metadata": {
-                        "phrase": "metadata",
-                        "definition": "Data about data, capturing its meaning and context."
-                },
-                "parse": {
-                        "phrase": "parse",
-                        "definition": "Algorithms for translating encoded data into representations suitable for analysis."
-                },
-                "pm": {
-                        "phrase": "product management",
-                        "definition": "Synthesizing design, engineering, marketing, and sales concerns into strategic choices about product behavior."
-                },
-                "policy": {
-                        "phrase": "policy",
-                        "definition": "Rules that restrict human behavior to some end."
-                },
-                "power": {
-                        "phrase": "power",
-                        "definition": "The capacity to influence and control others."
-                },
-                "privacy": {
-                        "phrase": "privacy",
-                        "definition": "Control over information about one's body and self."
-                },
-                "projectmanagement": {
-                        "phrase": "project management",
-                        "definition": "Organizing teams of people to work more productivity to meet deadlines."
-                },
-                "ranking": {
-                        "phrase": "ranking",
-                        "definition": "Ordering documents in a collection by relevance."
-                },
-                "regulations": {
-                        "phrase": "regulations",
-                        "definition": "Interpretations of law that enable enforcement."
-                },
-                "research": {
-                        "phrase": "research",
-                        "definition": "Answering questions that have not yet been answered by humanity."
-                },
-                "satisficing": {
-                        "phrase": "satisficing",
-                        "definition": "Human tendency to seek as little information as is necessary to decide, bounding rationality."
-                },
-                "search": {
-                        "phrase": "searching",
-                        "definition": "Attempting to retrieve particular information from an information system."
-                },
-                "searchengine": {
-                        "phrase": "search engine",
-                        "definition": "Software that translates queries into a collection of documents related to a query."
-                },
-                "security": {
-                        "phrase": "security",
-                        "definition": "Efforts to ensure agreements about privacy."
-                },
-                "sensemaking": {
-                        "phrase": "sensemaking",
-                        "definition": "The human process of gathering, interpreting, and synthesizing information into knowledge."
-                },
-                "stakeholder": {
-                        "phrase": "stakeholder",
-                        "definition": "Someone who might be directly or indirectly impacted by the creation of a new information technology."
-                },
-                "systems": {
-                        "phrase": "information system",
-                        "definition": "A process for coordinating people, data, and information technology in order to faciliate information creation, storage, and access."
-                },
-                "tagging": {
-                        "phrase": "tagging",
-                        "definition": "A system for enabling users of an information system to create descriptive metatdata for data."
-                },
-                "uxd": {
-                        "phrase": "user experience design",
-                        "definition": "Using design methods to envisioning products that meet needs."
-                },
-                "uxresearch": {
-                        "phrase": "user experience research",
-                        "definition": "Investigating how technology is currently used to reveal opportunities for how technology might better serve needs."
-                }
-        }
+  "title": "Foundations of Information",
+  "number": 1,
+  "summary": "First draft",
+  "published": null,
+  "authors": ["[Amy J. Ko|https://amyjko.com]"],
+  "license": "[Creative Commons Attribution-NoDerivatives 4.0|https://creativecommons.org/licenses/by-nd/4.0/]",
+  "images": {
+    "cover": "|cover.jpg|A metallic structure resembling a network of nodes and edges|A sculpture of information, or perhaps the internet?|[Alina Grubnyak|https://unsplash.com/photos/ZiQkhI7417A]|",
+    "unknown": "|error.gif|An animated gif of television noise.|Uh oh, something went wrong.|Blackworker (GIFER)|"
+  },
+  "description": "For several years, I've taught an introductory course on the intellectual foundations of information, which surveys the many ideas and fields that have something to say about information. Unable to find an introductory text, I wrote this book as a gateway into the topics of the course, providing a broad overview of major topics in information, and links into the deeper research and popular literature. Unlike a traditional book, this one will change, evolving as my knowledge and our collective knowledge about information grows.\n\nI hope you enjoy! If not, please file an [issue|https://github.com/amyjko/foundations-of-information/issues/new] on the [the book's GitHub repository|https://github.com/amyjko/foundations-of-information].\n\n_This material is based upon work supported by the National Science Foundation under Grant No. 2031265. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation._",
+  "acknowledgements": "Several have contributed minor corrections and improvements, including, alphabetical order, Kristin Bott, Luke Channings, Antoine Cheron, Matthew Conlen, Stuart Schechter, and Bojan Tosic.",
+  "base": "/ajko/books/foundations-of-information",
+  "chapters": [
+    {
+      "title": "The power of information",
+      "id": "power",
+      "image": "|Newspapers.jpg|A black and white white photograph of a row of men reading newspapers on the sidewalk|People are informavores, hungry for information.|Unknown|",
+      "section": "Foundations"
+    },
+    {
+      "title": "The peril of information",
+      "id": "peril",
+      "image": "|Trump.jpg|A photograph of a newspaper with Trump's mouth torn out.|Not all information is good information.|Charles Deluvio|",
+      "section": "Foundations"
+    },
+    {
+      "title": "Data, information, knowledge",
+      "id": "information",
+      "image": "|Books.jpg|A photograph of a wall of thousands of dusty old books.|Is this a wall of books, data, information, or knowledge?|[Alfons Morales|https://unsplash.com/photos/YLSwjSy7stw]|",
+      "section": "Foundations"
+    },
+    {
+      "title": "Data, encoding, and metadata",
+      "id": "data",
+      "image": "|Hieroglyphs.jpg|A photograph of hieroglyphs at the Temple of Hathor, Dendera|A story, encoded in ancient Egyptian hieroglyphs.|[Jeremy Zero|https://unsplash.com/photos/4f_Kk-AYf64]|",
+      "section": "Foundations"
+    },
+    {
+      "title": "Information technology",
+      "id": "technology",
+      "image": "|Apple IIe.jpg|A photograph of a person staring at an Apple II green display.|Modern information technology comes in the form of beige boxes.|[kevgordon|https://www.youtube.com/watch?v=BEDVjg5y0Hg]|",
+      "section": "Foundations"
+    },
+    {
+      "title": "Information systems",
+      "id": "systems",
+      "image": "|AOL.jpg|A screenshot of AOL showing a collection of stories, instant messaging, email, and more.|An early information system on the Internet known as AOL.|Unknown|",
+      "section": "Foundations"
+    },
+    {
+      "title": "Seeking information",
+      "id": "seeking",
+      "image": "|OG Google.png|A screenshot of the original Google homepage|Google, automating information retrieval since 1997.|Public Domain|",
+      "section": "Foundations"
+    },
+    {
+      "title": "Hiding information",
+      "id": "hiding",
+      "image": "|Surveillance.jpg|Two women look up to a wall of surveillance cameras|Sometimes, privacy and security are at odds.|[Matthew Henry|https://unsplash.com/photos/fPxOowbR6ls]|",
+      "section": "Foundations"
+    },
+    {
+      "title": "Managing information",
+      "id": "managing",
+      "image": "|Planner.jpg|A photograph of a person managing a calendar and to do list.|Information management can get personal.|[Paico Oficial|https://unsplash.com/photos/DC_gMe5H95k]|",
+      "section": "Foundations"
+    },
+    {
+      "title": "Regulating information",
+      "id": "regulating",
+      "image": "|Signing.jpg|A painting of the signing of the U.S. Constitution showing many White men signing|That time when wealthy white men determined our rights.|Public Domain|",
+      "section": "Foundations"
+    },
+    {
+      "title": "Designing information",
+      "id": "designing",
+      "image": "|Courthouse.jpg|A photograph of the King County District Court name change office.|Where people in Seattle change their legal names.|Amy J. Ko|",
+      "section": "Foundations"
+    },
+    {
+      "title": "Information + social",
+      "id": "social",
+      "image": "|Friends.jpg|A photograph of two friends talking while swinging on a swing set.|Information is social.|[Bewakoof|https://unsplash.com/photos/mG-HdjYiPtE]|",
+      "section": "Domains"
+    },
+    {
+      "title": "Information + science",
+      "id": "science",
+      "image": "|Science.jpg|A photograph of a scientist pipetting DNA samples into a tube to copy DNA.|A scientist drops some data into a pipette.|[National Cancer Institute|https://unsplash.com/photos/eo_4DqPUSQA]|",
+      "section": "Domains"
+    },
+    {
+      "title": "Information + automation",
+      "id": "automation",
+      "image": "|Robot.jpg|A girl touching a robot's hand in Japan.|What information should we automate?|[Andy Kelly|https://unsplash.com/photos/0E_vhMVqL9g]|",
+      "section": "Domains"
+    },
+    {
+      "title": "Information + health",
+      "id": "health",
+      "image": "|Vaccine.jpg|A black man gets a SARS-CoV-2 vaccine from a white woman|A women injects instructions for building SARS-CoV-2 proteins into a man's arm.|[CDC|https://unsplash.com/photos/vt7iAyiwpf0]|",
+      "section": "Domains"
+    },
+    {
+      "title": "Information + democracy",
+      "id": "democracy",
+      "image": "|BLM Protest.jpg|A photo of Black Lives Matter protestors in front of the White House on May 31st, 2020.|The public amplifes information in front of the U.S. President's residence.|[Koshu Kunii|https://unsplash.com/photos/Q5sHZ-_lxvE]|",
+      "section": "Domains"
+    },
+    {
+      "title": "Information + sustainability",
+      "id": "sustainability",
+      "image": "|Glacier.jpg|A photograph of a glacier melting.|A site of climate change data collection.|[Cassie Matias|https://unsplash.com/photos/VSGEH7tKiUg]|",
+      "section": "Domains"
+    },
+    {
+      "title": "Information + careers",
+      "id": "careers",
+      "image": "|Work.jpg|Five people working at a table and whiteboard with sticky notes.|Information work.|[You X Ventures|https://unsplash.com/photos/Oalh2MojUuk]|",
+      "section": "Domains"
+    }
+  ],
+  "sources": {
+    "CHI": "ACM Conference on Human Factors in Computing Systems",
+    "CSCW": "ACM Conference on Computer Supported Cooperative Work and Social Computing"
+  },
+  "references": {
+    "ackerman00": [
+      "Mark S. Ackerman",
+      "2000",
+      "The intellectual challenge of CSCW: the gap between social requirements and technical feasibility",
+      "Human-Computer Interaction",
+      "https://doi.org/10.1207/S15327051HCI1523_5"
+    ],
+    "albrecht16": [
+      "Jan Philipp Albrecht",
+      "2016",
+      "How the GDPR will change the world",
+      "European Data Portection Law Review",
+      null
+    ],
+    "amershi19": [
+      "Saleema Amershi, Andrew Begel, Christian Bird, Robert DeLine, Harald Gall, Ece Kamar, Nachiappan Nagappan, Besmira Nushi, and Thomas Zimmermann",
+      "2019",
+      "Software engineering for machine learning: A case study",
+      "International Conference on Software Engineering: Software Engineering in Practice",
+      "https://doi.org/10.1109/ICSE-SEIP.2019.00042"
+    ],
+    "anderson08": [
+      "Keith B. Anderson, Erik Durbin, and Michael A. Salinger",
+      "2008",
+      "Identity Theft",
+      "Journal of Economic Perspectives",
+      "https://doi.org/10.1257/jep.22.2.171"
+    ],
+    "anderson18": [
+      "Carol Anderson, Dick Durbin",
+      "2018",
+      "One Person, No Vote: How Voter Suppression Is Destroying Our Democracy",
+      "Bloomsbury",
+      "https://www.google.com/books/edition/One_Person_No_Vote/KLlHDwAAQBAJ?hl=en&gbpv=0"
+    ],
+    "argyle72": [
+      "Michael Argyle",
+      "1972",
+      "Non-verbal communication in human social interaction",
+      "Cambridge University Press",
+      "https://www.google.com/books/edition/Non_verbal_Communication_in_Human_Social/9OGbOwAACAAJ?hl=en"
+    ],
+    "arrhenius96": [
+      "Svante Arrhenius",
+      "1896",
+      "On the influence of carbonic acid in the air upon the temperature of the ground",
+      "The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science",
+      "https://doi.org/10.1080/14786449608620846"
+    ],
+    "babst18": [
+      "Gorden A. Babst",
+      "2018",
+      "Privacy and Outing",
+      "Core Concepts and Contemporary Issues in Privacy",
+      "https://doi.org/10.1007/978-3-319-74639-5_15"
+    ],
+    "bateson70": [
+      "Gregory Bateson",
+      "1970",
+      "Form, substance and difference",
+      "Essential Readings in Biosemiotics",
+      "https://www.jstor.org/stable/4147987"
+    ],
+    "baumer00": [
+      "David Baumer, Julia Brande Earp, and Fay Cobb Payton",
+      "2000",
+      "Privacy of medical records: IT implications of HIPAA",
+      "ACM SIGCAS Computers and Society",
+      "https://doi.org/10.1145/572260.572261"
+    ],
+    "baxevanis20": [
+      "Andreas D. Baxevanis, Gary D. Bader, David S. Wishart",
+      "2020",
+      "Bioinformatics",
+      "John Wiley & Sons",
+      "https://www.google.com/books/edition/Bioinformatics/OuHNDwAAQBAJ?hl=en"
+    ],
+    "bernstein11": [
+      "Michael Bernstein, Andrés Monroy-Hernández, Drew Harry, Paul André, Katrina Panovich, and Greg Vargas",
+      "2011",
+      "4chan and/b: An Analysis of Anonymity and Ephemerality in a Large Online Community",
+      "AAAI Conference on Web and Social Media",
+      "http://eprints.soton.ac.uk/id/eprint/272345"
+    ],
+    "benjamin19": [
+      "Ruha Benjamin",
+      "2019",
+      "Race after technology: Abolitionist tools for the new jim code",
+      "Social Forces",
+      "https://doi.org/10.1093/sf/soz162"
+    ],
+    "bennett19": [
+      "Cynthia L. Bennett and Daniela K. Rosner",
+      "2019",
+      "The Promise of Empathy: Design, Disability, and Knowing the \"Other\"",
+      "#CHI",
+      "https://doi.org/10.1145/3290605.3300528"
+    ],
+    "bhatt10": [
+      "Arun Bhatt",
+      "2010",
+      "Evolution of clinical research: a history before and beyond James Lind",
+      "Perspectives in Clinical Research",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3149409/"
+    ],
+    "bimber03": [
+      "Bruce Bimber",
+      "2003",
+      "Information and American democracy: Technology in the evolution of political power",
+      "Cambridge University Press",
+      "https://www.google.com/books/edition/Information_and_American_Democracy/5fpneXcFVBwC?hl=en&gbpv=0"
+    ],
+    "bird09": [
+      "Steven Bird, Ewan Klein, Edward Loper",
+      "2009",
+      "Natural Language Processing with Python",
+      "O'Reilly Media",
+      "https://www.google.com/books/edition/Natural_Language_Processing_with_Python/KGIbfiiP1i4C?hl=en"
+    ],
+    "brandt78": [
+      "Allan M. Brandt",
+      "1978",
+      "Racism and research: the case of the Tuskegee Syphilis Study",
+      "Hastings Center Report",
+      "https://doi.org/10.2307/3561468"
+    ],
+    "braveman06": [
+      "Paula Braveman",
+      "2006",
+      "Health disparities and health equity: concepts and measurement",
+      "Annual Review of Public Health",
+      "https://doi.org/10.1146/annurev.publhealth.27.021405.102103"
+    ],
+    "brin98": [
+      "Sergey Brin, Lawrence Page",
+      "1998",
+      "The anatomy of a large-scale hypertextual web search engine",
+      "Computer Networks and ISDN Systems",
+      "https://research.google/pubs/pub334/"
+    ],
+    "brynjarsdottir12": [
+      "Hronn Brynjarsdottir, Maria Håkansson, James Pierce, Eric Baumer, Carl DiSalvo, and Phoebe Sengers",
+      "2012",
+      "Sustainably unpersuaded: how persuasion narrows our vision of sustainability",
+      "#CHI",
+      "https://doi.org/10.1145/2207676.2208539"
+    ],
+    "bock94": [
+      "Kathryn Bock, Willem Levelt",
+      "1994",
+      "Language production: Grammatical encoding",
+      "Academic Press",
+      "https://pure.mpg.de/rest/items/item_61347/component/file_262298/content"
+    ],
+    "boyd12": [
+      "danah boyd, Kate Crawford",
+      "2012",
+      "Critical questions for big data: Provocations for a cultural, technological, and scholarly phenomenon",
+      "Information, Communication & Society",
+      "https://doi.org/10.1080/1369118X.2012.678878"
+    ],
+    "bowker00": [
+      "Geoffrey Bowker, Susan Leigh",
+      "2000",
+      "Sorting things out: Classification and its consequences",
+      "MIT Press",
+      "https://mitpress.mit.edu/books/sorting-things-out"
+    ],
+    "brattingham18": [
+      "Jeffrey Brantingham, P., Matthew Valasik, and George O. Mohler",
+      "2018",
+      "Does predictive policing lead to biased arrests? Results from a randomized controlled trial",
+      "Statistics and Public Policy",
+      "https://doi.org/10.1080/2330443X.2018.1438940"
+    ],
+    "browne15": [
+      "Simone Browne",
+      "2015",
+      "Dark matters: On the surveillance of blackness",
+      "Duke University Press",
+      "https://www.google.com/books/edition/Dark_Matters/snmJCgAAQBAJ?hl=en"
+    ],
+    "buckland91": [
+      "Michael K. Buckland",
+      "1991",
+      "Information as thing",
+      "Journal of the American Society for information Science",
+      "http://ppggoc.eci.ufmg.br/downloads/bibliografia/Buckland1991.pdf"
+    ],
+    "buckland91b": [
+      "Michael K. Buckland",
+      "1991",
+      "Information and information systems",
+      "ABC-CLIO",
+      "https://www.google.com/books/edition/Information_and_information_systems/xOqaFMA9Kh4C?hl=en"
+    ],
+    "buneman04": [
+      "Peter Buneman, Sanjeev Khanna, Keishi Tajima, and Wang-Chiew Tan",
+      "2004",
+      "Archiving scientific data",
+      "ACM Transactions on Database Systems",
+      "https://doi.org/10.1145/974750.974752"
+    ],
+    "bush45": [
+      "Vannevar Bush",
+      "1945",
+      "As we may think",
+      "The atlantic monthly",
+      "https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/"
+    ],
+    "buxton10": [
+      "Bill Buxton",
+      "2010",
+      "Sketching user experiences: getting the design right and the right design",
+      "Morgan Kaufmann",
+      "https://www.google.com/books/edition/Sketching_User_Experiences_Getting_the_D/2vfPxocmLh0C?hl=en"
+    ],
+    "choo02": [
+      "Chun Wei Choo",
+      "2002",
+      "Information Management for the Intelligent Organization",
+      "Information Today",
+      "https://www.google.com/books/edition/Information_Management_for_the_Intellige/IDlDwy9UfmsC?hl=en"
+    ],
+    "coe03": [
+      "Lewis Coe",
+      "2003",
+      "The telegraph: A history of Morse's invention and its predecessors in the United States",
+      "McFarland",
+      "https://www.google.com/books/edition/The_Telegraph/pzkZPIXm89UC?hl=en&gbpv=0"
+    ],
+    "collins90": [
+      "Patricia Collins",
+      "1990",
+      "Black feminist thought: Knowledge, consciousness, and the politics of empowerment",
+      "Routeledge",
+      "https://www.google.com/books/edition/Black_Feminist_Thought/WMGTAgAAQBAJ?hl=en"
+    ],
+    "costanzachock20": [
+      "Sasha Costanza-Chock",
+      "2020",
+      "Design justice: Community-led practices to build the worlds we need",
+      "MIT Press",
+      "http://design-justice.pubpub.org"
+    ],
+    "dicenzo03": [
+      "Maria DiCenzo",
+      "2003",
+      "Gutter politics: Women newsies and the suffrage press",
+      "Women's History Review",
+      "https://doi.org/10.1080/09612020300200345"
+    ],
+    "dietterich17": [
+      "Thomas G. Dietterich",
+      "2017",
+      "Steps Toward Robust Artificial Intelligence",
+      "AI Magazine",
+      "https://doi.org/10.1609/aimag.v38i3.2756"
+    ],
+    "dignazio20": [
+      "Catherine D'Ignazio, Lauren F. Klein",
+      "2020",
+      "Data Feminism",
+      "MIT Press",
+      "https://www.google.com/books/edition/Data_Feminism/x5nSDwAAQBAJ?hl=en"
+    ],
+    "disalvo10": [
+      "Carl DiSalvo, Phoebe Sengers, and Hrönn Brynjarsdóttir",
+      "2010",
+      "Mapping the landscape of sustainable HCI",
+      "#CHI",
+      "https://doi.org/10.1145/1753326.1753625"
+    ],
+    "dourish10": [
+      "Paul Dourish",
+      "2010",
+      "HCI and environmental sustainability: the politics of design and the design of politics",
+      "ACM Conference on Designing Interactive Systems",
+      "https://doi.org/10.1145/1858171.1858173"
+    ],
+    "dweck08": [
+      "Carol S. Dweck",
+      "2008",
+      "Mindset: The new psychology of success",
+      "Random House Digital, Inc.",
+      "https://www.google.com/books/edition/Mindset/fT6U0Ee7_kQC?hl=en&gbpv=0"
+    ],
+    "dynes70": [
+      "R. R. Dynes",
+      "1970",
+      "Organized Behavior in Disaster",
+      "Lexington Books",
+      "https://www.google.com/books/edition/Organized_Behavior_in_Disaster/IeT48KFQkVMC?hl=en&gbpv=0"
+    ],
+    "eckert20": [
+      "Stine Eckert, Jade Metzger-Riftkin",
+      "2020",
+      "Doxxing",
+      "The International Encyclopedia of Gender, Media, and Communication",
+      "https://doi.org/10.1002/9781119429128.iegmc009"
+    ],
+    "edling03": [
+      "Max Edling",
+      "2003",
+      "A Revolution in Favor of Government: Origin of the U.S. Constitution and the Making of the American State",
+      "OUP USA",
+      "https://www.google.com/books/edition/A_Revolution_in_Favor_of_Government/RKw_6w4psdkC?hl=en"
+    ],
+    "edmond13": [
+      "Chris Edmond",
+      "2013",
+      "Information manipulation, coordination, and regime change",
+      "Review of Economic Studies",
+      "https://doi.org/10.1093/restud/rdt020"
+    ],
+    "edwards19": [
+      "George C. Edwards III",
+      "2019",
+      "Why the Electoral College is bad for America",
+      "Yale University Press",
+      "https://www.google.com/books/edition/Why_the_Electoral_College_Is_Bad_for_Ame/8z2lDwAAQBAJ?hl=en&gbpv=0"
+    ],
+    "epstein16": [
+      "Daniel A. Epstein, Monica Caraway, Chuck Johnston, An Ping, James Fogarty, and Sean A. Munson",
+      "2016",
+      "Beyond abandonment to next steps: understanding and designing for life after personal informatics tool use",
+      "#CHI",
+      "https://doi.org/10.1145/2858036.2858045"
+    ],
+    "ericsson93": [
+      "K. Anders Ericsson, Ralf T. Krampe, and Clemens Tesch-Römer",
+      "1993",
+      "The role of deliberate practice in the acquisition of expert performance",
+      "Psychological Review",
+      "https://psycnet.apa.org/doi/10.1037/0033-295X.100.3.363"
+    ],
+    "erskine95": [
+      "Andrew Erskine",
+      "1995",
+      "Culture and power in ptolemaic Egypt: The Museum and Library of Alexandria",
+      "Greece & Rome",
+      "https://www.jstor.org/stable/643071"
+    ],
+    "eubanks18": [
+      "Virginia Eubanks",
+      "2018",
+      "Automating inequality: How high-tech tools profile, police, and punish the poor",
+      "St. Martin's Press",
+      "https://www.google.com/books/edition/Automating_Inequality/pn4pDwAAQBAJ?hl=en"
+    ],
+    "evans87": [
+      "Edward Paysome Evans",
+      "1887",
+      "The authorship of the glacial theory",
+      "The North American Review",
+      "https://www.jstor.org/stable/25101263"
+    ],
+    "farooq16": [
+      "Umer Farooq, Jonathan Grudin",
+      "2016",
+      "Human-computer integration",
+      "interactions",
+      "http://dx.doi.org/10.1145/3001896"
+    ],
+    "faruqui10": [
+      "Ahmad Faruqui, Sanem Sergici, and Ahmed Sharif",
+      "2010",
+      "The impact of informational feedback on energy consumption—A survey of the experimental evidence",
+      "Energy",
+      "https://doi.org/10.1016/j.energy.2009.07.042"
+    ],
+    "faustosterling00": [
+      "Anne Fausto-Sterling",
+      "2000",
+      "Sexing the Body: Gender Politics and the Construction of Sexuality",
+      "Basic Books",
+      "https://www.google.com/books/edition/Sexing_the_Body/c3lhYfZzIXkC?hl=en"
+    ],
+    "fiesler20": [
+      "Casey Fiesler, Brianna Dym",
+      "2020",
+      "Moving Across Lands: Online Platform Migration in Fandom Communities",
+      "ACM Proceedings of Human-Computer Interaction",
+      "https://doi.org/10.1145/3392847"
+    ],
+    "fisher05": [
+      " Karen E. Fisher, Sanda Erdelez, and Lynne E.F. McKechnie, Sanda Erdelez",
+      "2005",
+      "Theories of information behavior",
+      "ASIST",
+      "https://www.google.com/books/edition/Theories_of_Information_Behavior/ll6qzqhIj8wC?hl=en"
+    ],
+    "fiske10": [
+      "John Fiske",
+      "2010",
+      "Introduction to Communication Studies",
+      "Routledge",
+      "https://www.google.com/books/edition/Introduction_to_Communication_Studies/kfEtCgAAQBAJ?hl=en"
+    ],
+    "fitzpatrick13": [
+      "Geraldine Fitzpatrick, Gunnar Ellingsen",
+      "2013",
+      "A review of 25 years of CSCW research in healthcare: contributions, challenges and future agendas",
+      "Computer Supported Cooperative Work",
+      "https://doi.org/10.1007/s10606-012-9168-0"
+    ],
+    "floridi14": [
+      "Luciano Floridi",
+      "2014",
+      "The Fourth Revolution: How the Infosphere is Reshaping Human Reality",
+      "OUP Oxford",
+      "https://www.google.com/books/edition/The_Fourth_Revolution/65eAAwAAQBAJ?hl=en&gbpv=0"
+    ],
+    "forlano17": [
+      "Laura Forlano",
+      "2017",
+      "Posthumanism and Design",
+      "She Ji: The Journal of Design, Economics, and Innovation",
+      "https://doi.org/10.1016/j.sheji.2017.08.001"
+    ],
+    "freimuth01": [
+      "Vicki S. Freimuth, Sandra Crouse Quinn, Stephen B. Thomas, Galen Cole, Eric Zook, and Ted Duncan",
+      "2001",
+      "African Americans’ views on research and the Tuskegee Syphilis Study",
+      "Social Science & Medicine",
+      "https://doi.org/10.1016/S0277-9536(00)00178-7"
+    ],
+    "friedman19": [
+      "Batya Friedman, David G. Hendry",
+      "2019",
+      "Value Sensitive Design: Shaping Technology with Moral Imagination",
+      "MIT Press",
+      "https://www.google.com/books/edition/Value_Sensitive_Design/8ZiWDwAAQBAJ?hl=en&gbpv=0&kptab=overview"
+    ],
+    "froehlich10": [
+      "Jon Froehlich, Leah Findlater, and James Landay",
+      "2010",
+      "The design of eco-feedback technology",
+      "#CHI",
+      "https://doi.org/10.1145/1753326.1753629"
+    ],
+    "furnas87": [
+      "George W. Furnas, Thomas K. Landauer, Louis M. Gomez, and Susan T. Dumais",
+      "1987",
+      "The vocabulary problem in human-system communication",
+      "Communications of the ACM",
+      "https://doi.org/10.1145/32206.32212"
+    ],
+    "gasser00": [
+      "James Gasser",
+      "2000",
+      "A Boole anthology: recent and classical studies in the logic of George Boole",
+      "Springer Science & Business Media",
+      "https://www.google.com/books/edition/A_Boole_Anthology/A2Q5Yghl000C?hl=en&gbpv=0"
+    ],
+    "gazet10": [
+      "Alexandre Gazet",
+      "2010",
+      "Comparative analysis of various ransomware virii",
+      "Journal in Computer Virology",
+      "https://doi.org/10.1007/s11416-008-0092-2"
+    ],
+    "gerber18": [
+      "Nina Gerber, Paul Gerber, Melanie Volkamer",
+      "2018",
+      "Explaining the privacy paradox: A systematic review of literature investigating privacy attitude and behavior",
+      "Computers & Security",
+      "https://doi.org/10.1016/j.cose.2018.04.002"
+    ],
+    "gergle13": [
+      "Darren Gergle, Robert E. Kraut, and Susan R. Fussell",
+      "2013",
+      "Using visual information for grounding and awareness in collaborative tasks",
+      "Human–Computer Interaction",
+      "https://www.tandfonline.com/doi/full/10.1080/07370024.2012.678246?casa_token=tvxBVTJfyLQAAAAA%3A3WOtAeUmZxWRY_JY5XHIUQk8RDxbGFzkbbKEZMy3P3x1ztZyoksCduPYj3S-m0ZbdZyDmoGTRI128g"
+    ],
+    "gleick11": [
+      "James Gleick",
+      "2011",
+      "The information: A history, a theory, a flood",
+      "Vintage Books",
+      "https://www.google.com/books/edition/The_Information/617JSFW0D2kC?hl=en"
+    ],
+    "grigg10": [
+      "Dorothy Wunmi Grigg",
+      "2010",
+      "Cyber-aggression: Definition and concept of cyberbullying",
+      "Australian Journal of Guidance and Counselling",
+      "https://doi.org/10.1375/ajgc.20.2.143"
+    ],
+    "grudin88": [
+      "Jonathan Grudin",
+      "1988",
+      "Why CSCW applications fail: problems in the design and evaluation of organizational interfaces",
+      "#CSCW",
+      "https://doi.org/10.1145/62266.62273"
+    ],
+    "grover93": [
+      "Varun Grover, Seung-Ryul Jeong, William J. Kettinger, and Choong C. Lee",
+      "1993",
+      "The chief information officer: A study of managerial roles",
+      "Journal of Management Information Systems",
+      "https://doi.org/10.1080/07421222.1993.11518002"
+    ],
+    "haimson20": [
+      "Oliver L. Haimson, Justin Buss, Zu Weinger, Denny L. Starks, Dykee Gorrell, and Briar Sweetbriar Baron",
+      "2020",
+      "Trans Time: Safety, Privacy, and Content Warnings on a Transgender-Specific Social Media Site",
+      "ACM Proceedings on Human-Computer Interaction",
+      "https://doi.org/10.1145/3415195"
+    ],
+    "haldar19": [
+      "Shefali Haldar, Sonali R. Mishra, Maher Khelifi, Ari H. Pollack, and Wanda Pratt",
+      "2019",
+      "Beyond the Patient Portal: Supporting Needs of Hospitalized Patients",
+      "ACM Conference on Human Factors in Computing Systems",
+      "https://doi.org/10.1145/3290605.3300596"
+    ],
+    "hall06": [
+      "Richard L. Hall, and Alan V. Deardorff",
+      "2006",
+      "Lobbying as legislative subsidy",
+      "American Political Science Review",
+      "https://www.jstor.org/stable/27644332"
+    ],
+    "harcourt08": [
+      "Bernard E. Harcourt",
+      "2008",
+      "Against prediction: Profiling, policing, and punishing in an actuarial age",
+      "University of Chicago Press",
+      "https://www.google.com/books/edition/Against_Prediction/sqryh6ol1LwC?hl=en&gbpv=0"
+    ],
+    "harris99": [
+      "Michael H. Harris",
+      "1999",
+      "History of Libraries in the Western World",
+      "Scarecrow Press",
+      "https://www.google.com/books/edition/History_of_Libraries_of_the_Western_Worl/KQ3FmadbMvkC?hl=en"
+    ],
+    "hauben97": [
+      "Michael Hauben, Ronda Hauben, Thomas Truscott",
+      "1997",
+      "Netizens: On the History and Impact of Usenet and the Internet",
+      "Wiley",
+      "https://www.google.com/books/edition/Netizens/De5SAAAAMAAJ?hl=en"
+    ],
+    "hellman10": [
+      "Deborah Hellman",
+      "2010",
+      "Money Talks but It Isn't Speech",
+      "Minnesota Law Review",
+      "https://heinonline.org/HOL/LandingPage?handle=hein.journals/mnlr95&div=23&id=&page="
+    ],
+    "hersch04": [
+      "William Hersh",
+      "2004",
+      "Health care information technology: progress and barriers",
+      "Journal of the American Medical Association",
+      "https://doi.org/10.1001/jama.292.18.2273"
+    ],
+    "hertzum20": [
+      "Morten Hertzum",
+      "2020",
+      "Usability Testing: A Practitioner's Guide to Evaluating the User Experience",
+      "Morgan & Claypool",
+      "https://www.google.com/books/edition/Usability_Testing/uWnXDwAAQBAJ?hl=en"
+    ],
+    "heydon99": [
+      "Allan Heydon, Marc Najork",
+      "1999",
+      "Mercator: A scalable, extensible web crawler",
+      "World Wide Web",
+      "https://doi.org/10.1023/A:1019213109274"
+    ],
+    "hidi06": [
+      "Suzanne Hidi, and K. Ann Renninger",
+      "2006",
+      "The four-phase model of interest development",
+      "Educational Psychologist",
+      "https://doi.org/10.1207/s15326985ep4102_4"
+    ],
+    "hirschberg15": [
+      "Julia Hirschberg, Christopher Manning",
+      "2015",
+      "Advances in natural language processing",
+      "Science",
+      "https://science.sciencemag.org/content/349/6245/261"
+    ],
+    "hohman19": [
+      "Fred Hohman, Andrew Head, Rich Caruana, Robert DeLine, and Steven M. Drucker",
+      "2019",
+      "Gamut: A Design Probe to Understand How Data Scientists Understand Machine Learning Models",
+      "#CHI",
+      "https://doi.org/10.1145/3290605.3300809"
+    ],
+    "hotho06": [
+      "Andreas Hotho, Robert Jäschke, Christoph Schmitz, Gerd Stumme",
+      "2006",
+      "Information retrieval in folksonomies: Search and ranking",
+      "European Semantic Web Conference",
+      "https://link.springer.com/chapter/10.1007/11762256_31"
+    ],
+    "jacko12": [
+      "Julie A. Jacko",
+      "2012",
+      "Human computer interaction handbook: Fundamentals, evolving technologies, and emerging applications",
+      "CRC press",
+      "https://www.google.com/books/edition/Human_Computer_Interaction_Handbook/dVrRBQAAQBAJ?hl=en"
+    ],
+    "janes17": [
+      "Joseph Janes",
+      "2017",
+      "Documents That Changed the Way We Live",
+      "Rowman & Littlefield",
+      "https://www.google.com/books/edition/Documents_That_Changed_the_Way_We_Live/a6-zDgAAQBAJ?hl=en&gbpv=0"
+    ],
+    "jhaver18": [
+      "Shagun Jhaver, Sucheta Ghoshal, Amy Bruckman, and Eric Gilbert",
+      "2018",
+      "Online harassment and content moderation: The case of blocklists",
+      "ACM Transactions on Computer-Human Interaction",
+      "https://doi.org/10.1145/3185593"
+    ],
+    "jansen09": [
+      "Bernard J. Jansen, Danielle L. Booth, and Amanda Spink",
+      "2009",
+      "Patterns of query reformulation during Web searching",
+      "Journal of the American Society for Information Science and Technology",
+      "https://doi.org/10.1002/asi.21071"
+    ],
+    "jonson05": [
+      "Ben Jonson",
+      "2005",
+      "Design ideation: the conceptual sketch in the digital age",
+      "Design Studies",
+      "https://doi.org/10.1016/j.destud.2005.03.001"
+    ],
+    "jung17": [
+      "Young-Wook Jung, Youn-kyung Lim, and Myung-suk Kim",
+      "2017",
+      "Possibilities and limitations of online document tools for design collaboration: The case of Google Docs",
+      "#CSCW",
+      "https://doi.org/10.1145/2998181.2998297"
+    ],
+    "kim16": [
+      "Miryung Kim, Thomas Zimmermann, Robert DeLine, and Andrew Begel",
+      "2016",
+      "The emerging role of data scientists on software development teams",
+      "IEEE/ACM International Conference on Software Engineering",
+      "https://doi.org/10.1145/2884781.2884783"
+    ],
+    "kindig11": [
+      "David Kindig and Greg Stoddart",
+      "2011",
+      "What is population health?",
+      "American Journal of Public Health",
+      "https://doi.org/10.2105/AJPH.93.3.380"
+    ],
+    "kittur13": [
+      "Aniket Kittur, Jeffrey V. Nickerson, Michael Bernstein, Elizabeth Gerber, Aaron Shaw, John Zimmerman, Matt Lease, and John Horton",
+      "2013",
+      "The future of crowd work",
+      "#CSCW",
+      "https://doi.org/10.1145/2441776.2441923"
+    ],
+    "kline85": [
+      "Stephen J. Kline",
+      "1985",
+      "What is technology?",
+      "Bulletin of Science, Technology & Society",
+      "https://doi.org/10.1177%2F027046768500500301"
+    ],
+    "kuhn12": [
+      "Thomas S. Kuhn",
+      "2012",
+      "The structure of scientific revolutions",
+      "University of Chicago Press",
+      "https://www.google.com/books/edition/The_Structure_of_Scientific_Revolutions/3eP5Y_OOuzwC?hl=en"
+    ],
+    "korenhof14": [
+      "Paulan Korenhof, Bert-Jaap Koops",
+      "2014",
+      "Identity construction and the right to be forgotten: the case of gender identity",
+      "The Ethics of Memory in a Digital Age",
+      "https://doi.org/10.1057/9781137428455_7"
+    ],
+    "korpela06": [
+      "Jukka K. Korpela",
+      "2006",
+      "Unicode explained",
+      "O'Reilly Media, Inc.",
+      "https://www.google.com/books/edition/Unicode_Explained/lxndiWaFMvMC?hl=en&gbpv=0"
+    ],
+    "lampe08": [
+      "Cliff Lampe, Nicole B. Ellison, and Charles Steinfield",
+      "2008",
+      "Changes in use and perception of Facebook",
+      "#CSCW",
+      "https://doi.org/10.1145/1460563.1460675"
+    ],
+    "lee06": [
+      "Charlotte P. Lee, Paul Dourish, and Gloria Mark",
+      "2006",
+      "The human infrastructure of cyberinfrastructure",
+      "ACM Conference on Computer Supported Cooperative ",
+      "https://doi.org/10.1145/1180875.1180950"
+    ],
+    "leiner09": [
+      "Barry M. Leiner, Vinton G. Cerf, David D. Clark, Robert E. Kahn, Leonard Kleinrock, Daniel C. Lynch, Jon Postel, Larry G. Roberts, Stephen Wolff",
+      "2009",
+      "A brief history of the internet",
+      "ACM SIGCOMM Computer Communication Review",
+      "https://doi.org/10.1145/1629607.1629613"
+    ],
+    "leinokilpi01": [
+      "Helena Leino-Kilpi, Maritta Välimäki, Theo Dassen, Maria Gasull, Chryssoula Lemonidou, Anne Scott, and Marianne Arndt",
+      "2001",
+      "Privacy: a review of the literature",
+      "International Journal of Nursing Studies",
+      "https://doi.org/10.1016/S0020-7489(00)00111-5"
+    ],
+    "lerner15": [
+      "Jennifer Lerner",
+      "2015",
+      "Emotion and decision making",
+      "Annual Review of Psychology",
+      "https://doi.org/10.1146/annurev-psych-010213-115043"
+    ],
+    "licklider68": [
+      "Joseph C.R. Licklider, Robert W. Taylor",
+      "1968",
+      "The computer as a communication device",
+      "Science and technology",
+      "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.828.9273&rep=rep1&type=pdf"
+    ],
+    "levitsky18": [
+      "Steven Levitsky, Daniel Ziblatt",
+      "2018",
+      "How Democracies Die",
+      "Crown",
+      "https://www.google.com/books/edition/How_Democracies_Die/iF3ODgAAQBAJ?hl=en&gbpv=0"
+    ],
+    "lupia94": [
+      "Arthur Lupia",
+      "1994",
+      "Shortcuts versus encyclopedias: Information and voting behavior in California insurance reform elections",
+      "American Political Science Review",
+      "https://doi.org/10.2307/2944882"
+    ],
+    "lott99": [
+      "John R. Lott, Jr.",
+      "1999",
+      "Public schooling, indoctrination, and totalitarianism",
+      "Journal of Political Economy",
+      "https://www.journals.uchicago.edu/doi/abs/10.1086/250106?casa_token=DJLarlHqn_sAAAAA:42QuTATvCK9C_hq-XrqpvosW7zlBt6uHvqtFzbBhhUP80ezJGl6qNlj_TMLDEVOvkeZAveNIhO3s"
+    ],
+    "mackenzie80": [
+      "C.E. Mackenzie",
+      "1980",
+      "Coded-Character Sets: History and Development",
+      "Addison-Wesley Longman Publishing",
+      null
+    ],
+    "malone83": [
+      "Thomas W. Malone",
+      "1983",
+      "How do people organize their desks? Implications for the design of office information systems",
+      "ACM Transactions on Information Systems",
+      "https://doi.org/10.1145/357423.357430"
+    ],
+    "mamykina11": [
+      "Lena Mamykina, Bella Manoim, Manas Mittal, George Hripcsak, and Björn Hartmann",
+      "2011",
+      "Design lessons from the fastest Q&A site in the west",
+      "#CHI",
+      "https://doi.org/10.1145/1978942.1979366"
+    ],
+    "manabe67": [
+      "Syukuro Manabe, Richard T. Wetherald",
+      "1967",
+      "Thermal equilibrium of the atmosphere with a given distribution of relative humidity",
+      "Journal of the Atmospheric Sciences",
+      "https://doi.org/10.1175%2F1520-0469%281967%29024%3C0241%3Ateotaw%3E2.0.co%3B2"
+    ],
+    "marantz20": [
+      "Andrew Marantz",
+      "2020",
+      "Antisocial: Online extremists, techno-utopians, and the hijacking of the American conversation",
+      "Penguin Books",
+      "https://www.google.com/books/edition/Antisocial/j5QFEAAAQBAJ?hl=en&gbpv=0"
+    ],
+    "marchionini98": [
+      "Gary Marchionini, Catherine Plaisant, and Anita Komlodi",
+      "1998",
+      "Interfaces and tools for the Library of Congress national digital library program",
+      "Information Processing & Management",
+      "https://doi.org/10.1016/S0306-4573(98)00020-X"
+    ],
+    "marmot05": [
+      "Michael Marmot, Richard Wilkinson",
+      "2005",
+      "Social determinants of health",
+      "OUP Oxford",
+      "https://www.google.com/books/edition/Social_Determinants_of_Health/AmwiS8HZeRIC?hl=en"
+    ],
+    "martin04": [
+      "Patricia Yancey Martin",
+      "2004",
+      "Gender as social institution",
+      "Social Forces",
+      "https://doi.org/10.1353/sof.2004.0081"
+    ],
+    "mathew20": [
+      "Binny Mathew, Anurag Illendula, Punyajoy Saha, Soumya Sarkar, Pawan Goyal, and Animesh Mukherjee",
+      "2020",
+      "Hate begets Hate: A Temporal Study of Hate Speech",
+      "ACM Proceedings of Human-Computer Itneraction",
+      "https://doi.org/10.1145/3415163"
+    ],
+    "mccarty09": [
+      "Nolan McCarty, Keith T. Poole, and Howard Rosenthal",
+      "2009",
+      "Does gerrymandering cause polarization?",
+      "American Journal of Political Science",
+      "https://doi.org/10.1111/j.1540-5907.2009.00393.x"
+    ],
+    "mcdougall15": [
+      "William McDougall",
+      "2015",
+      "An Introduction to Social Psychology",
+      "Psychology Press",
+      "https://www.google.com/books/edition/An_Introduction_to_Social_Psychology/nojwCQAAQBAJ?hl=en"
+    ],
+    "mcilwain19": [
+      "Charleton D. McIlwain",
+      "2019",
+      "Black Software: The Internet and Racial Justice, from the AfroNet to Black Lives Matter",
+      "Oxford University Press",
+      "https://www.google.com/books/edition/Black_Software/DmmtDwAAQBAJ?hl=en"
+    ],
+    "mcluhan64": [
+      "Marshall McLuhan",
+      "1964",
+      "Understanding Media: The Extensions of Man",
+      "Routledge, London",
+      "https://www.google.com/books/edition/Understanding_Media/TcsSvgAACAAJ?hl=en"
+    ],
+    "meadow97": [
+      "Charles Meadow, Weijing Yuan",
+      "1997",
+      "Measuring the impact of information: defining the concepts",
+      "Information Processing & Management",
+      "https://doi-org.offcampus.lib.washington.edu/10.1016/S0306-4573(97)00042-3"
+    ],
+    "meier07": [
+      "Andrea Meier, Elizabeth Lyons, Gilles Frydman, Michael Forlenza, and Barbara Rimer",
+      "2007",
+      "How cancer survivors provide support on cancer-related Internet mailing lists",
+      "Journal of Medical Internet Research",
+      "https://doi.org/10.2196/jmir.9.2.e12"
+    ],
+    "mendoza10": [
+      "Marcelo Mendoza, Barbara Poblete, and Carlos Castillo",
+      "2010",
+      "Twitter under crisis: can we trust what we RT?",
+      "First Workshop on Social Media Analytics",
+      "https://doi.org/10.1145/1964858.1964869"
+    ],
+    "mentis10": [
+      "Helena M. Mentis, Madhu Reddy, and Mary Beth Rosson",
+      "2010",
+      "Invisible emotion: information and interaction in an emergency room",
+      "#CSCW",
+      "https://doi.org/10.1145/1718918.1718975"
+    ],
+    "mentis17": [
+      "Helena M. Mentis, Anita Komlodi, Katrina Schrader, Michael Phipps, Ann Gruber-Baldini, Karen Yarbrough, and Lisa Shulman",
+      "2017",
+      "Crafting a View of Self-Tracking Data in the Clinical Visit",
+      "#CHI",
+      "https://doi.org/10.1145/3025453.3025589"
+    ],
+    "matsubayashi14": [
+      "Tetsuya Matsubayashi, and Michiko Ueda",
+      "2014",
+      "Disability and voting",
+      "Disability and Health Journal",
+      "https://doi.org/10.1016/j.dhjo.2014.03.001"
+    ],
+    "minsky61": [
+      "Marvin Minsky",
+      "1961",
+      "Steps toward artificial intelligence",
+      "Proceedings of the IRE",
+      "https://doi.org/10.1109/JRPROC.1961.287775"
+    ],
+    "miyagawa18": [
+      "Shigeru Miyagawa, Cora Lesure, Vitor A. Nóbrega",
+      "2018",
+      "Cross-modality information transfer: a hypothesis about the relationship among prehistoric cave paintings, symbolic thinking, and the emergence of language",
+      "Frontiers in Psychology",
+      "https://doi.org/10.3389/fpsyg.2018.00115"
+    ],
+    "miller83": [
+      "George A. Miller",
+      "1983",
+      "Informavores",
+      "The Study of Information: Interdisciplinary Messages",
+      "https://www.google.com/books/edition/The_Study_of_Information/JwpUAAAAMAAJ?hl=en"
+    ],
+    "mahar18": [
+      "Kaitlin Mahar, Amy X. Zhang, David Karger",
+      "2018",
+      "Squadbox: A Tool to Combat Email Harassment Using Friendsourced Moderation",
+      "#CHI",
+      "https://doi.org/10.1145/3173574.3174160"
+    ],
+    "moore08": [
+      "Adam D. Moore",
+      "2008",
+      "Defining privacy",
+      "Journal of Social Philosophy",
+      "https://ssrn.com/abstract=1980849"
+    ],
+    "moyer82": [
+      "Gordon Moyer",
+      "1982",
+      "The Gregorian Calendar",
+      "Scientific American",
+      "https://www.jstor.org/stable/10.2307/24966597"
+    ],
+    "nardi04": [
+      "Bonnie A. Nardi, Diane J. Schiano, and Michelle Gumbrecht",
+      "2004",
+      "Blogging as social activity, or, would you let 900 million people read your diary?",
+      "#CSCW",
+      "https://doi.org/10.1145/1031607.1031643"
+    ],
+    "nass94": [
+      "Clifford Nass, Jonathan Steuer, and Ellen R. Tauber",
+      "1994",
+      "Computers are social actors",
+      "#CHI",
+      "https://doi.org/10.1145/191666.191703"
+    ],
+    "nickel16": [
+      "Maximilian Nickel, Kevin Murphy, Volker Tresp, Evgeniy Gabrilovich",
+      "2016",
+      "A Review of Relational Machine Learning for Knowledge Graphs",
+      "Proceedings of the IEEE",
+      "https://doi.org/10.1109/JPROC.2015.2483592"
+    ],
+    "nickerson98": [
+      "Raymond Nickerson",
+      "1998",
+      "Confirmation bias: A ubiquitous phenomenon in many guises",
+      "Review of General Psychology",
+      "https://doi.org/10.1037%2F1089-2680.2.2.175"
+    ],
+    "nissenbaum98": [
+      "Helen Nissenbaum",
+      "1998",
+      "Protecting Privacy in an Information Age: The Problem of Privacy in Public",
+      "Law and Philosphy",
+      "https://doi.org/10.2307/3505189"
+    ],
+    "nissenbaum04": [
+      "Helen Nissenbaum",
+      "2004",
+      "Privacy as contextual integrity",
+      "Washington Law Review",
+      "https://digitalcommons.law.uw.edu/wlr/vol79/iss1/10"
+    ],
+    "noble18": [
+      "Safiya Noble",
+      "2018",
+      "Algorithms of oppression: How search engines reinforce racism",
+      "NYU Press",
+      "https://www.google.com/books/edition/Algorithms_of_Oppression/-ThDDwAAQBAJ?hl=en"
+    ],
+    "öğütçü16": [
+      "Gizem Öğütçü, Özlem Müge Testik, and Oumout Chouseinoglou",
+      "2016",
+      "Analysis of personal information security behavior and awareness",
+      "Computers & Security",
+      "https://doi.org/10.1016/j.cose.2015.10.002"
+    ],
+    "okeefe18": [
+      "Paul A. O’Keefe, Carol S. Dweck, and Gregory M. Walton",
+      "2018",
+      "Implicit theories of interest: Finding your passion or developing it?",
+      "Psychological Science",
+      "https://doi.org/10.1177%2F0956797618780643"
+    ],
+    "olson09": [
+      "Gary M. Olson, Judith S. Olson",
+      "2009",
+      "Distance matters",
+      "Human-Computer Interaction",
+      "https://doi.org/10.1207/S15327051HCI1523_4"
+    ],
+    "oneil16": [
+      "Cathy O'Neil",
+      "2016",
+      "Weapons of math destruction: How big data increases inequality and threatens democracy",
+      "Broadway Books",
+      "https://www.google.com/books/edition/Weapons_of_Math_Destruction/cbwvDwAAQBAJ?hl=en"
+    ],
+    "padke20": [
+      "Shruti Phadke, Mattia Samory, and Tanushree Mitra",
+      "2020",
+      "What Makes People Join Conspiracy Communities? Role of Social Factors in Conspiracy Engagement",
+      "#CSCW",
+      "https://arxiv.org/abs/2009.04527"
+    ],
+    "page99": [
+      "Lawrence Page, Sergey Brin, Rajeev Motwani, Terry Winograd",
+      "1999",
+      "The PageRank citation ranking: Bringing order to the web",
+      "Stanford InfoLab",
+      "http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf"
+    ],
+    "palen07": [
+      "Leysia Palen, Sarah Vieweg, Jeannette Sutton, Sophia B. Liu, and Amanda Hughes",
+      "2007",
+      "Crisis informatics: Studying crisis in a networked world",
+      "Proceedings of the Third International Conference on E-Social Science",
+      "https://www.ics.uci.edu/~ucrec/pubs/upload/922_Palen2010.pdf"
+    ],
+    "parameswaran07": [
+      "Manoj Parameswaran, Andrew B. Whinston",
+      "2007",
+      "Social computing: An overview",
+      "Communications of the Association for Information Systems",
+      "https://doi.org/10.17705/1CAIS.01937"
+    ],
+    "pater16": [
+      "Jessica Pater, Moon K. Kim, Elizabeth D. Mynatt, and Casey Fiesler",
+      "2016",
+      "Characterizations of online harassment: Comparing policies across social media platforms",
+      "International Conference on Supporting Group Work",
+      "https://doi.org/10.1145/2957276.2957297"
+    ],
+    "patrick19": [
+      "Katie Patrick",
+      "2019",
+      "How to save the world",
+      "BLURB Incorporated",
+      "https://www.google.com/books/edition/How_to_Save_the_World/toUxxQEACAAJ?hl=en"
+    ],
+    "pentzold10": [
+      "Christian Pentzold",
+      "2010",
+      "Imagining the Wikipedia community: What do Wikipedia authors mean when they write about their ‘community’?",
+      "New Media & Society",
+      "https://doi.org/10.1177%2F1461444810378364"
+    ],
+    "pirolli07": [
+      "Peter Pirolli",
+      "2007",
+      "Information foraging theory: Adaptive interaction with information",
+      "Oxford University Press",
+      "https://www.google.com/books/edition/Information_Foraging_Theory_Adaptive_Int/LADEE_1fwLQC?hl=en"
+    ],
+    "pham15": [
+      "Vincent N. Pham",
+      "2015",
+      "Our foreign president Barack Obama: The racial logics of birther discourses",
+      "Journal of International and Intercultural Communication",
+      "https://doi.org/10.1080/17513057.2015.1025327"
+    ],
+    "plato72": [
+      "Plato",
+      -370,
+      "Phaesrus",
+      "Cambridge University Press",
+      "https://www.google.com/books/edition/Plato_Phaedrus/N6HRTHXlrE0C?hl=en"
+    ],
+    "pollack20": [
+      "Ari H. Pollack, Sonali R. Mishra, Calvin Apodaca, Maher Khelifi, Shefali Haldar, and Wanda Pratt",
+      "2020",
+      "Different roles with different goals: Designing to support shared situational awareness between patients and clinicians in the hospital",
+      "Journal of the American Medical Informatics Association",
+      "https://doi.org/10.1093/jamia/ocaa198"
+    ],
+    "ponniah11": [
+      "Paulraj Ponniah",
+      "2011",
+      "Data warehousing fundamentals for IT professionals",
+      "John Wiley & Sons",
+      "https://www.google.com/books/edition/Data_Warehousing_Fundamentals_for_IT_Pro/aIDjcF9r_hgC?hl=en"
+    ],
+    "potvin16": [
+      "Rachel Potvin, Josh Levenberg",
+      "2016",
+      "Why Google stores billions of lines of code in a single repository",
+      "Communications of the ACM",
+      "http://dx.doi.org/10.1145/2854146"
+    ],
+    "pray08": [
+      "Leslie A. Pray",
+      "2008",
+      "Discovery of DNA structure and function: Watson and Crick",
+      "Nature Education",
+      "https://www.nature.com/scitable/topicpage/discovery-of-dna-structure-and-function-watson-397/"
+    ],
+    "randell06": [
+      "Brian Randell, Peter YA Ryan",
+      "2006",
+      "Voting technologies and trust",
+      "IEEE Security & Privacy",
+      "https://doi.org/10.1109/MSP.2006.140"
+    ],
+    "ribes10": [
+      "David Ribes, Charlotte P. Lee",
+      "2010",
+      "Sociotechnical Studies of Cyberinfrastructure and e-Research: Current Themes and Future Trajectories",
+      "Computer Supported Cooperative Work",
+      "https://doi.org/10.1007/s10606-010-9120-0"
+    ],
+    "resnick94": [
+      "Paul Resnick, Neophytos Iacovou, Mitesh Suchak, Peter Bergstrom, and John Riedl",
+      "1994",
+      "GroupLens: an open architecture for collaborative filtering of netnews",
+      "#CSCW",
+      "https://doi.org/10.1145/192844.192905"
+    ],
+    "reyes18": [
+      "Irwin Reyes, Primal Wijesekera, Joel Reardon, Amit Elazari Bar On, Abbas Razaghpanah, Narseo Vallina-Rodriguez, and Serge Egelman",
+      "2018",
+      "\"Won’t somebody think of the children?\" Examining COPPA compliance at scale",
+      "Privacy Enhancing Technologies",
+      "https://doi.org/10.1515/popets-2018-0021"
+    ],
+    "riordan04": [
+      "M. Riordan",
+      "2004",
+      "The lost history of the transistor",
+      "IEEE spectrum",
+      "https://doi.org/10.1109/MSPEC.2004.1296014"
+    ],
+    "rocha13": [
+      "Rene R. Rocha, Tetsuya Matsubayashi",
+      "2013",
+      "The politics of race and voter ID laws in the states: The return of Jim Crow?",
+      "Political Research Quarterly",
+      "https://doi.org/10.1177%2F1065912913514854"
+    ],
+    "russell93": [
+      "Daniel Russell, Mark J. Stefik, Peter Pirolli, Stuard K. Card",
+      "1993",
+      "The cost structure of sensemaking",
+      "ACM Conference on Human Factors in Computing Systems",
+      "https://doi.org/10.1145/169059.169209"
+    ],
+    "roos06": [
+      "Wynand P. Roos, and Bernd Kaina",
+      "2006",
+      "DNA damage-induced cell death by apoptosis",
+      "Trends in molecular medicine",
+      "https://doi.org/10.1016/j.molmed.2006.07.007"
+    ],
+    "rosen11": [
+      "Jeffrey Rosen",
+      "2011",
+      "The right to be forgotten",
+      "Stanford Law Review",
+      null
+    ],
+    "rosenfeld02": [
+      "Louis Rosenfeld, Peter Morville",
+      "2002",
+      "Information architecture for the world wide web",
+      "O'Reilly Media, Inc.",
+      "https://www.google.com/books/edition/Information_Architecture_for_the_World_W/hLdcLklZOFAC?hl=en"
+    ],
+    "rousseau12": [
+      "Jean-Jacques Rousseau, John H. Moran, Johann Gottfried Herder, Alexander Gode",
+      "2012",
+      "On the Origin of Language",
+      "University of Chicago Press",
+      "https://www.google.com/books/edition/On_the_Origin_of_Language/596NDwAAQBAJ?hl=en"
+    ],
+    "rowley07": [
+      "Jennifer Rowley",
+      "2007",
+      "The wisdom hierarchy: representations of the DIKW hierarchy",
+      "Journal of Information and Communication",
+      "https://doi.org/10.1177%2F0165551506070706"
+    ],
+    "russell53": [
+      "Bertrand Russell",
+      "1953",
+      "The impact of science on society",
+      "Routledge",
+      "https://www.google.com/books/edition/The_Impact_of_Science_on_Society/vEv7CwAAQBAJ?hl=en"
+    ],
+    "sandel10": [
+      "Michael J. Sandel",
+      "2010",
+      "Justice: What's the right thing to do?",
+      "Macmillan",
+      "https://www.google.com/books/edition/Justice/BrdNDG7TTUEC?hl=en"
+    ],
+    "samaha16": [
+      "Samaha, M., & Hawi, N. S.",
+      "2016",
+      "Relationships among smartphone addiction, stress, academic performance, and satisfaction with life",
+      "Computers in Human Behavior",
+      "https://doi.org/10.1016/j.chb.2015.12.045"
+    ],
+    "saravanan09": [
+      "Manavalan Saravanan, Balaraman Ravindran, and Shivani Raman",
+      "2009",
+      "Improving legal information retrieval using an ontological framework",
+      "Artificial Intelligence and Law",
+      "http://doi.org/10.1007/s10506-009-9075-y"
+    ],
+    "schatz10": [
+      "Michael C. Schatz, Ben Langmead, Steven L. Salzberg",
+      "2010",
+      "Cloud computing and the DNA data race",
+      "Nature Biotechnology",
+      "https://doi.org/10.1038/nbt0710-691"
+    ],
+    "schiff16": [
+      "Gordon D. Schiff, and Laura Zucker",
+      "2016",
+      "Medical scribes: salvation for primary care or workaround for poor EMR usability?",
+      "Journal of General Internal Medicine",
+      "https://doi.org/10.1007/s11606-016-3788-x"
+    ],
+    "schwartz06": [
+      "Kendra L. Schwartz, Thomas Roe, Justin Northrup, James Meza, Raouf Seifeldin, and Anne Victoria Neale",
+      "2006",
+      "Family medicine patients’ use of the Internet for health information: a MetroNet study",
+      "The Journal of the American Board of Family Medicine",
+      "https://doi.org/10.3122/jabfm.19.1.39"
+    ],
+    "scheibehenne10": [
+      "Benjamin Scheibehenne, Rainer Greifender, Peter M. Todd",
+      "2010",
+      "Can There Ever Be Too Many Options? A Meta‐Analytic Review of Choice Overload",
+      "Journal of Consumer Research",
+      "https://doi.org/10.1086/651235"
+    ],
+    "schermerhorn11": [
+      "John R. Schermerhorn, Jr., Richard N. Osborn, Mary Uhl-Bien, James G. Hunt",
+      "2011",
+      "Organizational Behavior",
+      "Wiley",
+      "https://www.google.com/books/edition/Organizational_Behavior/8eRtuZeIguIC?hl=en"
+    ],
+    "schudson81": [
+      "Michael Schudson",
+      "1981",
+      "Discovering the news: A social history of American newspapers",
+      "Basic Books",
+      "https://www.google.com/books/edition/Discovering_The_News/uLois7_nNMgC?hl=en"
+    ],
+    "shannon48": [
+      "Claude E. Shannon",
+      "1948",
+      "A mathematical theory of communication",
+      "The Bell System Technical Journal",
+      "https://doi.org/10.1002/j.1538-7305.1948.tb01338.x"
+    ],
+    "shetterly16": [
+      "Margot Lee Shetterly",
+      "2016",
+      "Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race",
+      "HarperCollins",
+      "https://www.google.com/books/edition/Hidden_Figures/_upVjgEACAAJ?hl=en"
+    ],
+    "shirky11": [
+      "Clay Shirky",
+      "2011",
+      "The political power of social media: Technology, the public sphere, and political change",
+      "Foreign Affairs",
+      "https://www.jstor.org/stable/25800379"
+    ],
+    "short76": [
+      "John Short, Ederyn Williams, Bruce Christie",
+      "1976",
+      "The Social Psychology of Telecommunications",
+      "John Wiley & Sons",
+      "https://www.google.com/books/edition/The_Social_Psychology_of_Telecommunicati/Ze63AAAAIAAJ?hl=en"
+    ],
+    "simon66": [
+      "Herbert A. Simon",
+      "1966",
+      "Administrative Behavior",
+      "Free Press",
+      "https://www.google.com/books/edition/Administrative_Behavior_4th_Edition/_obn42iD3mYC?hl=en"
+    ],
+    "simon69": [
+      "Herbert A. Simon",
+      "1963",
+      "The Sciences of the Artificial",
+      "MIT Press",
+      "https://www.google.com/books/edition/The_Sciences_of_the_Artificial/yYSkDwAAQBAJ?hl=en"
+    ],
+    "simon71": [
+      "Herbert A. Simon",
+      "1971",
+      "Designing Organizations for an Information-rich World",
+      "Johns Hopkins University Press",
+      "https://digitalcollections.library.cmu.edu/awweb/awarchive?type=file&item=33748"
+    ],
+    "simon72": [
+      "Herbert A. Simon",
+      "1972",
+      "Theories of bounded rationality",
+      "Decision and Organization",
+      null
+    ],
+    "simon78": [
+      "Herb A. Simon",
+      "1978",
+      "Information-processing theory of human problem solving",
+      "Handbook of learning and cognitive processes",
+      null
+    ],
+    "snorton17": [
+      "Riley C. Snorton",
+      "2017",
+      "Black on both sides: A racial history of trans identity",
+      "University of Minnesota Press",
+      "https://www.google.com/books/edition/Black_on_Both_Sides/_il0DwAAQBAJ?hl=en"
+    ],
+    "spencer16": [
+      "Steven J. Spencer, Christine Logel, and Paul G. Davies",
+      "2016",
+      "Stereotype threat",
+      "Annual Review of Psychology",
+      "https://doi.org/10.1146/annurev-psych-073115-103235"
+    ],
+    "starbird11": [
+      "Kate Starbird, Leysia Palen",
+      "2011",
+      "\"Voluntweeters\": self-organizing by digital volunteers in times of crisis",
+      "#CHI",
+      "https://doi.org/10.1145/1978942.1979102"
+    ],
+    "starbird19": [
+      "Kate Starbird, Ahmer Arif, Tom Wilson",
+      "2019",
+      "Disinformation as collaborative work: Surfacing the participatory nature of strategic information operations",
+      "Proceedings of the ACM on Human-Computer Interaction",
+      "https://doi.org/10.1145/3359229"
+    ],
+    "starr14": [
+      "Sonja B. Starr",
+      "2014",
+      "Evidence-based sentencing and the scientific rationalization of discrimination",
+      "Stanford Law Review",
+      "https://heinonline.org/HOL/LandingPage?handle=hein.journals/stflr66&div=24&id=&page="
+    ],
+    "stokes07": [
+      "Jon Stokes",
+      "2007",
+      "Inside the Machine: An Illustrated Introduction to Microprocessors and Computer Architecture",
+      "No Starch Press",
+      "https://www.google.com/books/edition/Inside_the_Machine/Q1zSIarI8xoC?hl=en&gbpv=0"
+    ],
+    "sundquist09": [
+      "Eric J. Sundquist",
+      "2009",
+      "King's Dream",
+      "Yale University Press",
+      "https://www.google.com/books/edition/King_s_Dream/uinGXcRLlewC?hl=en"
+    ],
+    "sweet19": [
+      "Paige L. Sweet",
+      "2019",
+      "The sociology of gaslighting",
+      "American Sociological Review",
+      "https://doi.org/10.1177%2F0003122419874843"
+    ],
+    "taneja14": [
+      "Harsh Taneja, Angela Xiao Wu",
+      "2014",
+      "Does the Great Firewall really isolate the Chinese? Integrating access blockage with cultural factors to explain Web user behavior",
+      "The Information Society",
+      "https://doi.org/10.1080/01972243.2014.944728"
+    ],
+    "teevan11": [
+      "Jaime Teevan, William P. Jones",
+      "2011",
+      "Personal Information Management",
+      "University of Washington Press",
+      "https://www.google.com/books/edition/Personal_Information_Management/pJkS9uRo00IC?hl=en"
+    ],
+    "toth18": [
+      "Michal Tóth, Roman Chytilek",
+      "2018",
+      "Fast, frugal and correct? An experimental study on the influence of time scarcity and quantity of information on the voter decision making process",
+      "Public Choice",
+      "https://doi.org/10.1007/s11127-018-0587-4"
+    ],
+    "toyama15": [
+      "Kentaro Toyama",
+      "2015",
+      "Geek heresy: Rescuing social change from the cult of technology",
+      "PublicAffairs",
+      "https://www.google.com/books/edition/Geek_Heresy/2w6CBgAAQBAJ?hl=en"
+    ],
+    "trowbridge19": [
+      "John Trowbridge, Robert Weller, Deborah Kelley, Edward Dever, Albert Plueddemann, John A. Barth, and Orest Kawka",
+      "2019",
+      "The Ocean Observatories Initiative",
+      "Frontiers in Marine Science",
+      "https://doi.org/10.3389/fmars.2019.00074"
+    ],
+    "tsai16": [
+      "Cheng-ting Tsai, Peter V. Robinson, Carole A. Spencer, and Carolyn R. Bertozzi",
+      "2016",
+      "Ultrasensitive Antibody Detection by Agglutination-PCR (ADAP)",
+      "ACS Central Science",
+      "https://pubs.acs.org/doi/abs/10.1021/acscentsci.5b00340?source=cen"
+    ],
+    "tukey62": [
+      "John W. Tukey",
+      "1962",
+      "The future of data analysis",
+      "The annals of mathematical statistics",
+      "https://www.jstor.org/stable/2237638"
+    ],
+    "turkle11": [
+      "Sherry Turkle",
+      "2011",
+      "Alone together: Why we expect more from technology and less from ourselves",
+      "MIT Press",
+      "https://www.google.com/books/edition/Alone_Together/hc7SYAPVlXwC?hl=en"
+    ],
+    "tyler10": [
+      "Sarah K. Tyler, Jaime Teevan",
+      "2010",
+      "Large scale query log analysis of re-finding",
+      "ACM International Conference on Web Search and Data Mining",
+      "https://doi.org/10.1145/1718487.1718512"
+    ],
+    "vanduyn20": [
+      "Emily Van Duyn",
+      "2020",
+      "Mainstream Marginalization: Secret Political Organizing Through Social Media",
+      "Social Media+ Society",
+      "https://doi.org/10.1177%2F2056305120981044"
+    ],
+    "varotto17": [
+      "Alessandra Varotto, and Anna Spagnolli",
+      "2017",
+      "Psychological strategies to promote household recycling. A systematic review with meta-analysis of validated field interventions",
+      "Journal of Environmental Psychology",
+      "https://doi.org/10.1016/j.jenvp.2017.03.011"
+    ],
+    "vieweg10": [
+      "Sarah Vieweg, Amanda L. Hughes, Kate Starbird, and Leysia Palen",
+      "2010",
+      "Microblogging during two natural hazards events: what twitter may contribute to situational awareness",
+      "#CHI",
+      "https://doi.org/10.1145/1753326.1753486"
+    ],
+    "vitak12": [
+      "Jessica Vitak",
+      "2012",
+      "The impact of context collapse and privacy on social network site disclosures",
+      "Journal of Broadcasting & Electronic Media",
+      "https://doi.org/10.1080/08838151.2012.732140"
+    ],
+    "vizer19": [
+      "Lisa M. Vizer, Jordan Eschler, Bon Mi Koo, James Ralston, Wanda Pratt, and Sean Munson",
+      "2019",
+      "“It’s Not Just Technology, It’s People”: Constructing a Conceptual Model of Shared Health Informatics for Tracking in Chronic Illness Management",
+      "Journal of Medical Internet Research",
+      "https://doi.org/10.2196/10830"
+    ],
+    "watson07": [
+      "Hugh J. Watson, Barbara H. Wixom",
+      "2007",
+      "The current state of business intelligence",
+      "IEEE Computer",
+      "https://doi.org/10.1109/MC.2007.331"
+    ],
+    "weart03": [
+      "S. Weart",
+      "2003",
+      "The Discovery of Global Warming",
+      "Harvard University Press",
+      "https://www.google.com/books/edition/The_Discovery_of_Global_Warming/zcr3WJ4wP10C?hl=en&gbpv=0"
+    ],
+    "wenger99": [
+      "Etienne Wenger",
+      "1999",
+      "Communities of Practice: Learning, Meaning, and Identity",
+      "Cambridge University Press",
+      "https://www.google.com/books/edition/Communities_of_Practice/heBZpgYUKdAC?hl=en"
+    ],
+    "west18": [
+      "Sarah Myers West",
+      "2018",
+      "Censored, suspended, shadowbanned: User interpretations of content moderation on social media platforms",
+      "New Media & Society",
+      "https://doi.org/10.1177%2F1461444818773059"
+    ],
+    "whittaker11": [
+      "Steve Whittaker, Tara Matthews, Julian Cerruti, Hernan Badenes, and John Tang",
+      "2011",
+      "Am I wasting my time organizing email? A study of email refinding",
+      "#CHI",
+      "https://doi.org/10.1145/1978942.1979457"
+    ],
+    "williams00": [
+      "Laurie A. Williams, Robert R. Kessler",
+      "2000",
+      "All I really need to know about pair programming I learned in kindergarten",
+      "Communications of the ACM",
+      "https://doi.org/10.1145/332833.332848"
+    ],
+    "wilson97": [
+      "Tom D. Wilson",
+      "1997",
+      "Information behaviour: an interdisciplinary perspective",
+      "Information Processing & Management",
+      "https://doi.org/10.1016/S0306-4573(97)00028-9"
+    ],
+    "wiseman18": [
+      "Sarah Wiseman, Sandy JJ Gould",
+      "2018",
+      "Repurposing emoji for personalised communication: Why🍕 means “I love you”",
+      "#CHI",
+      "https://doi.org/10.1145/3173574.3173726"
+    ],
+    "wolchok10": [
+      "Scott Wolchok, Eric Wustrow, J. Alex Halderman, Hari K. Prasad, Arun Kankipati, Sai Krishna Sakhamuri, Vasavya Yagati, and Rop Gonggrijp",
+      "2010",
+      "Security analysis of India's electronic voting machines",
+      "ACM Conference on Computer and Communications Security",
+      "https://doi.org/10.1145/1866307.1866309"
+    ],
+    "wu12": [
+      "Duojiao Wu, Catherine M. Rice, and Xiangdong Wang",
+      "2012",
+      "Cancer bioinformatics: A new approach to systems clinical medicine",
+      "BMC Bioinformatics",
+      "https://doi.org/10.1186/1471-2105-13-71"
+    ],
+    "yee03": [
+      "Ka-Ping Yee, Kirsten Swearingen, Kevin Li, and Marti Hearst",
+      "2003",
+      "Faceted metadata for image search and browsing",
+      "#CHI",
+      "https://doi.org/10.1145/642611.642681"
+    ],
+    "young95": [
+      "Davis A. Young",
+      "1995",
+      "The Biblical Flood: A Case Study of the Church's Response to Extrabiblical Evidence",
+      "University of Michigan",
+      "https://www.google.com/books/edition/The_Biblical_Flood/hL7YAAAAMAAJ?hl=en&gbpv=0"
+    ],
+    "zeleny05": [
+      "Milan Zeleny",
+      "2005",
+      "Human Systems Management: Integrating Knowledge, Management and Systems",
+      "World Scientific",
+      "https://www.google.com/books/edition/Human_Systems_Management/CHVqDQAAQBAJ?hl=en"
+    ],
+    "zeng08": [
+      "Marcia Lei Zeng",
+      "2008",
+      "Metadata",
+      "Neal-Schuman Publishers",
+      "https://dl.acm.org/doi/book/10.5555/1481677"
+    ],
+    "zhang06": [
+      "Zhiyong Zhang, Olfa Nasraoui",
+      "2006",
+      "Mining search engine query logs for query recommendation",
+      "ACM International Conference on World Wide Web",
+      "https://doi.org/10.1145/1135777.1136004"
+    ],
+    "zuboff19": [
+      "Shoshana Zuboff",
+      "2019",
+      "The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power",
+      "Public Affairs",
+      "https://www.google.com/books/edition/The_Age_of_Surveillance_Capitalism/lRqrDQAAQBAJ?hl=en"
+    ]
+  },
+  "glossary": {
+    "accesscontrol": {
+      "phrase": "accesscontrol",
+      "definition": "A system for making and enforcing promises about privacy."
+    },
+    "anarchy": {
+      "phrase": "anarchy",
+      "definition": "The absense of any form of government."
+    },
+    "augmentation": {
+      "phrase": "augmentation",
+      "definition": "The use of technology to improve or enhance human abilities."
+    },
+    "authentiction": {
+      "phrase": "authentiction",
+      "definition": "Verifying that one has authorization to access private data."
+    },
+    "authoritarian": {
+      "phrase": "authoritarianism",
+      "definition": "A system of government that centralizes power."
+    },
+    "authorization": {
+      "phrase": "authorization",
+      "definition": "Granting permission to access private data."
+    },
+    "automation": {
+      "phrase": "automation",
+      "definition": "The delegation of human action to technology, often for the purpose of efficiency or reliability."
+    },
+    "bits": {
+      "phrase": "bit",
+      "definition": "A binary value, often represented as either 1 or 0 or true or false."
+    },
+    "browsing": {
+      "phrase": "browsing",
+      "definition": "Exploring what information exists in an information system."
+    },
+    "capitalism": {
+      "phrase": "capitalism",
+      "definition": "A system of commerce organized by government to optimize trade and profit above all other concerns."
+    },
+    "centralization": {
+      "phrase": "centralization",
+      "definition": "Concentrating control over information or information systems to a small group of people."
+    },
+    "encryption": {
+      "phrase": "encryption",
+      "definition": "Encoding data with a secret so that it can only be read by those who possess the secret."
+    },
+    "info": {
+      "phrase": "information",
+      "definition": "The process of receiving, perceiving, and interpreting data into knowledge."
+    },
+    "integrity": {
+      "phrase": "conextual integrity",
+      "definition": "The degree to which the context of information is preserved in its presentation, distribution, and interpretation."
+    },
+    "context": {
+      "phrase": "context",
+      "definition": "Social, situational information that shapes the meaning of information being received."
+    },
+    "controlledvocab": {
+      "phrase": "controlled vocabulary",
+      "definition": "A fixed collection of terminology used to restrict word choice to ensure consistency and support browsing and searching."
+    },
+    "crawler": {
+      "phrase": "crawler",
+      "definition": "Software that navigates interlinked data collections to discover and index new documents."
+    },
+    "cx": {
+      "phrase": "customer experience",
+      "definition": "Educating customers about an information technology's functionality and use."
+    },
+    "data": {
+      "phrase": "data",
+      "definition": "Analog or digital symbols that someone might perceive in the world and ascribe meaning."
+    },
+    "democracy": {
+      "phrase": "democracy",
+      "definition": "A system of government that distributes power."
+    },
+    "design": {
+      "phrase": "design",
+      "definition": "The human activity of envisioning how to change the status quo into a more preferred one."
+    },
+    "datascience": {
+      "phrase": "data science",
+      "definition": "Using data and code to answer questions."
+    },
+    "dev": {
+      "phrase": "software engineering",
+      "definition": "Writing computer programs to implement a design."
+    },
+    "encoding": {
+      "phrase": "encoding",
+      "definition": "Rules that define the structure and syntax of data, enabling unambiguous interpretation and reliable storage and transmission."
+    },
+    "epistemology": {
+      "phrase": "epistemology",
+      "definition": "The study of how we know we know things."
+    },
+    "ethics": {
+      "phrase": "ethics",
+      "definition": "Systems of moral and questions and principles about human behavior."
+    },
+    "ia": {
+      "phrase": "information architecture",
+      "definition": "Organzing data and metadata to faciliate searching, browsing, and discovery."
+    },
+    "im": {
+      "phrase": "information management",
+      "definition": "The systematic and strategic collection, storage, retrieval, and analysis of information for some purpose."
+    },
+    "index": {
+      "phrase": "index",
+      "definition": "A data structure that organizes documents by one or more facets of their contents or metadata."
+    },
+    "infobe": {
+      "phrase": "information behavior",
+      "definition": "How people go about creating, finding, and interpreting information."
+    },
+    "interfaces": {
+      "phrase": "interfaces",
+      "definition": "A technology used to faciliate information creation, retrieval, searching, browsing, and/or analysis."
+    },
+    "interop": {
+      "phrase": "interoperability",
+      "definition": "The ability to move and translate data structures between different systems without losing data or changing its meaning."
+    },
+    "fixedintelligence": {
+      "phrase": "fixed intelligence",
+      "definition": "A false belief that one's intelligence is fixed at birth."
+    },
+    "fixedinterest": {
+      "phrase": "fixed interest",
+      "definition": "A false belief that one's interests are discovered rather than developed."
+    },
+    "forage": {
+      "phrase": "information foraging",
+      "definition": "The observation that humans rely on metadata cues in information environments to drive searching and browsing."
+    },
+    "graphicdesign": {
+      "phrase": "graphic design",
+      "definition": "Creating visual and typographic forms of information."
+    },
+    "knowledge": {
+      "phrase": "knowledge",
+      "definition": "An interconnected system of information in a mind."
+    },
+    "law": {
+      "phrase": "law",
+      "definition": "Policies enforced by governments."
+    },
+    "matrixofdom": {
+      "phrase": "matrix of domination",
+      "definition": "The system of culture, norms, and laws designed to maintain particular social hierarchies of power."
+    },
+    "metadata": {
+      "phrase": "metadata",
+      "definition": "Data about data, capturing its meaning and context."
+    },
+    "parse": {
+      "phrase": "parse",
+      "definition": "Algorithms for translating encoded data into representations suitable for analysis."
+    },
+    "pm": {
+      "phrase": "product management",
+      "definition": "Synthesizing design, engineering, marketing, and sales concerns into strategic choices about product behavior."
+    },
+    "policy": {
+      "phrase": "policy",
+      "definition": "Rules that restrict human behavior to some end."
+    },
+    "power": {
+      "phrase": "power",
+      "definition": "The capacity to influence and control others."
+    },
+    "privacy": {
+      "phrase": "privacy",
+      "definition": "Control over information about one's body and self."
+    },
+    "projectmanagement": {
+      "phrase": "project management",
+      "definition": "Organizing teams of people to work more productivity to meet deadlines."
+    },
+    "ranking": {
+      "phrase": "ranking",
+      "definition": "Ordering documents in a collection by relevance."
+    },
+    "regulations": {
+      "phrase": "regulations",
+      "definition": "Interpretations of law that enable enforcement."
+    },
+    "research": {
+      "phrase": "research",
+      "definition": "Answering questions that have not yet been answered by humanity."
+    },
+    "satisficing": {
+      "phrase": "satisficing",
+      "definition": "Human tendency to seek as little information as is necessary to decide, bounding rationality."
+    },
+    "search": {
+      "phrase": "searching",
+      "definition": "Attempting to retrieve particular information from an information system."
+    },
+    "searchengine": {
+      "phrase": "search engine",
+      "definition": "Software that translates queries into a collection of documents related to a query."
+    },
+    "security": {
+      "phrase": "security",
+      "definition": "Efforts to ensure agreements about privacy."
+    },
+    "sensemaking": {
+      "phrase": "sensemaking",
+      "definition": "The human process of gathering, interpreting, and synthesizing information into knowledge."
+    },
+    "stakeholder": {
+      "phrase": "stakeholder",
+      "definition": "Someone who might be directly or indirectly impacted by the creation of a new information technology."
+    },
+    "systems": {
+      "phrase": "information system",
+      "definition": "A process for coordinating people, data, and information technology in order to faciliate information creation, storage, and access."
+    },
+    "tagging": {
+      "phrase": "tagging",
+      "definition": "A system for enabling users of an information system to create descriptive metatdata for data."
+    },
+    "uxd": {
+      "phrase": "user experience design",
+      "definition": "Using design methods to envisioning products that meet needs."
+    },
+    "uxresearch": {
+      "phrase": "user experience research",
+      "definition": "Investigating how technology is currently used to reveal opportunities for how technology might better serve needs."
+    }
+  },
+  "theme": {
+    "imports": [
+      "https://fonts.googleapis.com/css2?family=Caveat&family=Piazzolla:ital,wght@0,300;0,700;1,300&display=swap"
+    ],
+    "light": {
+      "backgroundColor": "#FFFFFF",
+      "blockBackgroundColor": "#FCFAFA",
+      "errorBackgroundColor": "#F8D7DA",
+      "borderColorLight": "#E0E0E0",
+      "borderColorBold": "#000000",
+      "paragraphColor": "#000000",
+      "mutedColor": "#9AA1A7",
+      "highlightColor": "#3b92e4",
+      "commentColor": "#257F31",
+      "errorColor": "#721C24",
+      "linkColor": "#3b92e4",
+      "bulletColor": "#3b92e4"
+    },
+    "dark": {
+      "backgroundColor": "#141421",
+      "blockBackgroundColor": "#333333",
+      "errorBackgroundColor": "#721C24",
+      "borderColorLight": "#444444",
+      "borderColorBold": "#DADADA",
+      "paragraphColor": "#DADADA",
+      "mutedColor": "#666666",
+      "highlightColor": "#2b8ae3",
+      "commentColor": "#1c4722",
+      "errorColor": "#F8D7DA",
+      "linkColor": "#2b8ae3",
+      "bulletColor": "#2b8ae3"
+    },
+    "fonts": {
+      "paragraphFontFamily": "\"Piazzolla\", serif",
+      "headerFontFamily": "\"Caveat\", serif",
+      "codeFontFamily": "\"Courier New\", monospace",
+      "bulletFontFamily": "\"Caveat\", serif"
+    },
+    "sizes": {
+      "paragraphFontSize": "14pt",
+      "blockFontSize": "11pt",
+      "smallFontSize": "10pt",
+      "titleFontSize": "36pt",
+      "header1FontSize": "30pt",
+      "header2FontSize": "24pt",
+      "header3FontSize": "20pt",
+      "codeFontSize": "11pt"
+    },
+    "weights": {
+      "headerFontWeight": "700",
+      "paragraphFontWeight": "300",
+      "boldFontWeight": "700",
+      "linkFontWeight": "700",
+      "codeFontWeight": "400",
+      "bulletFontWeight": "300"
+    },
+    "spacing": {
+      "paragraphLineHeight": "2.2rem",
+      "paragraphLineHeightTight": "1.8em",
+      "headerLineHeight": "1.4em",
+      "paragraphSpacing": "1.8rem",
+      "headerSpacing": "2rem",
+      "indent": "10%",
+      "inlinePadding": "0.25rem",
+      "blockPadding": "1rem",
+      "roundedness": "5px"
+    }
+  }
 }
