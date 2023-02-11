@@ -1,7 +1,19 @@
+RewriteEngine On
+
 # Set the path to prepend to all rewrites.
+
 RewriteBase /ajko/books/foundations-of-information
 
-# Redirect all non-directory paths to index.html for single-page routing,
+# Remove the ending trailing slash from any requests to avoid resolving to directory listings
+
+RewriteRule ^(.*)/$ $1.html
+
+# Append .html to any requests with or without a trailing slash that resolve to a file with .html.
+
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.*)$ $1.html [L,QSA]
+
+# If we're processing a path that isn't a file or a directory, rewrite to index but preserve the query string.
+
 RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule (.*) index.html [L,QSA]
