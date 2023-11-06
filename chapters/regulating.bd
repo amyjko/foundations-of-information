@@ -25,10 +25,10 @@ Some policies become ~law~law, when they are written into legal language and pas
 One of the most active areas of policy and lawmaking has been privacy. Privacy, at least in U.S. constitutional law, as muddled origins. For example, the 4th amendment alludes to it, stating:
 
 "
-No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation. Everyone has the right to the protection of the law against such interference or attacks.
+The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.
 " U.S. Constitution
 
-This amendment is often interpreted as a right to privacy, though there is considerable debate about the meaning of the words "arbitrary" and "interference"; later decisions by the U.S. Supreme Court found that the Constitution grants a right to privacy against governmental intrusion, but not necessarily intrusion by other parties.
+This amendment is often interpreted as a right to privacy, though there is considerable debate about the meaning of the words "unreasonable" and "probable"; later decisions by the U.S. Supreme Court found that the Constitution grants a right to privacy against governmental intrusion, but not necessarily intrusion by other parties.
 
 Many governments, lacking explicit privacy rights, have passed laws granting them more explicitly. For example, in 1974, the U.S. government passed the Family Educational Rights and Privacy Act (FERPA), which gives parents access to their children's educational records up to the age of 18, but also protects all people's educational records, regardless of age, from disclosure without consent. This policy, of course, had unintended consequences: for example, it implicitly disallows things like peer grading, and only vaguely defines who _can_ have access to educational records within an educational institution. FERPA strongly shapes the information systems of schools, colleges, and universities, as it requires sophisticated mechanisms for securing educational records and tracking disclosure consents to prevent lawsuits.
 
