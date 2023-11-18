@@ -7,16 +7,13 @@ RewriteBase /ajko/books/foundations-of-information
 # Define missing mjs MIME type.
 AddType application/javascript .mjs
 
-# Remove the ending trailing slash from any requests to avoid resolving to directory listings
+# Redirect paths with trailing slash to paths without, then stop.
+RewriteRule ^(.*)/$ $1 [L,R=301]
 
-RewriteRule ^(.*)/$ $1.html
-
-# Append .html to any requests with or without a trailing slash that resolve to a file with .html.
-
+# Does adding .html to any requests resolve to a file with .html? Serve that with the query string, then stop.
 RewriteCond %{REQUEST_FILENAME}.html -f
 RewriteRule ^(.*)$ $1.html [L,QSA]
 
-# If we're processing a path that isn't a file or a directory, rewrite to index but preserve the query string.
-
+# If the filename is not a file, rewrite to index but preserve the query string.
 RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule (.*) 404.html [L,QSA]
+RewriteRule (.*) index.html [L,QSA]
