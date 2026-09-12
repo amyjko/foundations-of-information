@@ -1,0 +1,54 @@
+# Rebuild this book and publish it to UW hosting on every push to main.
+#
+# The build itself lives in bookish-reader, alongside the binder it runs, so a
+# fix there reaches every book without editing this file:
+# https://github.com/amyjko/bookish-reader/blob/main/PUBLISHING.md
+#
+# publish.sh still works and is still the way to preview locally
+# (`./publish.sh preview`) or to publish by hand.
+name: Publish
+
+'on':
+    push:
+        branches: [main]
+    workflow_dispatch:
+        inputs:
+            dry-run:
+                description: Build and report what would change, but upload nothing.
+                type: boolean
+                default: false
+            reader-ref:
+                description: The bookish-reader ref to build with.
+                type: string
+                default: main
+
+# Half an upload is a broken book, so never cancel one that is already running.
+# GitHub keeps only the newest *queued* run, so the latest push still wins --
+# it just waits its turn.
+concurrency:
+    group: publish-${{ github.ref }}
+    cancel-in-progress: false
+
+# Only what the checkout needs. A called workflow cannot ask for more than this.
+permissions:
+    contents: read
+
+jobs:
+    publish:
+        uses: amyjko/bookish-reader/.github/workflows/publish-book.yml@main
+        with:
+            deploy: rsync
+            destination: ajko@ovid.u.washington.edu:public_html/books/foundations-of-information
+            # ovid answers on three addresses (128.208.60.197, .206 and .222),
+            # but all three present this one key. Host keys are public; check it
+            # with `ssh-keygen -F ovid.u.washington.edu -l`, which should print
+            # SHA256:1JWZss/4hCl7SbQ3iGwMywi5gadwxOKi4X54IkzkaUQ.
+            known-hosts: ovid.u.washington.edu ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIzbtYBmsa+BijAw18klnpd1i6dKzpJXYCqyuIQo9Z2L
+            # Apache reads the rewrite base and the extensionless-URL rules from
+            # here. Uploading without it would 404 every deep link.
+            extra-files: .htaccess
+            verify-url: https://faculty.washington.edu/ajko/books/foundations-of-information/
+            dry-run: ${{ inputs.dry-run == true }}
+            reader-ref: ${{ inputs.reader-ref || 'main' }}
+        secrets:
+            SSH_KEY: ${{ secrets.UW_SSH_KEY }}
